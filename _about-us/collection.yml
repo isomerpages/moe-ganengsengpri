@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School's Strategic Goals.md
       - History.md
       - Crest & Song.md
       - Vision, Mission & Values.md
