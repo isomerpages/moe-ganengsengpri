@@ -1,9 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
   - title: ABOUT US
-    url: /permalink
+    url: /about-us/history/
     sublinks:
       - title: History
+        url: /about-us/history/
+      - title: Crest & Song
         url: /permalink
   - title: Contact Us
     url: /contact-us/
