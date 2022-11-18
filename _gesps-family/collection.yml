@@ -2,5 +2,5 @@ collections:
   gesps-family:
     output: true
     order:
-      - Vice Principals.md
       - Principal.md
+      - Vice Principals.md
