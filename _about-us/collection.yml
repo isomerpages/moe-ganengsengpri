@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Environment.md
       - History.md
       - Crest & Song.md
       - Vision, Mission & Values.md
