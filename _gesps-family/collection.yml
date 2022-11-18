@@ -1,4 +1,5 @@
 collections:
   gesps-family:
     output: true
-    order: []
+    order:
+      - Principal.md
