@@ -2,9 +2,9 @@ collections:
   gesps-family:
     output: true
     order:
-      - Partners (SAC & PSG)/Parent Support Group (PSG).md
-      - Partners (SAC & PSG)/School Advisory Committee.md
       - Partners (SAC & PSG)/.keep
+      - Partners (SAC & PSG)/School Advisory Committee.md
+      - Partners (SAC & PSG)/Parent Support Group (PSG).md
       - Principal.md
       - Vice Principals.md
       - Steering Committee.md
