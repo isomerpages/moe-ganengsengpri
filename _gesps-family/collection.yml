@@ -2,7 +2,6 @@ collections:
   gesps-family:
     output: true
     order:
-      - Non Teaching Staff.md
       - Principal.md
       - Vice Principals.md
       - Steering Committee.md
@@ -14,3 +13,4 @@ collections:
       - Teachers/Primary Five.md
       - Teachers/Primary Six.md
       - Teachers/Non Form Teachers.md
+      - Non Teaching Staff.md
