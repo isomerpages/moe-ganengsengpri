@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - School Calendar.md
       - History.md
       - Crest & Song.md
       - Vision, Mission & Values.md
       - School's Strategic Goals.md
+      - School Calendar.md
