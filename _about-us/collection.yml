@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules/School Conduct.md
       - School Rules/Our School Rules.md
       - School Rules/.keep
       - History.md
