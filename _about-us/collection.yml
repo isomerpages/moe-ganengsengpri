@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Crest & Song.md
       - History.md
+      - Crest & Song.md
