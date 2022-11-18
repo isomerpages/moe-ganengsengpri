@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Information.md
       - History.md
       - Crest & Song.md
       - Vision, Mission & Values.md
       - School's Strategic Goals.md
       - School Calendar.md
       - School Environment.md
+      - School Information.md
