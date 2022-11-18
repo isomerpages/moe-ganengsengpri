@@ -6,8 +6,7 @@ third_nav_title: Teachers
 ---
 ## Primary One
 
-Class:
-------
+#### Class:
 
 **1 Self-Discipline**
 
