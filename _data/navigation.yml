@@ -20,9 +20,11 @@ links:
       - title: School Rules
         url: /about-us/School-Rules/our-sch-rules/
   - title: GESPS FAMILY
-    url: /permalink
+    url: /gesps-family/principal/
     sublinks:
       - title: Principal
+        url: /gesps-family/principal/
+      - title: Vice Principals
         url: /permalink
   - title: Contact Us
     url: /contact-us/
