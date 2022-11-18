@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - School Rules/Looking after the Environment.md
       - School Rules/.keep
       - School Rules/Our School Rules.md
       - School Rules/School Conduct.md
       - School Rules/Safety.md
+      - School Rules/Looking after the Environment.md
       - History.md
       - Crest & Song.md
       - Vision, Mission & Values.md
