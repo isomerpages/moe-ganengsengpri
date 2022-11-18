@@ -2,7 +2,7 @@ collections:
   gesps-family:
     output: true
     order:
-      - Teachers/.keep
       - Principal.md
       - Vice Principals.md
       - Steering Committee.md
+      - Teachers/.keep
