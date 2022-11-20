@@ -2,6 +2,7 @@ collections:
   featured:
     output: true
     order:
+      - Featured/Highlights.md
       - Featured/Environmental Policy.md
       - Featured/.keep
       - Banner Slider.md
