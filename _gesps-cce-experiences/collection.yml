@@ -1,4 +1,5 @@
 collections:
   gesps-cce-experiences:
     output: true
-    order: []
+    order:
+      - CCA/.keep
