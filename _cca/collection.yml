@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - CCA.md
-      - Aesthetics/Choir.md
       - Aesthetics/.keep
       - Aesthetics/Band.md
+      - Aesthetics/Choir.md
