@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - For Students.md
-      - For Parents/Student iCON Onboarding.md
       - For Parents/.keep
       - For Parents/PSLE FSBB Microsite.md
       - For Parents/Parent's Gateway.md
       - For Parents/Sexuality Education.md
+      - For Parents/Student iCON Onboarding.md
