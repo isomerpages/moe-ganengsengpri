@@ -2,10 +2,10 @@ collections:
   gesps-distinctive-experiences:
     output: true
     order:
-      - Signature Programmes.md
       - LLP/.keep
       - LLP/LLP.md
       - LLP/Exposure.md
       - LLP/Experience.md
       - LLP/Excellence.md
       - ALP.md
+      - Signature Programmes.md
