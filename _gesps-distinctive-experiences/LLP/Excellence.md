@@ -74,3 +74,13 @@ Click on the link to view the performance:  [The Virtual Stage - First Light](
 
 <p align="center">Our Principal, Mr Roy Lee, received a Certificate of Appreciation from MP Melvin Yong</p>
 
+<img src="/images/Item 2 - Radin Mas Choir Performance (LLP - Excellence).jpeg" style="width:85%">
+
+Choir Performance - Radin Mas National Day Celebration on Facebook Live   
+on 02 August 2020 with Member-of-Parliament Melvin Yong<br>
+Click on the link to view the performance: <br>
+[Choir Performance for Radin Mas National Day Celebration](https://youtu.be/uDyoo_GrGNg)
+
+**REQUIRE JACKSON'S INPUT VIDEO**
+
+<img src="/images/photo1668927495.jpeg" style="width:85%">
