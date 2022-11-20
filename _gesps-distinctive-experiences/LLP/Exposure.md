@@ -29,3 +29,33 @@ Platforms created will be:
 <img src="/images/Picture8-200x300.jpg" style="width:49%" align=left>
 <img src="/images/Picture7-200x300.png" style="width:49%" align=right>
 <br clear="left"><br>
+
+All students will be:  
+
+*   Enriched in their development for social and emotional competencies through the Arts
+*   Taking ownership of their arts learning
+
+Platforms created will be:
+
+*   Arts Jams
+*   School-level Performances
+*   School-level Exhibitions
+
+<img src="/images/CHR_5738-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/CHR_2564-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/Picture16-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/CHR_5857-150x150 (1).jpg" style="width:22%;margin-right:15px;" align = "left">  
+<br clear="left"><br>
+
+<img src="/images/Picture3-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/CHR_5977-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/CHR_6124-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/CHR_5595-1-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">
+<br clear="left"><br>
+
+<img src="/images/DHM-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/DHMP0037-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/DOQO4205-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/DPFTG9120-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+  
+<br clear="left">
