@@ -38,8 +38,6 @@ links:
         url: /gesps-family/alumni/
   - title: GESPS LEARNING EXPERIENCES
     collection: gesps-learning-experiences
-  - title: Contact Us
-    url: /contact-us/
   - title: GESPS DISTINCTIVE EXPERIENCES
     url: /permalink
     sublinks:
@@ -49,3 +47,5 @@ links:
         url: /permalink
       - title: Signature Programmes
         url: /permalink
+  - title: Contact Us
+    url: /contact-us/
