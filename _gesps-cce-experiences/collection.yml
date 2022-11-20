@@ -2,8 +2,8 @@ collections:
   gesps-cce-experiences:
     output: true
     order:
-      - Student Leadership.md
       - CCA/.keep
       - CCA/CCA.md
       - CCE Curriculum.md
       - Values In Action (VIA).md
+      - Student Leadership.md
