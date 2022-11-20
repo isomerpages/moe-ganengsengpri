@@ -57,5 +57,37 @@ Platforms created will be:
 <img src="/images/DHMP0037-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
 <img src="/images/DOQO4205-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
 <img src="/images/DPFTG9120-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-  
-<br clear="left">
+<br clear="left"><br>
+
+#### Aesthetics Week (Semester 1)
+
+<img src="/images/P1-Dance-1-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/P2-Dance-2-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/P1-Dance-2-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/P2-Dance-1-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<br clear="left"><br>
+
+<img src="/images/ArtsJam-2-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/ArtsJam-1-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/Art-Exhibition-1-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<img src="/images/Art-Exhibition-2-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
+<br clear="left"><br>
+
+<img src="/images/Art-Exhibition-3-150x150.jpg" style="width:22%;margin-right:15px;" align = "left"> 
+<br clear="left"><br>
+
+#### Aesthetics Week (Semester 2)
+
+<img src="/images/Aesthetics Week (sem 2).jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Aesthetics Week (sem 2)_2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Aesthetics Week (sem 2)_3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left"><br>
+
+<img src="/images/Aesthetics Week (sem 2)_4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Aesthetics Week (sem 2)_5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Aesthetics Week (sem 2)_6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left"><br>
+
+#### Aesthetics Week April - 2021
+
+**REQUIRE JACKSON'S INPUT VIDEO**
