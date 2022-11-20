@@ -11,7 +11,10 @@ description: ""
 <img src="/images/photo1668936875.jpeg" style="width:22%;margin-right:15px;" align = "left">  
 <br clear="left">
 
-|  |  |  |  |
-|:---:|---|---|---|
-| [Tan_Guek_Khim_Luvena@schools.gov.sg](mailto:Tan_Guek_Khim_Luvena@schools.gov.sg) | [Seah_Chiew_Suan@schools.gov.sg](mailto:Seah_Chiew_Suan@schools.gov.sg) | [Tay_Puay_Suan@schools.gov.sg](mailto:Tay_Puay_Suan@schools.gov.sg) | [tan_chay_hiang@schools.gov.sg](mailto:tan_chay_hiang@schools.gov.sg) |
-|  |  |  |  |
+**LEFT TO RIGHT**<br>
+[Tan_Guek_Khim_Luvena@schools.gov.sg](mailto:Tan_Guek_Khim_Luvena@schools.gov.sg)<br>
+[Seah_Chiew_Suan@schools.gov.sg](mailto:Seah_Chiew_Suan@schools.gov.sg)<br>
+[Tay_Puay_Suan@schools.gov.sg](mailto:Tay_Puay_Suan@schools.gov.sg)<br>
+[tan_chay_hiang@schools.gov.sg](mailto:tan_chay_hiang@schools.gov.sg)
+
+
