@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - CCA.md
-      - Aesthetics/Indian Dance.md
       - Aesthetics/.keep
       - Aesthetics/Band.md
       - Aesthetics/Choir.md
       - Aesthetics/Chinese Dance.md
       - Aesthetics/Malay Dance.md
+      - Aesthetics/Indian Dance.md
