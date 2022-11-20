@@ -41,40 +41,11 @@ Platforms created will be:
 *   School-level Performances
 *   School-level Exhibitions
 
-<img src="/images/CHR_5738-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/CHR_2564-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/Picture16-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/CHR_5857-150x150 (1).jpg" style="width:22%;margin-right:15px;" align = "left">  
-<br clear="left"><br>
-
-<img src="/images/Picture3-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/CHR_5977-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/CHR_6124-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/CHR_5595-1-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">
-<br clear="left"><br>
-
-<img src="/images/DHM-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/DHMP0037-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/DOQO4205-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/DPFTG9120-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<br clear="left"><br>
+<img src="/images/photo1668927289.jpeg" style="width:85%">
 
 #### Aesthetics Week (Semester 1)
 
-<img src="/images/P1-Dance-1-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/P2-Dance-2-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/P1-Dance-2-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/P2-Dance-1-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<br clear="left"><br>
-
-<img src="/images/ArtsJam-2-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/ArtsJam-1-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/Art-Exhibition-1-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<img src="/images/Art-Exhibition-2-150x150.jpg" style="width:22%;margin-right:15px;" align = "left">  
-<br clear="left"><br>
-
-<img src="/images/Art-Exhibition-3-150x150.jpg" style="width:22%;margin-right:15px;" align = "left"> 
-<br clear="left"><br>
+<img src="/images/photo1668927302.jpeg" style="width:85%">
 
 #### Aesthetics Week (Semester 2)
 
