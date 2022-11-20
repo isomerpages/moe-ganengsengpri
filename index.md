@@ -7,14 +7,10 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/f91eae373_192.jpeg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: ANNOUNCEMENT 1
+          description: P4 SBB & PSLE Scoring (PDF)
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
@@ -29,5 +25,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
