@@ -48,5 +48,29 @@ Platforms created will be:
 <img src="/images/Choir-1-300x169.jpeg" style="width:49%" align=right>
 <br clear="left"><br>
 
+<p align="center"> Art Club workshop on 3D Paint at National Library Board (NLB) Vivocity on 24 August 2019</p>
+<img src="/images/Art Club workshop on 3D Paint at National Library Board (NLB) Vivocity on 24 August 2019.jpg" style="width:49%" align=left>
+<img src="/images/Art Club workshop on 3D Paint for National Library Board (NLB) Vivocity on 24 August 2019_2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
 
+<p align="center"> Radin Mas National Day Dinner Performance  
+by Chinese Dance, Hip-Hop Dance and Circus-in-motion Group on 14 August 2019.  
+GOH: Minister of State, Ministry of Foreign Affairs  
+& Ministry of Social and Family Development Sam Tan</p>
+<img src="/images/Circus in motion Hip hop Dance.jpeg" style="width:49%" align=left>
+<img src="/images/Chinese Dance.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<p align="center">  Indian Dance Performance for Clean and Green Singapore Event at City Square Mall  
+on 16 November 2019 organised by National Environment Agency (NEA)</p>
+<img src="/images/Indian Dance Performance for Clean and Green Singapore Event.jpg" style="width:49%" align=left>
+<img src="/images/at City Sqaure Mall on 16 November 2019 organised by National Environment Agency (NEA)_2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+Choir Performance for SYF goes Online – The Virtual Stage on 18 July 2020  <br>
+Click on the link to view the performance:  [The Virtual Stage - First Light](https://www.youtube.com/watch?v=03swm1x_Q4s&list=PLRGFo1hZVPDmfi4xnQ2S_-3YpAoxK_81B&index=17)
+
+<img src="/images/Choir Performance (1).jpg" style="width:85%">
+
+<p align="center">Our Principal, Mr Roy Lee, received a Certificate of Appreciation from MP Melvin Yong</p>
 
