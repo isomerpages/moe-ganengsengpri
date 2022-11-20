@@ -61,10 +61,10 @@ links:
   - title: Contact Us
     url: /contact-us/contact-us/
   - title: QUICK LINKS
-    url: /permalink
+    url: /quick-links/for-students/
     sublinks:
       - title: For Students
-        url: /permalink
+        url: /quick-links/for-students/
       - title: For Parents
         url: /permalink
       - title: For Teachers
