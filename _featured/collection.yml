@@ -2,4 +2,5 @@ collections:
   featured:
     output: true
     order:
+      - Banner Slider.md
       - New Student Care Operator 2022.md
