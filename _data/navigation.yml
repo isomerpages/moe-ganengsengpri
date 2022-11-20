@@ -47,5 +47,16 @@ links:
         url: /gesps-distinctive-experiences/alp/
       - title: Signature Programmes
         url: /gesps-distinctive-experiences/sig-progs/
+  - title: GESPS CCE (CCA) EXPERIENCES
+    url: /permalink
+    sublinks:
+      - title: CCA
+        url: /permalink
+      - title: CCE Curriculum
+        url: /permalink
+      - title: Values In Action (VIA)
+        url: /permalink
+      - title: Student Leadership
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
