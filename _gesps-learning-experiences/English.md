@@ -140,3 +140,28 @@ P5        -           Persuasive Speech (prepared)
 P6        -           Persuasive Speech (prepared and impromptu)
 
 The students are taught to use their voice more effectively as they discover new ways to create and present the language. At the end of the oracy lessons, students take turns to showcase their oratorical skills before their classmates. It is always an enjoyable time as the class plays both audience and performer for the day.
+
+**B.**   **Learning Journeys**
+
+(i)    Integrated Learning Trails  
+
+Outside of the classroom, English learning in GESPS takes place in different contexts for authentic and integrated learning. In collaboration with the Mathematics and Science departments, the department designs and plans learning trails for Primary 4, 5 and 6 _GESPians_ each year so that they can apply their knowledge and skills learnt.
+
+At the same time, students are made to work in groups, developing their collaborative skills, as they go about the stations in the trail. Through differentiated activities, GESPians are empowered to demonstrate their language abilities as they interact with one another and in the real-world environment.
+
+(ii)    Language Arts Exposures through Theatre Experience
+
+To expose them to the use of language in the performing arts, the Primary 4 students get to attend a play or musical at a public theatre. Students are able to learn about Language Arts beyond the classroom. This theatre experience  allows students to watcha professional production, find out what goes behind the scene and opens their eyes to the world of creative language use, dramatisation, music and dance. In some instances, they even get to participate in the performance with the actors on stage!
+
+<figure>
+<img src="/images/LJ.jpg" style="width:70%">
+<figcaption> Audience participation in the play 'Mr Popper’s Penguins'
+ </figcaption>
+</figure>
+
+| **EL Syllabus 2010**<br><br>(Current) | **EL Syllabus 2020**<br><br>(NEW) |
+|:---:|---|
+| [English primary secondary express normal academic.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-secondary-express-normal-academic.pdf)**page not found** | [Primary\_els 2020 \_syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/primary_els-2020-_syllabus.pdf)**page not found** |
+| Last cohort 2019 Primary 1 | First cohort 2020 Primary 1 |
+|  |  |
+
