@@ -2,6 +2,7 @@ collections:
   featured:
     output: true
     order:
+      - Featured/Covid 19 (7) Practices of good habits (Poster).md
       - Featured/.keep
       - Featured/Environmental Policy.md
       - Featured/Highlights.md
