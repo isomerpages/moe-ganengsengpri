@@ -26,3 +26,8 @@ Systems are also put in place to further model and anchor environmental protecti
 
 Through these, the school aims to instill in our _GESPians_ and staff the desire and passion to care for our living environment by adopting an eco-friendly lifestyle.
 
+<img src="/images/pic4.png" style="width:27.5%;margin-right:15px;" align = "left">
+<img src="/images/pic5.png" style="width:27%;margin-right:15px;" align = "left">
+<img src="/images/pic6.png" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
