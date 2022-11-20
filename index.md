@@ -18,10 +18,10 @@ sections:
         - title: announcement 3
           description: FAQs for Covid-19 Infection SG
           url: https://www.moe.gov.sg/faqs-covid-19-infection
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: President's Scholar overcomes adversity
+      description: Click button below for more information
+      button: Click Here
+      url: https://www.straitstimes.com/singapore/parenting-education/presidents-scholar-overcomes-adversity-in-early-life-to-emerge-stronger
+      image: /images/straitstime.jpeg
 ---
