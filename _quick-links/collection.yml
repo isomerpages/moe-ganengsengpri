@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - For Students.md
+      - For Parents/Parent's Gateway.md
       - For Parents/PSLE FSBB Microsite.md
       - For Parents/.keep
