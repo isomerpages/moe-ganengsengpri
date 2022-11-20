@@ -2,8 +2,8 @@ collections:
   featured:
     output: true
     order:
-      - Featured/Highlights.md
-      - Featured/Environmental Policy.md
       - Featured/.keep
+      - Featured/Environmental Policy.md
+      - Featured/Highlights.md
       - Banner Slider.md
       - New Student Care Operator 2022.md
