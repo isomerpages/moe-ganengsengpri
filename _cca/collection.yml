@@ -2,8 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Clubs/Art Club.md
-      - Clubs/.keep
       - CCA.md
       - Aesthetics/.keep
       - Aesthetics/Band.md
@@ -11,3 +9,5 @@ collections:
       - Aesthetics/Chinese Dance.md
       - Aesthetics/Malay Dance.md
       - Aesthetics/Indian Dance.md
+      - Clubs/.keep
+      - Clubs/Art Club.md
