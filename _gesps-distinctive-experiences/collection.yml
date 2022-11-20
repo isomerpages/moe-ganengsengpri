@@ -2,4 +2,5 @@ collections:
   gesps-distinctive-experiences:
     output: true
     order:
+      - LLP/LLP.md
       - LLP/.keep
