@@ -24,4 +24,5 @@ sections:
       button: Click Here
       url: https://www.straitstimes.com/singapore/parenting-education/presidents-scholar-overcomes-adversity-in-early-life-to-emerge-stronger
       image: /images/straitstime.jpeg
+      alt: image
 ---
