@@ -11,9 +11,9 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENT 1
           description: P4 SBB & PSLE Scoring (PDF)
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+          url: https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Quick%20Links/For%20Parents/P4%20SBB%20and%20PSLE%20scoring%20sharing.pdf
+        - title: announcement 2
+          description: New Student Care Operator 2022
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
