@@ -1,4 +1,5 @@
 collections:
   featured:
     output: true
-    order: []
+    order:
+      - New Student Care Operator 2022.md
