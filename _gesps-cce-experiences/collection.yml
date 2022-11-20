@@ -2,6 +2,6 @@ collections:
   gesps-cce-experiences:
     output: true
     order:
-      - CCE Curriculum.md
       - CCA/.keep
       - CCA/CCA.md
+      - CCE Curriculum.md
