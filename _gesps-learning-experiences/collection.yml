@@ -2,5 +2,5 @@ collections:
   gesps-learning-experiences:
     output: true
     order:
-      - Mother Tongue.md
       - English.md
+      - Mother Tongue.md
