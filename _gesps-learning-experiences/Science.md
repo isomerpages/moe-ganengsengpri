@@ -29,5 +29,13 @@ Through these, the school aims to instill in our _GESPians_ and staff the desi
 <img src="/images/pic4.png" style="width:27.5%;margin-right:15px;" align = "left">
 <img src="/images/pic5.png" style="width:27%;margin-right:15px;" align = "left">
 <img src="/images/pic6.png" style="width:30%;margin-right:15px;" align = "left">
-
 <br clear="left">
+
+Students practice recycling and reusing through engaging in recess activities during the commemoration of Earth Day
+
+<img src="/images/pic7.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/pic8.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/pic9.png" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
+
+Mission Fighting Deforestation - Students learn about the importance of rainforest and the impact of deforestation and they take positive actions to fight deforestation.
