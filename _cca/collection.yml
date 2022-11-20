@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Sports/Floorball.md
       - Sports/.keep
       - Sports/Basketball.md
       - Sports/Badminton.md
+      - Sports/Floorball.md
       - CCA.md
       - Aesthetics/.keep
       - Aesthetics/Band.md
