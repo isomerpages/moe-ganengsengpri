@@ -2,6 +2,7 @@ collections:
   gesps-distinctive-experiences:
     output: true
     order:
+      - LLP/Excellence.md
       - LLP/.keep
       - LLP/LLP.md
       - LLP/Exposure.md
