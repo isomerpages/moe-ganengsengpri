@@ -2,9 +2,9 @@ collections:
   featured:
     output: true
     order:
-      - Featured/New Student Care Operator 2022.md
+      - Banner Slider.md
       - Featured/.keep
+      - Featured/New Student Care Operator 2022.md
       - Featured/Environmental Policy.md
       - Featured/Highlights.md
       - Featured/Covid 19 (7) Practices of good habits (Poster).md
-      - Banner Slider.md
