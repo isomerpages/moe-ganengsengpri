@@ -2,12 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Sports/.keep
-      - Sports/Basketball.md
-      - Sports/Badminton.md
-      - Sports/Floorball.md
-      - Sports/Football.md
-      - Sports/Sepak Takraw.md
       - CCA.md
       - Aesthetics/.keep
       - Aesthetics/Band.md
@@ -19,3 +13,9 @@ collections:
       - Clubs/Art Club.md
       - Clubs/Green Explorer Club.md
       - Clubs/Info Comm and Media Club.md
+      - Sports/.keep
+      - Sports/Basketball.md
+      - Sports/Badminton.md
+      - Sports/Floorball.md
+      - Sports/Football.md
+      - Sports/Sepak Takraw.md
