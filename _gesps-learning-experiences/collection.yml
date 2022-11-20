@@ -2,10 +2,10 @@ collections:
   gesps-learning-experiences:
     output: true
     order:
-      - Education Technology.md
       - English.md
       - Mother Tongue.md
       - Mathematics.md
       - Science.md
       - Physical Education.md
       - Aesthetics.md
+      - Education Technology.md
