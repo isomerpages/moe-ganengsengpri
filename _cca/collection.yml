@@ -2,10 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Brownies.md
-      - Uniformed Groups/Boys' Brigade.md
-      - Uniformed Groups/Scouts.md
       - CCA.md
       - Aesthetics/.keep
       - Aesthetics/Band.md
@@ -23,3 +19,7 @@ collections:
       - Sports/Floorball.md
       - Sports/Football.md
       - Sports/Sepak Takraw.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Scouts.md
