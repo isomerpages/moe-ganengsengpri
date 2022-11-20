@@ -60,3 +60,12 @@ links:
         url: /gesps-cce-experiences/sl/
   - title: Contact Us
     url: /contact-us/contact-us/
+  - title: QUICK LINKS
+    url: /permalink
+    sublinks:
+      - title: For Students
+        url: /permalink
+      - title: For Parents
+        url: /permalink
+      - title: For Teachers
+        url: /permalink
