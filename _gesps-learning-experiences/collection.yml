@@ -2,8 +2,8 @@ collections:
   gesps-learning-experiences:
     output: true
     order:
-      - Physical Education.md
       - English.md
       - Mother Tongue.md
       - Mathematics.md
       - Science.md
+      - Physical Education.md
