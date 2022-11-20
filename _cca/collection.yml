@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA.md
+      - Aesthetics/Malay Dance.md
       - Aesthetics/.keep
       - Aesthetics/Band.md
       - Aesthetics/Choir.md
