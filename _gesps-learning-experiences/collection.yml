@@ -2,6 +2,6 @@ collections:
   gesps-learning-experiences:
     output: true
     order:
-      - Mathematics.md
       - English.md
       - Mother Tongue.md
+      - Mathematics.md
