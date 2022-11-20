@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - For Teachers.md
       - For Students.md
       - For Parents/.keep
       - For Parents/PSLE FSBB Microsite.md
@@ -11,3 +10,4 @@ collections:
       - For Parents/Student iCON Onboarding.md
       - For Parents/Webpage & PDF Links.md
       - For Parents/FAQs.md
+      - For Teachers.md
