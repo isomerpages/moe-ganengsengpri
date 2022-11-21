@@ -2,6 +2,7 @@ collections:
   highlights-2019:
     output: true
     order:
+      - VIA Programmes.md
       - Prefects’ Investiture.md
       - Singapore Youth Festival (SYF) ART.md
       - Band’s performance at the Istana.md
