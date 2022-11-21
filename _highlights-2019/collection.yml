@@ -2,4 +2,5 @@ collections:
   highlights-2019:
     output: true
     order:
+      - Band’s performance at the Istana.md
       - Choir’s performance for the NLB opening at Vivocity.md
