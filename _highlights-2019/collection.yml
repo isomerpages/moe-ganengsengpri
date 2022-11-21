@@ -2,6 +2,7 @@ collections:
   highlights-2019:
     output: true
     order:
+      - Learning Fiesta 2019.md
       - VIA Programmes.md
       - Prefects’ Investiture.md
       - Singapore Youth Festival (SYF) ART.md
