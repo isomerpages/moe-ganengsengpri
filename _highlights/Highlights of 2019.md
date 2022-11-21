@@ -8,7 +8,7 @@ description: ""
 1 \. [Choir's performance for the NLB opening at Vivocity](/permalink/2019-point1/)<br>
 2 \. [Band’s performance at the Istana](/permalink/2019-point2/)<br>
 3. [Singapore Youth Festival (SYF) ART](/permalink/2019-point3/)<br>
-4. [Prefects’ Investiture](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/others/featured/highlights/highlights-of-2019/prefects-investiture-2019)
+4. [Prefects’ Investiture](/permalink/2019-point4/)<br>
 5. [VIA Programmes](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/others/featured/highlights/highlights-of-2019/via-programmes)
 6. [Learning Fiesta 2019](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/others/featured/highlights/highlights-of-2019/learning-fiesta-n-open-house-2019)
 7. [Aesthetics Week](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/others/featured/highlights/highlights-of-2019/aesthetics-week)
