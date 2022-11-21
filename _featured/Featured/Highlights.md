@@ -11,4 +11,4 @@ In Gan Eng Seng Primary School, our students are given the opportunity to partic
 **[Highlights of 2019](/highlights-2019/2019/)**<br>
 **[Highlights of 2018](/highlights/2018/)**<br>
 **[Highlights of 2017](/highlights/2017/)**<br>
-**[Highlights of 2016]**
+**[Highlights of 2016](/highlights/2016/)**
