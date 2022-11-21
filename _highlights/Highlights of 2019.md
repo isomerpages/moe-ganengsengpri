@@ -14,4 +14,4 @@ description: ""
 7. [Aesthetics Week](/permalink/2019-point7/)<br>
 8. [Choir Esplanade Performance](/permalink/2019-point8/)<br>
 9. [Outreach Programme by GEPSP Green Champs](/permalink/2019-point9/)<br>
-10. [Radin Mas National Day Dinner Performance by Chinese Dance, Hip-Hop Dance and Circus-in-motion Group](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/others/featured/highlights/highlights-of-2019/radin-mas-national-day-dinner-performance-by-chinese-dance-hip-hop-dance-and-circus-in-motion-group)
+10. [Radin Mas National Day Dinner Performance by Chinese Dance, Hip-Hop Dance and Circus-in-motion Group](/permalink/2019-point10/)
