@@ -6,8 +6,8 @@ description: ""
 ## Highlights of 2019
 
 1 \. [Choir's performance for the NLB opening at Vivocity](/permalink/2019-point1/)<br>
-2 \. [Band’s performance at the Istana](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/others/featured/highlights/highlights-of-2019/band-s-performance-at-the-istana)
-3. [Singapore Youth Festival (SYF) ART](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/others/featured/highlights/highlights-of-2019/syf-art)
+2 \. [Band’s performance at the Istana](/permalink/2019-point2/)<br>
+3. [Singapore Youth Festival (SYF) ART](/permalink/2019-point3/)<br>
 4. [Prefects’ Investiture](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/others/featured/highlights/highlights-of-2019/prefects-investiture-2019)
 5. [VIA Programmes](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/others/featured/highlights/highlights-of-2019/via-programmes)
 6. [Learning Fiesta 2019](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/others/featured/highlights/highlights-of-2019/learning-fiesta-n-open-house-2019)
