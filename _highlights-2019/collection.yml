@@ -1,4 +1,5 @@
 collections:
   highlights-2019:
     output: true
-    order: []
+    order:
+      - Highlights of 2019.md
