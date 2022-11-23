@@ -75,27 +75,27 @@ As students develop in their literacy, they undergo a skill-based curriculum tha
 
 Recognising literacy as the bedrock of learning, the school spares no effort in providing additional support for our students who are struggling with language learning.
 
-a) **Learning Support Programme (LSP)**
+**a) Learning Support Programme (LSP)**
 
 LSP is an early intervention programme designed by MOE and offered in all primary schools at Primary 1 and Primary 2 to provide additional support for students who enter Primary 1 with very little foundation in EL. Since the enhancement in 2007, the programme focuses on the following five components: alphabetic knowledge, knowledge of sound-letter correspondences, fluency, vocabulary, and reading comprehension. These components have been found by research to be critical in helping students in early primary grades learn to read and spell.
 
 Students are identified for LSP through a systematic screening process carried out at the beginning of Primary 1. The support is implemented in the form of a daily one-period pull out for small-group teaching. This support continues in Primary 2 unless the student has met the criteria for graduation at the end of Primary 1. LSP lessons are conducted only by trained Learning Support Coordinators (LSCs).
 
-b)  **School-based Dyslexia Remediation (SDR)**
+**b) School-based Dyslexia Remediation (SDR)**
 
 LSP students who have not met the graduation criteria at the end of Primary 2 are systematically screened for a reading disability, dyslexia. SDR provides specialised support in language learning for Primary 3 and Primary 4 students who have been diagnosed with dyslexia. This programme was introduced by MOE in 2012 with Gan Eng Seng Primary School being a pilot participant. SDR instructors undergo rigorous training to be equipped in providing this specialised support which takes place four times a week. Group size for teaching is kept very small to ensure individual attention so that each student may progress at his/her own pace. When these students learn the necessary skills to cope with their reading disability, they will be able to surmount obstacles in language learning to achieve new heights.
 
-c)    **Reading Remediation Programme (RRP)**
+**c) Reading Remediation Programme (RRP)**
 
 RRP was introduced by MOE in 2014, again with Gan Eng Seng Primary School as a pilot participant. The programme serves to provide continued support for LSP students at Primary 3 and Primary 4. It also identifies other students at these levels who need additional support in their language learning. RRP teachers receive training to be equipped with the necessary knowledge and skills for their small-group teaching, which focuses on word recognition, reading, spelling and reading comprehension.
 
-d)    **EL Remediation Programme**
+**d) EL Remediation Programme**
 
 Beyond the above programmes, the school has put in place EL Remediation for students who need additional support in language learning. These lessons take place after school in small groups. Besides working on selected skills and components, levelled readers are used to raise the oral reading fluency of these students.
 
 For struggling readers who find it difficult to keep up with the teaching and learning in the regular lessons, the school arranges for pull-out teaching to provide customised attention to these students. These teachers are usually have training in supporting lower progress learners in EL.
 
-e)    **EL Enrichment Programme**
+**e) EL Enrichment Programme**
 
 To further promote the joy of learning for the language, in 2021, selected students will be involved in an English Enrichment Programme designed by the school. The programme aims to motivate low progress students to learn English through games like Scattergories.
 
@@ -164,4 +164,3 @@ To expose them to the use of language in the performing arts, the Primary 4 stud
 | [English primary secondary express normal academic.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/english-primary-secondary-express-normal-academic.pdf)**page not found** | [Primary\_els 2020 \_syllabus.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/english-language-and-literature/files/primary_els-2020-_syllabus.pdf)**page not found** |
 | Last cohort 2019 Primary 1 | First cohort 2020 Primary 1 |
 |  |  |
-
