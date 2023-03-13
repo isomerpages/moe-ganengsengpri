@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Gan Eng Seng
+title: Gan Eng Seng Primary School
 description: An Isomer site of the Singapore Government
 image: /images/photo1668939236.jpeg
 permalink: /
@@ -30,3 +30,4 @@ sections:
       image: /images/straitstime.jpeg
       alt: image
 ---
+
