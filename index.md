@@ -4,10 +4,10 @@ title: Gan Eng Seng
 description: An Isomer site of the Singapore Government
 image: /images/photo1668939236.jpeg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Welcome to Gan Eng Seng Primary School!
 sections:
   - hero:
-      background: /images/f91eae373_192.jpeg
+      background: /images/Side Gate (Zoom BG).jpg
       key_highlights:
         - title: ANNOUNCEMENT 1
           description: P4 SBB & PSLE Scoring (PDF)
@@ -18,6 +18,8 @@ sections:
         - title: announcement 3
           description: FAQs for Covid-19 Infection SG
           url: https://www.moe.gov.sg/faqs-covid-19-infection
+      title: GESPS
+      subtitle: Learners with Grit, Citizens with Heart
   - infopic:
       title: President's Scholar overcomes adversity
       description: Click button below for more information
