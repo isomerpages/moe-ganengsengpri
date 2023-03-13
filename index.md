@@ -20,6 +20,8 @@ sections:
           url: https://www.moe.gov.sg/faqs-covid-19-infection
       title: GESPS
       subtitle: Learners with Grit, Citizens with Heart
+      button: Contact Us
+      url: /contact-us/
   - infopic:
       title: President's Scholar overcomes adversity
       description: Click button below for more information
