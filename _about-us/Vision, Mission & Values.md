@@ -11,7 +11,7 @@ _**Learners with Grit, Citizens with Heart**_
 
 #### Mission
 
-**_CARING AND INSPIRING._** Together, we will nurture all GESPians by providing a holistic education in a caring and positive learning environment to learn for life. We will instil in them sound values and equip them with future-ready skills and competencies to inspire others and make a difference.   
+**_CARING AND INSPIRING._** Together, we will nurture all *GESPians* by providing a holistic education in a caring and positive learning environment to learn for life. We will instil in them sound values and equip them with future-ready skills and competencies to inspire others and make a difference.   
 
 #### INSPIRE_  Values
 
