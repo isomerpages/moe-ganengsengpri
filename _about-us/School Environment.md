@@ -34,14 +34,5 @@ Click on the photo to view the school environment.
 **Indoor Sports Hall**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQBn5Jco6mgXCkM7mI_wjleL8S_ZEz2UEgNeLK-Iz_89vWMLc6S8H4cJaw0CWtJoE97L7LJQV_S04VW/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true"></iframe>
 
-**Bouldering Wall**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS26l7RHGYe0iFn9X0sT99KN5jfZ-beTwzkIfdWi4Xl4FqBhOT8Eeg1bbcgZlvtRgRL1vAOfW4mWQmC/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true"></iframe>
-
 **Dance Studio**
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQIx27oy59UuA5k9mQqwumLJd8roHoHTqf8XLKPf69LH-5G8183PesY1Tmrsi-dudJOs0oZmT1fmtTi/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-**CCA Room**
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQq1mcSP9asP3TVwEY2EgXo08q3D5hpmWSsxVP_raiqH58QI0J7FK3094H38Jfo4CNBcX_dLCO6fP4-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-**Arts Jam**
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQp6AX5dy7VvfVrYrOB9knWmlVILbxq9dTKwPLrpiiyWFpI49eMnwYlus-tpJP1NxAnCb3kBXho33k4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
