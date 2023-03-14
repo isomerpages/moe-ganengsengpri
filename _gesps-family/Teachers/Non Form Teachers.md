@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Teachers
 ---
 ## Non-form Teachers
-
-*  **[Ms Lee Kai Xin](mailto:Lee_Kai_Xin@schools.gov.sg)**
+|  |  |
+|:---:|---|
+| **Teacher | [Ms Lee Kai Xin](mailto:Lee_Kai_Xin@schools.gov.sg)**
 *  **[Mdm Nurasilah](mailto:nurasilah_shahzan@schools.gov.sg)**
 *  **[Mrs Yvonne Leow](mailto:cheak_beo_leng_yvonne@schools.gov.sg)**
 *  **[Mdm Chua Chee Hui](mailto:chua_chee_hui@schools.gov.sg)**
@@ -21,3 +22,4 @@ third_nav_title: Teachers
 *  **[Mrs Nathan](mailto:Kanapathipillai_Jayamalar@schools.gov.sg)**
 *  **[Ms Ng Heng Yuen](mailto:ng_heng_yuen@schools.gov.sg)**
 *  **[Mrs Kong Sim Guan](mailto:kong_sim_guan@schools.gov.sg)**
+| | |
