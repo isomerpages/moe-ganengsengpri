@@ -27,3 +27,7 @@ description: ""
 *   **[New PSLE Scoring System Explainer 1](https://go.gov.sg/psle-explainer-1) (YouTube video)**
 *   **[New PSLE Scoring System Explainer 2](https://go.gov.sg/psle-explainer-2) (YouTube video)**
 *   **[Post PSLE: Choosing a Secondary School](https://go.gov.sg/postpsle-choosing-a-secondary-school) (YouTube video)**
+
+**User Guides**
+* [**Updated Login to SLS**](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
+* [**Learn Together in SLS - Google Integration**](https://www.learning.moe.edu.sg/sls/students/user-guide/vle/student/Integration/AboutGoogle.html)
