@@ -8,9 +8,9 @@ description: ""
 **Portals**
 
 * [**Home-Based Learning**](https://sites.google.com/moe.edu.sg/gesps-hbl/home?authuser=1)
-* [**My SkillsFuture Student Portal**](https://www.myskillsfuture.sg/content/student/en/primary.html) **SITE CANT BE REACH**
-* [**Student Learning Space (SLS)**](https://vle.learning.moe.edu.sg/login) **SITE CANT BE REACH**
-* [**Instructions & FAQs**](/files/ORIGINAL-Student-Annexes-Instructions-and-FAQs-updated-29-Mar-1.pdf)
+* [**My SkillsFuture Student Portal**](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)
+* [**Student Learning Space (SLS)**](https://vle.learning.moe.edu.sg/login)
+
 
 **Reading Resources**
 
