@@ -29,15 +29,11 @@ An important part of learning is the transference of skills to others. IMC membe
 <img src="/images/Drones Competition 3.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-**Coding with Drones**
+**Coding with Drones** *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* **Photography**
 
-<img src="/images/Coding with drones 3.jpg" style="width:30%" align=left>
-<br clear="left"><br>
-
-**Photography**
-
-<img src="/images/Photography_2.jpg" style="width:85%">
-<br clear="left"><br>
+<img src="/images/Coding with drones 3.jpg" style="width:20%" align=left>
+<img src="/images/Photography_2.jpg" style="width:70%"align=right>
+<br clear="right"><br>
 
 <p align="center"> Green Explorers Club members in collaboration with Info-Comm Media Club to educate students and stakeholders on recycling.</p>
 
