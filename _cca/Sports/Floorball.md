@@ -6,8 +6,8 @@ third_nav_title: Sports
 ---
 ## Floorball
 
-**Teacher 1 I/C:** **[Mdm Lim Cheo Hwa](mailto:lim_cheo_hwa@schools.gov.sg)**<br>
-**Teacher 2 I/C:** **[Ms Hui Sou Kuin](mailto:hui_sou_kuin@schools.gov.sg)**
+**Teacher 1 I/C:** **[Ms Hui Sou Kuin](mailto:hui_sou_kuin@schools.gov.sg)**<br>
+**Teacher 2 I/C:** **[Mrs Margaret Lim](mailto:low_hong_mei_margaret@schools.gov.sg)**
 
 <img src="/images/floorball-clipart-8.jpg" style="width:49%" align=right>
 
