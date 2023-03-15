@@ -16,15 +16,14 @@ description: ""
 
 *   [**discoveReads**](http://www.nlb.gov.sg/discovereads/)
 *   [**Online Library**](https://ganengsengpri.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME)
-*   [**NLB ebooks Resource (Login required)**](http://eresources.nlb.gov.sg/main/Browse?browseBy=children) **SITE CANT BE REACH**
+*   [**NLB ebooks Resource (Login required)**](http://eresources.nlb.gov.sg/main/Browse?browseBy=children)
 
 **PSLE Resources**
 
-*   **[Changes to the PSLE Scoring and S1 Posting](https://www.youtube.com/watch?v=XNhLvEk_B90&t=12s) (YouTube video)**
 *   [**SchoolFinder Tool**](https://moe.gov.sg/schoolfinder)
-*   [**MySkillsFuture Portal**](https://go.gov.sg/exploreschools)
 *   [**PSLE-FSBB Microsite**](https://go.gov.sg/pslefsbb)
+*   [**Direct School Admission (DSA) - Sec Website**](https://www.moe.gov.sg/dsa-sec)
+*   **[Changes to the PSLE Scoring and S1 Posting](https://www.youtube.com/watch?v=XNhLvEk_B90&t=12s) (YouTube video)**
 *   **[New PSLE Scoring System Explainer 1](https://go.gov.sg/psle-explainer-1) (YouTube video)**
 *   **[New PSLE Scoring System Explainer 2](https://go.gov.sg/psle-explainer-2) (YouTube video)**
-*   [**Direct School Admission (DSA) - Sec Website**](https://www.moe.gov.sg/dsa-sec)
-*   **[Post PSLE: Choosing a Secondary School](https://www.youtube.com/watch?v=QxQYEFc1BB4&feature=youtu.be) (YouTube video)**
+*   **[Post PSLE: Choosing a Secondary School](https://go.gov.sg/postpsle-choosing-a-secondary-school) (YouTube video)**
