@@ -3,9 +3,6 @@ title: CCA
 permalink: /gesps-cce-experiences/CCA/cca/
 description: ""
 ---
-
-
-
 ## CCA
 
 #### P2 CCA Exposure Programme
@@ -13,7 +10,6 @@ description: ""
 [P2 CCA Exposure\_2022](https://ganengsengpri.moe.edu.sg/qql/slot/u206/GESPS%20CCE%20Experiences/P2%20CCA%20Exposure_2022_Final_School%20Website.pdf) (PDF) **PDF FILE EXCEEDS 5MB**
 
 Co-Curricular Activities (CCA) play a pivotal role in the holistic development of our students.
-
 It aims to:
 
 *   help our students excel in fitness and competitive sports;
