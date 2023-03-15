@@ -7,7 +7,7 @@ third_nav_title: Sports
 ## Sepak Takraw
 
 **Teacher 1 I/C:** **[Mr Thomas Lee](mailto:lee_tee_kai_thomas@schools.gov.sg)** <br>
-**Teacher 2 I/C:** **[Ms Nur Hanisah](mailto:nur_hanisah_mohd_johari_george@schools.gov.sg)**
+**Teacher 2 I/C:** **[Mrs Evelyn Loh](mailto:soh_hwee_lin@schools.gov.sg)**
 
 Sepak Takraw Club is our newest addition to our Sports CCA It is a sport that combines many different kicks, spikes, and serves. These range from basic ones that most beginners would be able to pick up easily, to the more acrobatic kinds that require long periods of training and practice to execute flawlessly. While it is quite similar to footvolley, the use of a rattan ball further requires our players to demonstrate greater control of their strength and flexibility.
 
