@@ -10,25 +10,25 @@ third_nav_title: Teachers
 
 **1 Self-Discipline**
 
-*   Form Teacher: **[Ms Esther Goh](mailto:goh_yue_yin_esther@schools.gov.sg)**
-*   Form Teacher: **[Mdm Lim Cheo Hwa](mailto:Lim_Cheo_Hwa@schools.gov.sg)**
+*   Form Teacher: **[Mrs Dorcas Chan](mailto:koh_kah_fong_dorcas@schools.gov.sg)**
+*   Form Teacher: **[Mdm Nadiah](mailto:Nadiah_Sheik_Allahuddin@schools.gov.sg)**
 
 **1 Perseverance**
 
-*   Form Teacher: **[Ms Odelia Tiong](mailto:odelia_tiong_hui_xuan@schools.gov.sg)**
-*   Form Teacher: **[Mrs Quek-Tan Chia Ling](mailto:tan_chia_ling@schools.gov.sg)**
+*   Form Teacher: **[Ms Lim Seow Eng](mailto:lim_seow_eng@schools.gov.sg)**
+*   Form Teacher: **[Mdm Teo Siew Ping](mailto:Teo_Siew_Ping_Paulyne@schools.gov.sg)**
 
 **1 Inclusiveness**
 
-*   Form Teacher: **[Mdm Suriyah](mailto:Suriyah_Mohamed_Noor@schools.gov.sg)**
-*   Form Teacher: **[Mdm Cai Zhiying](mailto:Cai_Zhiying@schools.gov.sg)**
+*   Form Teacher: **[Mdm Tan Geok Kian](mailto:Tan_Geok_Kian@schools.gov.sg)**
+*   Form Teacher: **[Mdm Yu Yunyan](mailto:yu_yunyan@schools.gov.sg)**
 
 **1 Respect**  
 
-*   Form Teacher: **[Mrs Magaret Lim](mailto:Low_Hong_Mei_Margaret@schools.gov.sg)** 
-*   Form Teacher: **[Mrs Wan Ying  Xiu](mailto:tan_ying_xiu@schools.gov.sg)**
+*   Form Teacher: **[Ms Caroline Low](mailto:low_kwee_choo_caroline@schools.gov.sg)**
+*   Form Teacher: **[Mdm Florence Chew](mailto:chew_geok_fah@schools.gov.sg)**
 
 **1 Empathy**
 
-*   Form Teacher: **[Ms Patricia Goh](mailto:Goh_Ley_Hoon_Patricia@schools.gov.sg)**
-*   Form Teacher: **[Mrs Tang Yue Xing](mailto:kwan_yue_xing@schools.gov.sg)**
+*   Form Teacher: **[Mrs Angeline Ng](mailto:ong_ling_ling_angeline@schools,gov.sg)**
+*   Form Teacher: **[Mdm Khairyanie](mailto:Khairyanie_Kamsani@schools.gov.sg)**
