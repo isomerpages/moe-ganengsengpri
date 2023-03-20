@@ -45,12 +45,12 @@ GESPS is featured on MOE’s Facebook page. The Facebook post provides snapshots
 
 _<center>(Click on the picture view the post.)</center>_
 
+### We are Featured on Channel 8
 
+GESPS is featured on Channel 8’s current affairs show, Frontline. It showcases the programmes which the school designs to foster the joy of learning. These programmes are made possible due to the time freed up from the removal of mid-year exams.
 
+### Our Ex-GESPian Has Done Us Proud
 
-
-
-
-
+<img src="/images/Our%20Ex-GESPian%20Has%20Done%20Us%20Proud.jpeg" style="width:85%">
 
 
