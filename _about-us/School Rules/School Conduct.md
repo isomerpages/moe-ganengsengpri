@@ -14,17 +14,18 @@ Students must adhere to the following:
   
 i) School uniform  
 
-*   Boys must have their shirts tucked in at all times except the new design.
-*   Girls must have their pinafore worn with the belt.
+*   Students should be smartly attired in clean and ironed uniforms.
+*   Boys using the old uniform design must have their shirts tucked in at all times.
+*   Girls must wear their pinafore with the belt fastened.
 *   The name tag must be placed about 1 cm above the name of the school as shown in the pictures below.
 
-<img src="/images/photo1668802587.jpeg" style="width:85%">
+<img src="/images/Schoolconduct2023.png" style="width:85%">
 
 ii) School shoes and socks  
 
+*   Shoes must be plain black, clean and in good condition. Shoes shall not have stripes, lines, logos and coloured edges. Slippers/sandals are not allowed to be worn in school. 
 *   Only white socks are allowed and they must be worn visibly above the ankle.
-*   Shoes must be plain white and in good condition. Stripes, lines, logos, coloured edges, etc. are not allowed. Slippers/sandals are NOT allowed to be worn in school. 
-*   Student who are in sports CCAs are allowed to wear sports shoes on days that they have CCA and inter-school competitions but only with prior permission given by the teachers-in-charge.
+*   Students who are in sports CCAs are allowed to wear sports shoes on days that they have CCA and inter-school competitions but only with prior permission given by the teachers-in-charge.
 
 <img src="/images/Footwear 1.jpg" style="width:34%" align=left>
 <img src="/images/Footwear 2.jpg" style="width:49%" align=right>
@@ -86,4 +87,3 @@ School Uniform / P.E. Attire
 5 \. Punctuality
 
 *   Students must be in school on time for the singing of the national anthem and pledge taking.
-
