@@ -21,7 +21,6 @@ The hand symbolizes our pupils holding their future in their hands and the schoo
 
 #### School Song
 
-**REQUIRE JACKSON'S INPUT AUDIO**<br>
 _(Composer: Mr Ng Tian Hui; Lyrics by: Mr Eddie Foo and Ms Cindy Lee)_
 
 **Verse 1:**  
