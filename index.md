@@ -19,7 +19,7 @@ sections:
           description: FAQs for Covid-19 Infection SG
           url: https://www.moe.gov.sg/faqs-covid-19-infection
         - title: News @ GESPS
-          description: ""
+          description: Contents
           url: /news-at-gesps/
       title: GESPS
       subtitle: Learners with Grit, Citizens with Heart
