@@ -13,7 +13,6 @@ description: ""
 [tan_meng_fai_lester@schools.gov.sg](mailto:tan_meng_fai_lester@schools.gov.sg)<br>
 [chan_hoon_seah@schools.gov.sg](mailto:chan_hoon_seah@schools.gov.sg)
 
-<img src="/images/photo1668939070.jpeg" style="width:85%">
 
-**LEFT TO RIGHT**<br>
-[toh_lay_beng_diana@schools.gov.sg](mailto:toh_lay_beng_diana@schools.gov.sg)<br>
+
+
