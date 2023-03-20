@@ -13,7 +13,30 @@ The Text Recitation Competition for Primary and Secondary Schools is jointly org
 
 <img src="/images/photo%20of%20text%20recital%201.jpeg" style="width:45%" align=left>
 
+><img src="/images/GESPSTextRectical2.png" style="width:50%" align=right>
 
-<img src="/images/Page%2012%20-%20Black%20Shoes%20Side.jpeg" style="width:45%" align=right>
+<br clear="right"><br>
 
-<br clear="left"><br>
+### Raffles Liveable Cities Challenge 2022
+
+Our GESPS team comprising of Anand Magisha (P4 Integrity), Queenie Go (P5 Empathy) and Teo Ray Han (P6 Self Discipline) came in third place for the Raffles Liveable Cities Challenge’s ‘Water is Life’ poster-making competition. They created a poster to inform other about water and advocate for the importance of water conservation. (2022)
+
+<img src="/images/Science%20buskers%20judges%20choice%20award.jpeg" style="width:49%" align=left>
+
+<img src="/images/Science%20buskers%20most%20creative%20video%20award.jpeg" style="width:50%" align=right>
+
+<br clear="right"><br>
+
+### 8world feature on GESPS Applied Learning Programme (ALP) on Food Sustainability
+
+
+In this 8world feature on the range of Applied Learning Programmes and Lifelong Learning Programmes across different schools, Teo Ray Han (P6 Self Discipline) shares about what he learned from the school’s ALP on food sustainability, and how he applies it in his daily life. \[2022\]
+
+[部分小学设“城市农场”推行绿化项目 灌输食品可持续性概念- 8world](https://go.gov.sg/sg-primary-school-alp-llp-food-sustainability)
+
+
+
+
+
+
+
