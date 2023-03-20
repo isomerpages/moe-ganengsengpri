@@ -32,11 +32,14 @@ third_nav_title: For Parents
 \- [Primary 4 e-Meet The Parents (PDF)](/files/P4%20SBB%20and%20PSLE%20scoring%20sharing.pdf) - 2022<br>
 \- [P4 SBB and PSLE Scoring Sharing (PDF)](/files/2022%20P3%20P4%20e-MTP%2010%20Jan%20Consolidated%20(1).pdf) - 2022
 
+
 #### Primary 5
 
-\ - 
+\- [Primary 5 Meet The Parents (PDF)](/files/2023%20P5%20and%20P6%20MTP%20YH%2012%20Jan%20website.pdf) - **2023 NEW!** <br>
 \- [Primary 5 e-Meet The Parents (PDF)](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Home/Announcement/2022%20P5%20%20P6%20e-MTP%2013%20Jan%20Consolidated.pdf) - 2022 **PDF EXCEEDS 5MB**
 
 #### Primary 6
 
-[Primary 6 e-Meet The Parents (PDF)](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Home/Announcement/2022%20P5%20%20P6%20e-MTP%2013%20Jan%20Consolidated.pdf) - 2022 **PDF EXCEEDS 5MB**
+\- [Primary 6 Meet The Parents (PDF)](/files/2023%20P5%20and%20P6%20MTP%20YH%2012%20Jan%20website.pdf) - **2023 NEW!** <br>
+\- [Primary 6 e-Meet The Parents (PDF)](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Home/Announcement/2022%20P5%20%20P6%20e-MTP%2013%20Jan%20Consolidated.pdf) - 2022 **PDF EXCEEDS 5MB**
+
