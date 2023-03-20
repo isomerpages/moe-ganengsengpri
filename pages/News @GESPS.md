@@ -34,6 +34,20 @@ In this 8world feature on the range of Applied Learning Programmes and Lifelong 
 
 [部分小学设“城市农场”推行绿化项目 灌输食品可持续性概念- 8world](https://go.gov.sg/sg-primary-school-alp-llp-food-sustainability)
 
+### We are Featured on MOE's Facebook Page
+
+
+GESPS is featured on MOE’s Facebook page. The Facebook post provides snapshots of learning experiences in the school which are designed to connect what students learnt in class to the outside world.
+
+<a href="https://www.facebook.com/moesingapore/posts/pfbid0L3wxSSerVZwS7QQbWv6eKnQYxFKjFhuJk5dTn8kXSyGJsaxYW3KRg2fMKyMm5zzVl">
+<img src="/images/FB%20Post.jpeg" style="width:49%">
+</a>
+
+_<center>(Click on the picture view the post.)</center>_
+
+
+
+
 
 
 
