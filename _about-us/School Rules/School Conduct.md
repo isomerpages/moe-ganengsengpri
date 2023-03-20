@@ -27,31 +27,32 @@ ii) School shoes and socks
 *   Only white socks are allowed and they must be worn visibly above the ankle.
 *   Students who are in sports CCAs are allowed to wear sports shoes on days that they have CCA and inter-school competitions but only with prior permission given by the teachers-in-charge.
 
-<img src="/images/Footwear 1.jpg" style="width:34%" align=left>
-<img src="/images/Footwear 2.jpg" style="width:49%" align=right>
+<img src="/images/Page%2012%20-%20Black%20Shoes%20Front.jpeg" style="width:45%" align=left>
+
+<img src="/images/Page%2012%20-%20Black%20Shoes%20Side.jpeg" style="width:45%" align=right>
 <br clear="left"><br>
+
 
 iii) P.E. attire  
 
 *   Students are to wear only the official school P.E. attire during their P.E. lessons.
-*   After P.E. lessons, all P3 to P6 girls should put on their pinafore.
 *   P3-P6 students are allowed to wear their CCA T-shirts to school when they have CCAs on Friday afternoons.
 
 iv) Jewellery  
 
-*   Jewellery is not allowed except for simple ear studs for girls.
+*  *   Jewellery is <u>not</u> allowed except for small, simple ear studs for girls. Only one pair of ear studs are allowed to be worn at a time.
 
 v) Grooming  
 
-*   Make-up is not allowed.
-*   Fingernails must be kept short, clean and neat. No nail polish is allowed.
+*   Make-up is <u>not</u> allowed.
+*   Fingernails must be kept short, clean, neat and unvarnished.
 
 vi) Hairstyle  
 
-*   Hair must be kept neat and clean. Hair fringes should not touch the eyebrows.   
-*   Dyeing/tinting of hair is not allowed. 
+*   Hair must be kept neat and clean. Hair fringes should not touch the student's eyebrows.   
+*   Dyeing/tinting of hair is <u>not</u> allowed. 
 *   Girls with long hair that reaches their shoulders must tie their hair up with black or navy blue hair bands. They must keep their hair neatly in place and away from their face with black or navy blue hair clips. 
-*    Boys must have the hair on the sides and back of the head cut in a slope. The hair must not cover the ears or touch the back collar of their shirts.  The hair on the sides of the head must not be shaved short.
+*   Boys must have the hair on the sides and back of the head cut in a slope. The hair must <u>not</u> cover the ears or touch the back collar of their shirts.  The hair on the sides of the head must <u>not</u> be shaved very short while keeping the hair at the top of the head thick and long.
 
 Examples of acceptable hairstyles:
 
@@ -59,8 +60,7 @@ Examples of acceptable hairstyles:
 
 School Uniform / P.E. Attire
 
-<img src="/images/photo1668802794.jpeg" style="width:85%">
-<img src="/images/photo1668802826.jpeg" style="width:85%">
+![](/images/schoolconductattire2023.png)
 
 <p align="center">Our School Rules</p>
 
@@ -71,19 +71,20 @@ School Uniform / P.E. Attire
 *   Students are strongly discouraged from bringing mobile phones/ smartwatches/ electronic devices to school.
 
 *  * The school will not be responsible for any damage or loss of these devices and peripherals.
-*   * Students must switch off their mobile phones/ smartwatches during curriculum hours so as to ensure full attention during lessons.
-*  * In the case of an emergency, students are to seek the teacher's permission to make an urgent call.
+*   *  Mobile phones/ smartwatches with calling and recording functions such as video and photography capabilities must not be activated during curriculum hours so that students can be fully engaged in their lessons.
+*  *   In the case of an emergency, students should seek the teacher's permission to make an urgent call. After curriculum hours, students should only use their mobile phones outside the General Office, after obtaining permission from the office staff, or at the Main/Side gates.
 *  * Students caught breaking these rules will have their mobile phones confiscated by the school. A parent may be asked to come to school to claim the item.
 
 3 \. Looking After The Environment
 
-*   Students should only eat and drink in the canteen.  After eating, they must clear and return their plates and cutlery to the receptacles provided by the canteen operators.
+*   Students should only eat and drink in the canteen.  After eating, they must clear the table  and return their plates and cutlery to the receptacles provided by the canteen operators.
+
 *   Students must take care of school property and keep the school litter-free.
 
 4 \. Attendance
 
-*   Students must attend school regularly.  Medical certificates/parent’s letter for absence from school must be submitted to the Form Teacher the day the student returns to school.  
+*   Students must attend school regularly.  Medical certificates/parent’s letter for absence from school must be submitted to the Form Teacher the day the student returns to school. Parents/Guardians are encouraged to inform the Form Teacher of their child's/ward's absence by 7.30am.
 
 5 \. Punctuality
 
-*   Students must be in school on time for the singing of the national anthem and pledge taking.
+*   Students must be in school on time (by 7.30am) for the singing of the national anthem and pledge taking.
