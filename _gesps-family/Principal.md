@@ -5,10 +5,13 @@ description: ""
 ---
 ## Principal's Message
 
-<img src="/images/Mr Roy (edited).jpg" style="width:35%" align=left>
-2021 had been an extraordinary year for all of us with the COVID-19 pandemic. The learning in school was different with the cancellation of many out-of-school activities but we remained adaptable and innovative. We are able to this because of the strong culture of care and learning amongst the students and staff as well as the partnership we have with our parents and different stakeholders. So thank you all and we look forward to 2022 as we continue to provide all GESPians with a holistic education in a caring, safe and positive learning environment for them to learn for life.<br>
-**Our Vision: Learners with Grit, Citizens with Heart**<br>
-In 2020, we conducted various ‘Co-creating our Future’ conversations with our various stakeholders to envision what we would want to see in every _GESP_ian in six years’ time. We are happy to share our revised vision: “Learners with Grit, Citizens with Heart”. We want to instil in our students sound values and future-ready skills and competencies so that they can be passionate learners who will persevere on, despite the challenges they face. That’s GRIT. We want them to learn to care for others and make a difference in the school, family as well as the community they live in. That’s the Singapore Spirit we want to develop in our students.
+<img src="/images/Mr Roy (edited).jpg" style="width:35%; margin-right:20px; vertical-align:middle;" align=left>
+
+In Gan Eng Seng Primary School, we have a  strong culture of care and learning amongst the students and staff as well as the partnership we have with our parents and different stakeholders. So thank you all and we look forward to 2023 as we continue to provide all _GESPians_ with a holistic education in a caring, safe and positive learning environment for them to learn for life.<br>
+
+**_Our Vision: Learners with Grit, Citizens with Heart_**
+
+In 2020, we conducted various ‘Co-creating our Future’ conversations with our various stakeholders to envision what we would want to see in every _GESP_ians in six years’ time. We are happy to share our revised vision: “Learners with Grit, Citizens with Heart”. We want to instil in our students sound values and future-ready skills and competencies so that they can be passionate learners who will persevere on, despite the challenges they face. That’s GRIT. We want them to learn to care for others and make a difference in the school, family as well as the community they live in. That’s the Singapore Spirit we want to develop in our students.
 
 Educating a student is like growing a tree. It takes many years and “many hands” to grow a tree with deep roots. That is why we believe in building strong relationships with our parents and community partners to help our students be strongly anchored on sound character and values. Together, we grow the tree by providing a safe, supportive and conducive learning environment, and establishing a strong foundation of knowledge, skills and values.
 
@@ -24,7 +27,7 @@ However, the butterfly had a swollen body and small shrivelled wings. The little
 
 The butterfly spent the rest of its life crawling around with a swollen body and shrivelled wings. It never was able to fly…
 
-The boy then learned that **the butterfly was supposed to struggle**. In fact, the butterfly’s struggle to push its way through the tiny opening of the cocoon forces the fluid out of its body and into its wings. Without the struggle, the butterfly would never, ever fly. The boy’s good intentions actually hurt the butterfly.
+The boy then learned that **the butterfly was supposed to struggle**. In fact, the butterfly’s struggle to push its way through the tiny opening of the cocoon forces the fluid out of its body and into its wings. Without the struggle, the butterfly would never, ever fly. The boy’s good intentions actually hurt the butterfly.4
 
 <img src="/images/CCA Leaders.jpg" style="width:85%">
 
