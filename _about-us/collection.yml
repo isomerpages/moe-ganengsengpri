@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - History.md
       - Crest & Song.md
       - Vision, Mission & Values.md
@@ -15,3 +14,4 @@ collections:
       - School Rules/School Conduct.md
       - School Rules/Safety.md
       - School Rules/Looking after the Environment.md
+      - Contact Us.md
