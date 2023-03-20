@@ -8,22 +8,37 @@ third_nav_title: Teachers
 
 #### Class:
 
+**3 Integrity**  
+
+*   **Form Teacher: [Mrs Ariff](mailto:rabiah_bibi_ahmed_mitten@schools.gov.sg)**
+*   **Form Teacher: [Mrs Tang Yue Xing](mailto:kwan_yue_xing@schools.gov.sg)**
+
+  
+
+**3 Self-Discipline**  
+
+*   **Form Teacher: [Mrs Chin-Lee Siew Gin](mailto:Chin-lee_Siew_Gin@schools.gov.sg)**
+
+*   **Form Teacher: [Ms Siti Nuraisyah](mailto:Siti_nuraisyah_RAZALI@schools.gov.sg)**
+
+  
+
 **3 Perseverance**  
 
-*   Form Teacher: **[Ms Misliani](mailto:Misliani_Abdul_Ghani@schools.gov.sg)**
-*   Form Teacher: **[Ms Chong Chyi Ling](mailto:chong_chyi_ling@schools.gov.sg)**
+*   **Form Teacher: [Mr David Tan](mailto:tan_hong_meng_david@schools.gov.sg)**
+*   **Form Teacher: [Ms Adora Tan](mailto:tan_shi_ying_adora@schools.gov.sg)**
 
 **3 Inclusiveness**  
 
-*   Form Teacher: **[Ms Jess Chan](mailto:chan_hoon_seah@schools.gov.sg)**
-*   Form Teacher: **[Ms Jayne Leong](mailto:leong_hui_ling_jayne@schools.gov.sg)**
+*   **Form Teacher: [Mr Rashidi](mailto:muhammad_rashidi_ramli@schools.gov.sg)**
+*   **Form Teacher: [Ms Jeanie Chan](mailto:Jeanie_Chan_Wai_Peng@schools.gov.sg)**
 
 **3 Respect**  
 
-*   Form Teacher: **[Ms Nur Hanisah](mailto:nur_hanisah_mohd_johari_george@schools.gov.sg)**
-*   Form Teacher: **[Ms Jeanie Chan](mailto:Jeanie_Chan_Wai_Peng@schools.gov.sg)**
+*   **Form Teacher: [Mrs Evelyn Loh](mailto:soh_hwee_lin@schools.gov.sg)**
+*   **Form Teacher: [Mrs Sukumar](mailto:Subangkini_Sukumar@schools.gov.sg)**
 
 **3 Empathy**
 
-*   Form Teacher: **[Mdm Chen Hsueh Lien](mailto:chen_hsueh_lien@schools.gov.sg)**
-*   Form Teacher: **[Ms June Tay](mailto:tay_wee_hong@schools.gov.sg)**
+*   **Form Teacher: [Ms Hazel Sim](mailto:sim_geok_keow@schools.gov.sg)**
+*   **Form Teacher: [Ms Florence Teo](mailto:teo_mui_leng_florence@schools.gov.sg)**
