@@ -8,22 +8,35 @@ third_nav_title: Teachers
 
 #### Class:
 
+**5 Integrity**
+
+*   Form Teacher: **[Mdm Anglie Ng](mailto:Ng_Sor_Ling_Anglie@schools.gov.sg)**
+*   Form Teacher: **[Ms Johannah Fong](mailto:johannah_fong_yun_wen@schools.gov.sg)**
+
+**5 Self-Discipline**
+
+*   Form Teacher: **[Ms Jess Chan](mailto:chan_hoon_seah@schools.gov.sg)**
+*   Form Teacher: **[Mr Zheng Xu](mailto:Xu_Zheng@schools.gov.sg)**
+
 **5 Perseverance**  
 
-*   Form Teacher: **[Mr Goh Zhao Xiong](mailto:Goh_Zhao_Xiong@schools.gov.sg)**
-*   Form Teacher: **[Mdm Thenmulli](mailto:Thenmulli_Palaniappan@schools.gov.sg)**
+*   Form Teacher: **[Ms Regina Yip](mailto:yip_lai_kuan@schools.gov.sg)**
+*   Form Teacher: **[Mr Thomas Lee](mailto:lee_tee_kai_thomas@schools.gov.sg)**
 
 **5 Inclusiveness**
 
-*   Form Teacher: **[Mrs Lilian Lim](mailto:Ho_Lilian@schools.gov.sg)**
-*   Form Teacher: **[Mr David Tan](mailto:tan_hong_meng_david@schools.gov.sg)**
+*   Form Teacher: **[Mr Lester Tan](mailto:tan_meng_fai_lester@schools.gov.sg)**
+*   Form Teacher: **[Ms Adeline Goh](mailto:adeline_goh_pei_yin@schools.gov.sg)**
+*   Form Teacher: **[Ms A Aafreen](mailto:a_aafreen_fathima@schools.gov.sg)**
 
 **5 Respect**
 
-*   Form Teacher: **[Mdm Nandalayga](mailto:Nandalayga_A@schools.gov.sg)**
-*   Form Teacher: **[Ms Li Ying](mailto:Li_Ying@schools.gov.sg)**
+*   Form Teacher: **[Mdm Kee Hui Xiu](mailto:kee_hui_xiu@schools.gov.sg)**
+*   Form Teacher: **[Mrs Quek-Tan Chia Ling](mailto:tan_chia_ling@schools.gov.sg)**
 
 **5 Empathy**
 
 *   Form Teacher: **[Mr Gerald Say](mailto:say_tiong_sin_gerald@schools.gov.sg)**
-*   Form Teacher: **[Ms Uzaimah](mailto:Nur_uzaimah_FADZALI@schools.gov.sg)**
+*   Form Teacher: **[Ms Brina Tan](mailto:brina_tan@schools.gov.sg)**
+
+  
