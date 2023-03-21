@@ -26,10 +26,9 @@ sections:
       button: Contact Us
       url: /about-us/contact-us/
   - infopic:
-      title: President's Scholar overcomes adversity
-      description: Click button below for more information
       button: Click Here
-      url: https://www.straitstimes.com/singapore/parenting-education/presidents-scholar-overcomes-adversity-in-early-life-to-emerge-stronger
+      url: https://calendar.google.com/calendar/embed?src=ganengsengprimary%40gmail.com&ctz=Asia%2FSingapore
       image: /images/straitstime.jpeg
       alt: image
+      subtitle: School Calendar
 ---
