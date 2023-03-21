@@ -33,5 +33,5 @@ sections:
         scrolling="no"></iframe>'
       alt: School Calendar
       subtitle: School Calendar
-      image: /images/73-732949_empty-house-insurance-calendar-icon-transparent-transparent-background.png
+      image: /images/google-calendar-online-calendar-computer-icons-school-calender-icon-blue.jpg
 ---
