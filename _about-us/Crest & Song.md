@@ -22,7 +22,7 @@ The hand symbolizes our pupils holding their future in their hands and the schoo
 #### School Song
 
 <audio controls>
-			 <source src="https://go.gov.sg/school-song">
+			 <source src="https://file.go.gov.sg/school-song.avi">
 	</audio>
 
 
