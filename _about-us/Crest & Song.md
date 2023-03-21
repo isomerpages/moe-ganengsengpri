@@ -25,6 +25,7 @@ The hand symbolizes our pupils holding their future in their hands and the schoo
 			 <source src="https://go.gov.sg/school-song">
 	</audio>
 
+
 _(Composer: Mr Ng Tian Hui; Lyrics by: Mr Eddie Foo and Ms Cindy Lee)_
 
 **Verse 1:**  
