@@ -27,7 +27,10 @@ sections:
       url: /about-us/contact-us/
   - infopic:
       button: Click Here
-      url: https://calendar.google.com/calendar/embed?src=ganengsengprimary%40gmail.com&ctz=Asia%2FSingapore
-      alt: image
+      url: '<iframe
+        src="https://calendar.google.com/calendar/embed?src=ganengsengprimary%40gmail.com&ctz=Asia%2FSingapore"
+        style="border: 0" width="800" height="600" frameborder="0"
+        scrolling="no"></iframe>'
+      alt: School Calendar
       subtitle: School Calendar
 ---
