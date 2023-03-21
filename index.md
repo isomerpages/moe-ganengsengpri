@@ -12,9 +12,9 @@ sections:
         - title: P2 Meet The Parents 2023
           description: PDF
           url: https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Quick%20Links/For%20Parents/P2%20MTP%20Website.pdf
-        - title: announcement 2
-          description: New Student Care Operator 2022
-          url: /ann2/new-student-care-operator-2022/
+        - title: P3 & P4 e-Meet The Parents 2023
+          description: PDF
+          url: https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Quick%20Links/For%20Parents/2023%20P3%20and%20P4%20eMTP_10%20Jan%20for%20Website.pdf
         - title: announcement 3
           description: FAQs for Covid-19 Infection SG
           url: https://www.moe.gov.sg/faqs-covid-19-infection
