@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Side Gate (Zoom BG).jpg
       key_highlights:
-        - title: ANNOUNCEMENT 1
-          description: P4 SBB & PSLE Scoring (PDF)
-          url: https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Quick%20Links/For%20Parents/P4%20SBB%20and%20PSLE%20scoring%20sharing.pdf
+        - title: P2 Meet The Parents 2023
+          description: PDF
+          url: https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Quick%20Links/For%20Parents/P2%20MTP%20Website.pdf
         - title: announcement 2
           description: New Student Care Operator 2022
           url: /ann2/new-student-care-operator-2022/
