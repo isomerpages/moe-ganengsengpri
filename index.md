@@ -28,7 +28,6 @@ sections:
   - infopic:
       button: Click Here
       url: https://calendar.google.com/calendar/embed?src=ganengsengprimary%40gmail.com&ctz=Asia%2FSingapore
-      image: /images/straitstime.jpeg
       alt: image
       subtitle: School Calendar
 ---
