@@ -30,6 +30,6 @@ He died at the age of 55 in 1899.<br>
   
 **Gan Eng Seng Primary School** was formed from a merger of four primary schools – Alexandra Hill, Bukit Ho Swee, Henderson and Keng Seng.  <br>
   
-The school started on 2 January 2002 with more than 2600 pupils spanning all 6 levels.  <br>
+The school started on 2 January 2002 with more than 2600 pupils spanning all 6 levels.<br>
   
 On 11 September 2004, the school was officially declared opened by Dr Chong Weng Chiew, Member of Parliament for Tanjong Pagar GRC.
