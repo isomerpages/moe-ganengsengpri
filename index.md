@@ -25,13 +25,4 @@ sections:
       subtitle: Learners with Grit, Citizens with Heart
       button: Contact Us
       url: /about-us/contact-us/
-  - infopic:
-      button: Click Here
-      url: '<iframe
-        src="https://calendar.google.com/calendar/embed?src=ganengsengprimary%40gmail.com&ctz=Asia%2FSingapore"
-        style="border: 0" width="800" height="600" frameborder="0"
-        scrolling="no"></iframe>'
-      alt: School Calendar
-      subtitle: School Calendar
-      image: /images/google-calendar-online-calendar-computer-icons-school-calender-icon-blue.jpg
 ---
