@@ -10,7 +10,7 @@ sections:
       background: /images/Side Gate (Zoom BG).jpg
       key_highlights:
         - title: P2 Meet The Parents 2023
-          description: PDF
+          description: ""
           url: https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Quick%20Links/For%20Parents/P2%20MTP%20Website.pdf
         - title: P3 & P4 e-Meet The Parents 2023
           description: PDF
