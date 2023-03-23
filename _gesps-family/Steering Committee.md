@@ -5,13 +5,14 @@ description: ""
 ---
 ## Steering Committee
 
-<img src="/images/photo1668938074.jpeg" style="width:85%">
+<img src="/images/sc1.png" style="width:85%">
 
 **LEFT TO RIGHT**<br>
-[Tan_Guek_Khim_Luvena@schools.gov.sg](mailto:Tan_Guek_Khim_Luvena@schools.gov.sg)<br>
-[Seah_Chiew_Suan@schools.gov.sg](mailto:Seah_Chiew_Suan@schools.gov.sg)<br>
-[Tay_Puay_Suan@schools.gov.sg](mailto:Tay_Puay_Suan@schools.gov.sg)<br>
+[tan_guek_khim_luvena@schools.gov.sg](mailto:Tan_Guek_Khim_Luvena@schools.gov.sg)<br>
 [tan_chay_hiang@schools.gov.sg](mailto:tan_chay_hiang@schools.gov.sg)
+[seah_chiew_suan@schools.gov.sg](mailto:Seah_Chiew_Suan@schools.gov.sg)<br>
+[brina_tan@schools.gov.sg](mailto:brina_tan@schools.gov.sg)<br>
+
 
 <img src="/images/photo1668938131.jpeg" style="width:85%">
 
@@ -44,4 +45,3 @@ description: ""
 [tan_hong_meng_david@schools.gov.sg](mailto:tan_hong_meng_david@schools.gov.sg)<br>
 [nur_uzaimah_fadzali@schools.gov.sg](mailto:nur_uzaimah_fadzali@schools.gov.sg)<br>
 [ariel_lee@schools.gov.sg](mailto:ariel_lee@schools.gov.sg)
-
