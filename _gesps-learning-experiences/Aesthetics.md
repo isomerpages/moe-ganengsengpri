@@ -74,3 +74,7 @@ Music and Art are an integral part of the school curriculum. Aesthetics learnin
 2. Enrichment - Aesthetics Appreciation Week is at the end of each semester, Assembly Programmes, Other Art related learning journeys are some of the different ways we enrich our students in Art & Music.
 
 3. Excellence – The schools uses Aesthetics based CCAs (Art Club, Brass Band, Choir and Dances) to allow students to further develop their interest in the Arts.
+
+
+<img src="/images/aesthetics1.png" 
+     style="width:75%">
