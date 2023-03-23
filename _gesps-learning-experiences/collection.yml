@@ -2,7 +2,6 @@ collections:
   gesps-learning-experiences:
     output: true
     order:
-      - Talent Development Programme.md
       - English.md
       - Mother Tongue.md
       - Mathematics.md
@@ -10,3 +9,4 @@ collections:
       - Physical Education.md
       - Aesthetics.md
       - Education Technology.md
+      - Talent Development Programme.md
