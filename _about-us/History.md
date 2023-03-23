@@ -28,7 +28,7 @@ He died at the age of 55 in 1899.<br>
 
 **Formation of Gan Eng Seng Primary School – 2nd January 2002**  <br>
   
-<p align="justify">**Gan Eng Seng Primary Schoo** l was formed from a merger of four primary schools – Alexandra Hill, Bukit Ho Swee, Henderson and Keng Seng.</p>
+<p align="justify"> **Gan Eng Seng Primary Schoo**l was formed from a merger of four primary schools – Alexandra Hill, Bukit Ho Swee, Henderson and Keng Seng.</p>
   
 <p align="justify">The school started on 2 January 2002 with more than 2600 pupils spanning all 6 levels.</p>
   
