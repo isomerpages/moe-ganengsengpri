@@ -12,7 +12,7 @@ description: ""
 	
 *Hardworking and Persevering*:<br>
 	
-<p align="justify">Gan Eng Seng was born to a poor family in Malacca in 1844. He came to Singapore to seek his fortune at the age of 17. The only work he could find was selling nutmeg. Before long, he became an apprentice at Messrs Guthrie & Company. Undaunted by hardship or misfortune, he worked diligently. His excellent work performance brought him rapid promotions and by the age of 19, he was an Assistant Storekeeper. After he accumulated some money, he started his own business. His trade expanded not long after, he became one of the millionaires in Singapore. Although he was rich, he remained thrifty all his life.<br>
+<p align="justify">Gan Eng Seng was born to a poor family in Malacca in 1844. He came to Singapore to seek his fortune at the age of 17. The only work he could find was selling nutmeg. Before long, he became an apprentice at Messrs Guthrie & Company. Undaunted by hardship or misfortune, he worked diligently. His excellent work performance brought him rapid promotions and by the age of 19, he was an Assistant Storekeeper. After he accumulated some money, he started his own business. His trade expanded not long after, he became one of the millionaires in Singapore. Although he was rich, he remained thrifty all his life.</p><br>
 
 _Valued Education:_  <br>
   
