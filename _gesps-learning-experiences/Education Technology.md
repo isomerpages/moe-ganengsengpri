@@ -3,46 +3,23 @@ title: Education Technology
 permalink: /gesps-learning-experiences/edu-tech/
 description: ""
 ---
-## Educational Technology
+### Learning Educational Technology @GESPS
 
-#### Educational Technology Department
+The school strives to develop future-ready digital learners as well as nurture our students to become responsible users of technology. To create a technology-enabled learning environment, the Educational Technology (Ed-Tech) Department is responsible for periodic upgrading to enhance the school network and ICT infrastructure. In addition, the department also looks into capacity building of teachers. ICT tools are introduced to teachers through school-wide workshops and sharing. The Ed-Tech representatives also provide subject-specific support to the teachers in the various department so that they can use ICT tools which fit the needs of the subjects and their students.
 
-The school recognises the significance of developing 21st century competencies in the students and nurturing them to become responsible users of technology. To ensure that ICT positively impacts the teaching and learning process, the school is guided by MOE IT Masterplans. The ICT department carries out the Masterplans by providing essential support for teachers to capitalise on the affordances of technology to design, create and enact ICT-enriched lessons. It leverages the following key factors to achieve the above objective.
+<img src="/images/ET1.png" 
+     style="width:75%">
 
-1 \. Build Teacher Capacity – Teachers are introduced to ICT tools and pedagogies through professional development workshops and sharing. With this support, teachers are able to build their capacity to design and carry out engaging ICT-enriched lessons in the classrooms.
+### Embracing all Students - Curriculum Customisation
 
-<img src="/images/Picture1 (1).jpg" style="width:49%" align=left>
-<img src="/images/Picture2 (1).jpg" style="width:49%" align=right>
-<br clear="left"><br>
+Students are given ample opportunities to use ICT to enhance their learning experiences. Beside the use of computer labs, students can learn anywhere, anytime using mobile carts in the school. One key online platform which students will use throughout their 6 years of education in GESPS is the Student Learning Space ([SLS](https://vle.learning.moe.edu.sg/)), where curriculum-aligned resources are available for students to learn independently.
 
-<img src="/images/Picture-1.png" style="width:41%" align=left>
-<img src="/images/Picture-2.png" style="width:49%" align=right>
-<br clear="left"><br>
+<img src="/images/ET2.png" 
+     style="width:75%">
 
-<figure>
-<img src="/images/Developing-teachers’-competency-in-using-ICT-for-teaching-and-learning.png" style="width:90%">
-<figcaption>Developing teachers’ competency in using ICT for teaching and learning
- </figcaption>
-</figure>
+### Fostering the Joy of Learning - Special Programmes
 
-2 \. Create Opportunities for Students to use ICT – Students are given ample opportunities to use ICT to enhance their learning experiences. With the Learning Management System (MCOnline) and Student Learning Space (SLS), the school will be able to better create and provide meaningful learning opportunities for the students to experience ICT.
+The scbool partners with IMDA for the Primary 6 Code For Fun Programme to teach students the fundamentals of computational thinking as well as basic coding concepts. Conducted as a post PSLE activity, the programme has been well-received by students.
 
-<img src="/images/Student-Learning-Space.png" style="width:85%">
-
-Student Learning Space ([https://vle.learning.moe.edu.sg](https://vle.learning.moe.edu.sg/)) 
-
-The SLS is an online platform with tools and curriculum-aligned resources for all students to learn anytime, anywhere. With the SLS, students can take greater ownership of their learning and pick up skills and habits that prepare them for lifelong learning. Teachers will use the SLS to complement classroom teaching and learning through designing meaningful lessons for our GESPians.
-
-3 \. Maintain a Reliable ICT Infrastructure – A reliable and updated infrastructure in school is necessary to create and sustain learning anytime, anywhere. The school undergoes periodic upgrading to enhance the school network and ICT infrastructure to better cater for learning through ICT and mobile devices in the school.
-
-<img src="/images/photo1668924396.jpeg" style="width:85%">
-
-4 \. Collaboration with External Partners – Leverage the strength and expertise of external partners to value-add student’s learning through ICT. One such partner is Hewlett Packard Singapore. Volunteers from HP conducted a programme named “Hour of Code” for the Primary 3 students, introducing them to the fundamentals of coding. The programme excited the learners tremendously and spurred them on a path of self-discovery and continuous learning.
-
-<figure>
-<img src="/images/Group Photo Cert Presentation.jpg" style="width:90%">
-<figcaption>Group Photo Cert Presentation
- </figcaption>
-</figure>
-
-<img src="/images/photo1668924471.jpeg" style="width:85%">
+<img src="/images/Students%20using%20ipads%20for%20programming%201.jpg" 
+     style="width:60%">
