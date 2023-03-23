@@ -8,7 +8,7 @@ description: ""
 **Gan Eng Seng, philanthropist (Pinyin: Yan Yongcheng; 1844—1899)**
 
 <img src="/images/history.jpg" style="width:30%" align=left>
-<p align="justify">Gan Eng Seng was one of the early pioneers of Singapore who was known for his generosity to many charitable causes during the era of the British Straits Settlements of Malaya and Singapore.<br>
+<p align="justify">Gan Eng Seng was one of the early pioneers of Singapore who was known for his generosity to many charitable causes during the era of the British Straits Settlements of Malaya and Singapore.</p><br>
 	
 *Hardworking and Persevering*:<br>
 	
