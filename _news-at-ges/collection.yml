@@ -1,0 +1,4 @@
+collections:
+  news-at-ges:
+    output: true
+    order: []
