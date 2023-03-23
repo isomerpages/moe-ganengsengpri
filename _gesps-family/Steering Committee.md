@@ -46,3 +46,10 @@ description: ""
 [john_tan_chong_jin@schools.gov.sg](mailto:john_tan_chong_jin@schools.gov.sg)<br>
 [tan_hong_meng_david@schools.gov.sg](mailto:tan_hong_meng_david@schools.gov.sg)<br>
 [yip_lai_kuan@schools.gov.sg](mailto:yip_lai_kuan@schools.gov.sg)
+
+<img src="/images/sc6.png" style="width:85%">
+
+**LEFT TO RIGHT**<br>
+[nadiah_sheik_allahuddin@schools.gov.sg](mailto:nadiah_sheik_allahuddin@schools.gov.sg)<br>
+[nur_uzaimah_fadzali@schools.gov.sg](mailto:nur_uzaimah_fadzali@schools.gov.sg)<br>
+[ariel_lee@schools.gov.sg](mailto:ariel_lee@schools.gov.sg)<br>
