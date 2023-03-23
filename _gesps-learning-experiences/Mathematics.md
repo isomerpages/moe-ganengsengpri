@@ -28,3 +28,13 @@ To better challenge and stretch students who are passionate in Mathematics, sele
 
 We believe in creating a conducive learning environment and engaging our students with the right learning experiences to make the learning of mathematics fun and purposeful.  Thus we leverage on the use of the environment as a 3rd Teacher to provide opportunities for children to make their thinking visible and deepen learning and increase engagement.
 
+
+<figure>
+<img src="/images/Math4.jpg">
+<figcaption>The activities planned during <b>Math Recess Play Week</b> provides opportunities for students to be engaged in math puzzles and fun math games during their recesses. </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Math5.jpg">
+<figcaption>The <b>Math with Towkay Di Assembly Programme</b> highlights how mathematics is applicable in our daily lives and addresses certain mathematical misconceptions of students through dramatization. </figcaption>
+</figure>
