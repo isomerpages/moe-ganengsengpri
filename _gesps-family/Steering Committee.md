@@ -31,18 +31,18 @@ description: ""
 [gan_tze_qiang_benjamin@schools.gov.sg](mailto:gan_tze_qiang_benjamin@schools.gov.sg)<br>
 [k_kannathasan@schools.gov.sg](mailto:K_Kannathasan@schools.gov.sg)<br>
 
-<img src="/images/photo1668938336.jpeg" style="width:85%">
+<img src="/images/sc4.png" style="width:85%">
 
 **LEFT TO RIGHT**<br>
+[kee_hui_xiu@schools.gov.sg](mailto:kee_hui_xiu@schools.gov.sg)<br>
 [say_tiong_sin_gerald@schools.gov.sg](mailto:say_tiong_sin_gerald@schools.gov.sg)<br>
-[brina_tan@schools.gov.sg](mailto:brina_tan@schools.gov.sg)<br>
+[tay_puay_suan@schools.gov.sg](mailto:tay_puay_suan@schools.gov.sg)<br>
 [siti_noraini_ibrahim@schools.gov.sg](mailto:siti_noraini_ibrahim@schools.gov.sg)<br>
-[ang_soo_hiean_grace@schools.gov.sg](mailto:ang_soo_hiean_grace@schools.gov.sg)
 
-<img src="/images/photo1668938349.jpeg" style="width:85%">
+<img src="/images/sc5.png" style="width:85%">
 
 **LEFT TO RIGHT**<br>
+[sathiya_bhama_arasan@schools.gov.sg](mailto:sathiya_bhama_arasan@schools.gov.sg)<br>
 [john_tan_chong_jin@schools.gov.sg](mailto:john_tan_chong_jin@schools.gov.sg)<br>
 [tan_hong_meng_david@schools.gov.sg](mailto:tan_hong_meng_david@schools.gov.sg)<br>
-[nur_uzaimah_fadzali@schools.gov.sg](mailto:nur_uzaimah_fadzali@schools.gov.sg)<br>
-[ariel_lee@schools.gov.sg](mailto:ariel_lee@schools.gov.sg)
+[yip_lai_kuan@schools.gov.sg](mailto:yip_lai_kuan@schools.gov.sg)
