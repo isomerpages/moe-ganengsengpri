@@ -14,21 +14,22 @@ description: ""
 [brina_tan@schools.gov.sg](mailto:brina_tan@schools.gov.sg)<br>
 
 
-<img src="/images/photo1668938131.jpeg" style="width:85%">
+<img src="/images/sc2.png" style="width:85%">
 
 **LEFT TO RIGHT**<br>
-[Gerard_Woo_Hon_meng@schools.gov.sg](mailto:Gerard_Woo_Hon_meng)<br>
-[Ernest_Vaithilingam@schools.gov.sg](mailto:Ernest_Vaithilingam@schools.gov.sg)<br>
+[gerard_goo_gon_meng@schools.gov.sg](mailto:Gerard_Woo_Hon_meng)<br>
+[ernest_vaithilingam@schools.gov.sg](mailto:Ernest_Vaithilingam@schools.gov.sg)<br>
+[nazreen_zainudeen@schools.gov.sg](mailto:Nazreen_Zainudeen@schools.gov.sg)<br>
 [lim_swee_kheng_a@schools.gov.sg](mailto:lim_swee_kheng_a@schools.gov.sg)<br>
-[Nazreen_Zainudeen@schools.gov.sg](mailto:Nazreen_Zainudeen@schools.gov.sg)
 
-<img src="/images/photo1668938321.jpeg" style="width:85%">
+<img src="/images/sc3.png" style="width:85%">
+
 
 **LEFT TO RIGHT**<br>
-[K_Kannathasan@schools.gov.sg](mailto:K_Kannathasan@schools.gov.sg)<br>
-[Deepa_Surendran@schools.gov.sg](mailto:Deepa_Surendran@schools.gov.sg)<br>
+[ang_soo_hiean_grace@schools.gov.sg](mailto:ang_soo_hiean_grace@schools.gov.sg)<br>
+[deepa_surendran@schools.gov.sg](mailto:Deepa_Surendran@schools.gov.sg)<br>
 [gan_tze_qiang_benjamin@schools.gov.sg](mailto:gan_tze_qiang_benjamin@schools.gov.sg)<br>
-[ng_chu_xuan_sophia@schools.gov.sg](mailto:ng_chu_xuan_sophia@schools.gov.sg)
+[k_kannathasan@schools.gov.sg](mailto:K_Kannathasan@schools.gov.sg)<br>
 
 <img src="/images/photo1668938336.jpeg" style="width:85%">
 
