@@ -3,39 +3,42 @@ title: Science
 permalink: /gesps-learning-experiences/sci/
 description: ""
 ---
-## Science
+### Learning Science @GESPS
 
-The Science department strives to nurture _GESPians_ with a passion for Science and equip them with the skills for scientific inquiry. _GESPians_ are encouraged to be responsible for their own learning through inquiry which is characterised by the degree of responsibility they have in posing and responding to questions, designing investigations and evaluating and communicating their learning.
+The Science department strives to nurture GESPians with a passion for Science who are active eco stewards of their environment. GESPians are encouraged to take ownership of their own learning through inquiry, which is characterised by the degree of responsibility they have in posing and responding to questions, designing investigations, and evaluating and communicating their learning. Through this, GESPians develop their scientific inquiry and reasoning skills, and become more confident communicators who are passionate about learning.
 
-The school customises the teaching of Science to meet the learning needs of the students in the classroom and beyond the classroom.  Teachers are the 5E Instructional Model to frame the sequence and organisation of their lessons in the classroom. Strategies such as OCA (What do I Observe? What is the Concept? How do I Apply?) and investigatives and hands-on activities using learning tools are part of the repertoire of strategies used in the classroom teaching.
+ 
 
-Beyond the classroom, _GESPians_ are empowered with experiences as an inquirer who would be able to enjoy Science and value Science as an important tool to help them explore the natural and physical world. These experiences include the P1 and P2 Science Exploration Day, Level Signature Programmes, P5 Stretch and Enrichment Programmes. Leveraging on the use of technology to boost the joy of learning, students are engaged in lessons through the use of ICT tools when they participate in the in-house Science Trail.
+Beyond the classroom, GESPians are empowered with experiences as an inquirer who would be able to enjoy Science and value Science as an important tool to help them explore the natural and physical world. These experiences include the P1 and P2 Science Exploration Day, Level Signature Programmes, and other Special Programmes offered by the department.
 
-<img src="/images/pic1.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/pic2.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/pic3.png" style="width:30%;margin-right:15px;" align = "left">
-<br clear="left">
 
-Students exploring the plants in the Eco garden using iPads and QR codes during the trail-based Science lesson
+### Embracing all Students – Curriculum Customisation
+The school customises the teaching of Science to meet the learning needs of all students in the classroom and beyond the classroom.  Aligned with the school’s talent development framework, the department offers provisions for students to develop their interests and talents in Science at three levels, namely, Exposure, Experience and Excellence.
 
-The Science department also spearheads various environmental awareness initiatives with key focus directed to green education and conservation. Besides embedding green education and conservation as part of students’ learning both in and out of classrooms, the school involves students in planning and communicating the importance of green efforts. These students, who are identified at the class level from Primary 1 to 6, are known as the Green Champs. They help to champion the school’s efforts in promoting a clean and green environment among the student body.
+<img src="/images/P3%20sailboat%20investigative%20project.jpg" style="width:50%">
+<figure>
+<img src="/images/Students%20making%20sailboats%20in%20class.jpg">
+<figcaption>As part of their P3 investigative project, students work in groups and
+apply what they had learned about materials to create a sailboat.</figcaption>
+</figure>
 
-Assembly Talks on Environmental Issues are conducted to further anchor the message of a ‘Green School’. Yearly commemoration of the Earth Day in April is carried out to engage students in activities to increase their awareness about environmental protection and conservation.
+Provisions at the ‘Exposure’ level are for all students and aim to expose students to new interests and allow them to learn and strengthen foundational skills and 21st century competencies. Teachers use a variety of strategies to facilitate engaging and meaningful learning experiences in Science to support students’ learning. These include the use of OCA (What do I Observe? What is the Concept? How do I Apply?) to guide students in their scientific reasoning and communication of ideas, investigative projects, experiments as well as outdoor hands-on exploration activities. Where relevant, appropriate technology is also used to enhance students’ learning of science concepts and boost the joy of learning. 
 
-Systems are also put in place to further model and anchor environmental protection among our staff – For instance, staff are encouraged to practice double-sided photocopying and use their own cutlery or lunchbox during meals instead of using the plastic utensils and styrofoam boxes. 
+Provisions at the ‘Experience’ level are voluntary and provided for students to explore and verify their interests and talents. These include in-class investigative projects and self-directed learning opportunities via the Student Learning Space.
 
-Through these, the school aims to instill in our _GESPians_ and staff the desire and passion to care for our living environment by adopting an eco-friendly lifestyle.
+<figure>
+<img src="/images/Students%20using%20ipads%20in%20Science%20Garden.jpg">
+<figcaption>Students exploring the plants in the Eco garden using iPads
+and QR codes during the trail-based Science lesson
+</figcaption>
+</figure>
 
-<img src="/images/pic4.png" style="width:27.5%;margin-right:15px;" align = "left">
-<img src="/images/pic5.png" style="width:27%;margin-right:15px;" align = "left">
-<img src="/images/pic6.png" style="width:30%;margin-right:15px;" align = "left">
-<br clear="left">
+Provisions at the ‘Excellence’ level aim to provide advanced learning opportunities for students who are ready for and motivated by challenging experiences. These include the Special Programmes offered by the department, such as  the Science Buskers Programme.
 
-Students practice recycling and reusing through engaging in recess activities during the commemoration of Earth Day
+<figure>
+<img src="/images/Science%20buskers%20in%20action.jpg">
+<figcaption>GESPS Science buskers performing for their audience during the Singapore Science Buskers Competition
+</figcaption>
+</figure>
 
-<img src="/images/pic7.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/pic8.png" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/pic9.png" style="width:30%;margin-right:15px;" align = "left">
-<br clear="left">
-
-Mission Fighting Deforestation - Students learn about the importance of rainforest and the impact of deforestation and they take positive actions to fight deforestation.
+### Eco Stewardship
