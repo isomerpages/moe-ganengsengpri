@@ -1,4 +1,5 @@
 collections:
   news-at-ges:
     output: true
-    order: []
+    order:
+      - News @GESPS.md
