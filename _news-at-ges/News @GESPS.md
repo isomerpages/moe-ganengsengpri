@@ -38,3 +38,12 @@ In this 8world feature on the range of Applied Learning Programmes and Lifelong 
 *(Click on the picture view the post.)*
 
 GESPS is featured on MOE’s Facebook page. The Facebook post provides snapshots of learning experiences in the school which are designed to connect what students learnt in class to the outside world
+
+### We are Featured on Channel 8
+
+GESPS is featured on Channel 8’s current affairs show, Frontline. It showcases the programmes which the school designs to foster the joy of learning. These programmes are made possible due to the time freed up from the removal of mid-year exams.
+
+### Our Ex-GESPian Has Done Us Proud
+
+<img src="/images/ex-gespian.jpg" 
+     style="width:75%">
