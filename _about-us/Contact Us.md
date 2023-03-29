@@ -40,5 +40,5 @@ Email: edmund55@singnet.com.sg
 Email: sales@khuniform.com  
   
 **School Dental Clinic**<br>
-Dental Therapist – Ms Chen Sujuan
+Dental Therapist – Ms Chen Sujuan<br>
 (65) 64747701
