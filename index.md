@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome to Gan Eng Seng Primary School!
 sections:
   - hero:
-      background: /images/Side Gate (Zoom BG).jpg
+      background: /images/herobanner.gif
       key_highlights:
         - title: P2 Meet The Parents 2023
           description: ""
