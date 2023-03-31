@@ -12,10 +12,8 @@ third_nav_title: Teachers
 
 **2 Self-Discipline**
 
+*   Form Teacher: **[Ms Ether Goh](mailto:goh_yue_yin_esther@schools.gov.sg)**
 *   Form Teacher: **[Mdm Alleda](mailto:alleda_baba@schools.gov.sg)**
-
-*   Form Teacher: **[Mdm Vanitha](mailto:Vanitha_k_s_perumal@schools.gov.sg)**
-
   
 
 **2 Perseverance**
