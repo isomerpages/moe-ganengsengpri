@@ -23,5 +23,7 @@ third_nav_title: Teachers
 | **Flexi-Adjunct Teacher** | [Mdm Lim Cheo Hwa](mailto:Lim_Cheo_Hwa@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mdm Sellam](mailto:sellammal_varadarajalu@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mrs Kong Sim Guan](mailto:kong_sim_guan@schools.gov.sg)
-| **Flexi-Adjunct Teacher** | [Mdm Wong Sook Yee](mailto:wong_sook_yee@schools.gov.sg)
+| **Flexi-Adjunct Teacher** | [Ms Florence Teo](mailto:teo_mui_leng_florence@schools.gov.sg)
+| **Flexi-Adjunct Teacher** | [Mdm Vanitha](mailto:vanitha_k_s_perumal@schools.gov.sg)
+| **Flexi-Adjunct Teacher (Uplift)** | [Mdm Wong Sook Yee](mailto:wong_sook_yee@schools.gov.sg)
 | | |
