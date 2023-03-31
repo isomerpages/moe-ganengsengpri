@@ -21,6 +21,5 @@ sections:
         - title: P1 Orientation Slides
           description: ""
           url: https://ganengsengpri.moe.edu.sg/qql/slot/u206/Home/Announcement/P1%20Orientation%2021%20Nov%20-%20consolidated.pdf
-      button: Contact Us
       url: /about-us/contact-us/
 ---
