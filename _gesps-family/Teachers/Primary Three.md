@@ -41,4 +41,4 @@ third_nav_title: Teachers
 **3 Empathy**
 
 *   Form Teacher: **[Ms Hazel Sim](mailto:sim_geok_keow@schools.gov.sg)**
-*   Form Teacher: **[Ms Florence Teo](mailto:teo_mui_leng_florence@schools.gov.sg)**
+*   Form Teacher: **[Mdm Jacquelyn Yin](mailto:Jacquelyn_Yin_Hui_Jing@schools.gov.sg)**
