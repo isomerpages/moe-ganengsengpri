@@ -25,11 +25,5 @@ sections:
   - infobar:
       title: GESPS Corporate Video
       button: Click here
-      url: https:/go.gov.sg/gesps-corporate-video
-  - infopic:
-      title: GESPS Corporate Video
-      button: CLick here
       url: https://go.gov.sg/gesps-corporate-video
-      alt: Image alt text
-      image: /images/Side Gate (Zoom BG).jpg
 ---
