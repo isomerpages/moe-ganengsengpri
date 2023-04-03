@@ -31,4 +31,5 @@ sections:
       button: CLick here
       url: https://go.gov.sg/gesps-corporate-video
       alt: Image alt text
+      image: /images/Side Gate (Zoom BG).jpg
 ---
