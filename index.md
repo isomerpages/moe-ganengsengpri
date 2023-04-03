@@ -25,7 +25,7 @@ sections:
   - infobar:
       title: GESPS Corporate Video
       button: Click here
-      url: /go.gov.sg/gesps-corporate-video
+      url: https:/go.gov.sg/gesps-corporate-video
   - infopic:
       title: GESPS Corporate Video
       button: CLick here
