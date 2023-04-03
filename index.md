@@ -24,6 +24,6 @@ sections:
       url: /about-us/contact-us/
   - infobar:
       title: GESPS Corporate Video
-      button: Button Text
+      button: Click here
       url: /go.gov.sg/gesps-corporate-video
 ---
