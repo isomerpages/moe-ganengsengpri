@@ -1,15 +1,75 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/photo1668939236.jpeg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: ABOUT US
+    url: /about-us/history/
+    sublinks:
+      - title: History
+        url: /about-us/history/
+      - title: Crest & Song
+        url: /about-us/crestnsong/
+      - title: Vision, Mission & Values
+        url: /about-us/vmv/
+      - title: School's strategic Goals
+        url: /about-us/ssg/
+      - title: School Calendar
+        url: /about-us/sc/
+      - title: School Environment
+        url: /about-us/sch-enviro/
+      - title: School Information
+        url: /about-us/sch-info/
+      - title: School Rules
+        url: /about-us/School-Rules/our-sch-rules/
+      - title: Contact Us
+        url: /about-us/contact-us/
+  - title: GESPS FAMILY
+    url: /gesps-family/principal/
+    sublinks:
+      - title: Principal
+        url: /gesps-family/principal/
+      - title: Vice Principals
+        url: /gesps-family/vp/
+      - title: Steering Committee
+        url: /gesps-family/steering-committee/
+      - title: Teacher Leaders
+        url: /gesps-family/teacher-ldrs/
+      - title: Teachers
+        url: /gesps-family/Teachers/p1/
+      - title: Non-Teaching Staff
+        url: /gesps-family/non-ts/
+      - title: Partners (SAC/PSG)
+        url: /gesps-family/Partners-SAC-and-PSG/sac/
+      - title: Alumni
+        url: /gesps-family/alumni/
+  - title: LEARNING @GESPS
+    collection: gesps-learning-experiences
+  - title: EXPERIENCES @GESPS
+    url: /gesps-distinctive-experiences/LLP/llp/
+    sublinks:
+      - title: LLP
+        url: /gesps-distinctive-experiences/LLP/llp/
+      - title: ALP
+        url: /gesps-distinctive-experiences/alp/
+      - title: Signature Programmes
+        url: /gesps-distinctive-experiences/sig-progs/
+  - title: VALUES @GESPS
+    url: /gesps-cce-experiences/CCA/cca/
+    sublinks:
+      - title: CCA
+        url: /gesps-cce-experiences/CCA/cca/
+      - title: CCE Curriculum
+        url: /gesps-cce-experiences/CCA/cce/
+      - title: Values In Action (VIA)
+        url: /gesps-cce-experiences/via/
+      - title: Student Leadership
+        url: /gesps-cce-experiences/sl/
+  - title: News @GESPS
+    url: /news-at-gesps/
+  - title: USEFUL LINKS
+    url: /quick-links/for-students/
+    sublinks:
+      - title: For Students
+        url: /quick-links/for-students/
+      - title: For Parents
+        url: /quick-links/For-Parents/PSLEFSBB/
+      - title: For Teachers
+        url: /quick-links/for-teachers/

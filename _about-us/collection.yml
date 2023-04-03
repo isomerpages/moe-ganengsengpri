@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - History.md
+      - Crest & Song.md
+      - Vision, Mission & Values.md
+      - School's Strategic Goals.md
+      - School Calendar.md
+      - School Environment.md
+      - School Information.md
+      - School Rules/.keep
+      - School Rules/Our School Rules.md
+      - School Rules/School Conduct.md
+      - School Rules/Safety.md
+      - School Rules/Looking after the Environment.md
+      - Contact Us.md

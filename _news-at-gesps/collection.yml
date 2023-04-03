@@ -1,0 +1,5 @@
+collections:
+  news-at-gesps:
+    output: true
+    order:
+      - News @GESPS.md

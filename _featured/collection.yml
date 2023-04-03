@@ -1,0 +1,11 @@
+collections:
+  featured:
+    output: true
+    order:
+      - Banner Slider.md
+      - Featured/.keep
+      - Featured/Environmental Policy.md
+      - Featured/Highlights.md
+      - Featured/Covid 19 (7) Practices of good habits (Poster).md
+      - Featured/New Student Care Operator 2022.md
+      - Featured/Meet the Parent (MTP) Session 2022.md
