@@ -36,18 +36,17 @@ description: ""
 
 **Arrival at School**
 
-*   Parents/Guardians can drop off their child/ward at the Bus Bay (if driving) or Main/Side Gate (if walking).
-
-*   Parents/Guardians are not allowed to go to the canteen, and terrace or walk along the corridors.
+* <p align="justify">Parents/Guardians can drop off their child/ward at the Bus Bay (if driving) or Main/Side Gate (if walking).</p><p>
+*   </p><p align="justify">Parents/Guardians are not allowed to go to the canteen, and terrace or walk along the corridors.</p><p>
 
 **Dismissal from School**  
 
-*   <u>Primary 1 and 2</u>: Students will be brought to the dismissal areas by their teachers. 
+*   <u>Primary 1 and 2</u>: Students will be brought to the dismissal areas by their teachers.&nbsp;
 
-*   <u>Primary 3 to 6</u>: Teachers will lead the students down to the ground floor of the classroom block and dismiss them from there. 
+*   <u>Primary 3 to 6</u>: Teachers will lead the students down to the ground floor of the classroom block and dismiss them from there.&nbsp;
 *   Students who are taking the school bus will line up at the basketball court at the Indoor Sports Hall before proceeding to board the bus.
 
-*   Parents/Guardians are to wait for their child/ward at the entrance of the Main Gate (blue gate) or Side Gate (red gate), or along the sheltered walkway from the main gate to the Bus Bay (parents should not go beyond the waiting point at the Bus Bay). 
+*   Parents/Guardians are to wait for their child/ward at the entrance of the Main Gate (blue gate) or Side Gate (red gate), or along the sheltered walkway from the main gate to the Bus Bay (parents should not go beyond the waiting point at the Bus Bay).&nbsp;
 
 *   Parents/Guardians can only drive into the school and pick up their child/ward from the Bus Bay 15 minutes after the official school dismissal time. This is to facilitate the smooth movement of the school buses as well as to ensure the safety of our students.
 
@@ -109,4 +108,4 @@ Our students’ safety is of utmost importance to the school. To ensure a safe, 
 
 **Guidelines on Photography/Videography**
 
-Photograph(s) or video image(s) of students and their parents/guardians may be captured during school activities and events such as classroom lessons, CCAs, school camps and concerts. The school may use and publish such photographs and/or video recordings in school publications, the school website, social media channels and other channels.
+Photograph(s) or video image(s) of students and their parents/guardians may be captured during school activities and events such as classroom lessons, CCAs, school camps and concerts. The school may use and publish such photographs and/or video recordings in school publications, the school website, social media channels and other channels.</p>
