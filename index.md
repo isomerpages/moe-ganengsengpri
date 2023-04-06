@@ -22,8 +22,4 @@ sections:
           description: ""
           url: https://ganengsengpri.moe.edu.sg/qql/slot/u206/Home/Announcement/P1%20Orientation%2021%20Nov%20-%20consolidated.pdf
       url: /about-us/contact-us/
-  - infobar:
-      title: GESPS Corporate Video
-      button: Click here
-      url: https://go.gov.sg/gesps-corporate-video
 ---
