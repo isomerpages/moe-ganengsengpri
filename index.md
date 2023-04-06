@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/herobanner.gif
       key_highlights:
-        - title: P2 Meet The Parents 2023
+        - title: School Calendar
           description: ""
-          url: https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Quick%20Links/For%20Parents/P2%20MTP%20Website.pdf
+          url: https://staging.d32bya16sk06q0.amplifyapp.com/
         - title: P3 & P4 e-Meet The Parents 2023
           description: ""
           url: https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Quick%20Links/For%20Parents/2023%20P3%20and%20P4%20eMTP_10%20Jan%20for%20Website.pdf
