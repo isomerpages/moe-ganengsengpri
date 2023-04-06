@@ -17,11 +17,11 @@ description: ""
 
 #### Embracing all Students - Curriculum Customisation
 
-<p align="justify">The STELLAR curriculum is supplemented by a range of school-designed programmes to meet the varied needs, abilities and interests of our students. Through these efforts, GESPians will be equipped with the necessary language skills to confidently face the future.
+<p align="justify">The STELLAR curriculum is supplemented by a range of school-designed programmes to meet the varied needs, abilities and interests of our students. Through these efforts, GESPians will be equipped with the necessary language skills to confidently face the future.</p>
 
 **I. Reading Programme**
  
- </p><figure>
+ <p></p><figure>
 <img src="/images/Reading-Milestones-681x1024.jpg" style="width:40%">
 <figcaption> Reading Milestones
  </figcaption>
