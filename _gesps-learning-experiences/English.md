@@ -35,7 +35,6 @@ description: ""
 
 **II. Supporting Lower Progress Learners**
 
-
 <p align="justify">Recognising literacy as the bedrock of learning, the school spares no effort in providing additional support for our students who are struggling with language learning. The school has&nbsp;early intervention programmes such a Learning Support Programme (LSP)for Primary 1 and 2, School-based Dyslexia Remediation (SDR) and Reading Remediation Programme for Primary 3 and 4.  
 
 </p><p align="justify">Beyond the above programmes, the school has put in place EL Remediation students who need additional support in language learning. These lessons take place after school in small groups.
@@ -49,13 +48,13 @@ description: ""
 
 #### **Fostering the Joy of Learning – Special Programmes**
 
-Besides the pedagogical efforts in the school English curriculum, the school seeks to provide authentic platforms for students to demonstrate their language skills and instill the joy of learning.  
+<p align="justify">Besides the pedagogical efforts in the school English curriculum, the school seeks to provide authentic platforms for students to demonstrate their language skills and instill the joy of learning.  </p>
 
 **A.**&nbsp;&nbsp;&nbsp;**Oracy Programme**
 
-GESPians&nbsp;undergo a structured oracy programme which complements the teaching and learning of listening and speaking skills during their English lessons. The overarching objective across the levels is to develop students’ confidence in presenting before an audience.
+<p align="justify">GESPians&nbsp;undergo a structured oracy programme which complements the teaching and learning of listening and speaking skills during their English lessons. The overarching objective across the levels is to develop students’ confidence in presenting before an audience.</p>
 
-The targeted skill focus spirals upwards from the basic oratorical skills at Primary 1 to the more complex over the years.
+<p align="justify">The targeted skill focus spirals upwards from the basic oratorical skills at Primary 1 to the more complex over the years.t</p>
 
 Curriculum&nbsp;_(revised in 2020)_
 
@@ -66,7 +65,7 @@ P4&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&n
 P5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persuasive Speech (prepared)<br>
 P6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persuasive Speech (prepared and impromptu)
 
-<p></p><p align="justify">The students are taught to use their voice more effectively as they discover new ways to create and present the language. At the end of the oracy lessons, students take turns to showcase their oratorical skills before their classmates. It is always an enjoyable time as the class plays both audience and performer for the day.&nbsp;Besides presenting for confidence, dialogic conversations are incorporated in English lessons to equip students with communication and dialogic skills.
+<p align="justify">The students are taught to use their voice more effectively as they discover new ways to create and present the language. At the end of the oracy lessons, students take turns to showcase their oratorical skills before their classmates. It is always an enjoyable time as the class plays both audience and performer for the day.&nbsp;Besides presenting for confidence, dialogic conversations are incorporated in English lessons to equip students with communication and dialogic skills.
 
  </p><figure>
 <img src="/images/PersuasiveSpeech.jpeg" style="width:80%">
