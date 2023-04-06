@@ -50,7 +50,7 @@ description: ""
 
 <p align="justify">Besides the pedagogical efforts in the school English curriculum, the school seeks to provide authentic platforms for students to demonstrate their language skills and instill the joy of learning.  </p>
 
-**A.**&nbsp;&nbsp;&nbsp;**Oracy Programme**
+**A. Oracy Programme**
 
 <p align="justify">GESPians&nbsp;undergo a structured oracy programme which complements the teaching and learning of listening and speaking skills during their English lessons. The overarching objective across the levels is to develop students’ confidence in presenting before an audience.</p>
 
