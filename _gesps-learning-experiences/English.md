@@ -33,7 +33,7 @@ description: ""
 
 </p><p align="justify">The intensive reading curriculum is supported by a range of extensive reading efforts. Such efforts include DEAR (Drop Everything And Read) time in the early morning, the School Library and the Class Library collection in every English classroom.</p>
 
-**II.**&nbsp;**Supporting Lower Progress Learners**
+**II. Supporting Lower Progress Learners**
 
 
 <p align="justify">Recognising literacy as the bedrock of learning, the school spares no effort in providing additional support for our students who are struggling with language learning. The school has&nbsp;early intervention programmes such a Learning Support Programme (LSP)for Primary 1 and 2, School-based Dyslexia Remediation (SDR) and Reading Remediation Programme for Primary 3 and 4.  
