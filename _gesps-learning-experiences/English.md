@@ -41,7 +41,7 @@ description: ""
 
 </p><p align="justify">For struggling readers who find it difficult to keep up with the teaching and learning in the regular lessons, the school arranges for pull-out teaching to provide customised attention to these students. These teachers are usually have training in supporting lower progress learners in EL.</p>
 
-**III.Stretching Higher Progress Learners**
+**III. Stretching Higher Progress Learners**
 
 <p align="justify">At the upper primary levels, high progress students have literature enrichment lessons to deepen their appreciation&nbsp;of the&nbsp;language and enhance their&nbsp;enhance their analytical thinking through the&nbsp;study of a chapter book. In addition,students are exposed to newspaper reading for class&nbsp;sharing and discussion of current events and issues. Selected students&nbsp;will go through debate&nbsp;and creative writing lessons to challenge themselves beyond what they have learnt in the&nbsp;curriculum.&nbsp;At the middle primary, students get to read&nbsp;supplementary literary magazines which are subscribed&nbsp;which&nbsp;are subscribed to arouse&nbsp;and sustain their interest in English.</p>
 
