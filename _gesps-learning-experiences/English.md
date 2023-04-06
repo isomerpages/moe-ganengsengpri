@@ -87,7 +87,7 @@ P6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nb
 
 
 
-**B.**&nbsp;&nbsp;&nbsp;**Use of English Games**  
+**B. Use of English Games**  
 
 <p align="justify">During English lessons, students are given the opportunities to play English games such as Scattergories and Bananagrams. Learning of the language is made fun and enjoyable.
 
