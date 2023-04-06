@@ -21,7 +21,7 @@ description: ""
 
 **I. Reading Programme**
  
- <p></p><figure>
+ <figure>
 <img src="/images/Reading-Milestones-681x1024.jpg" style="width:40%">
 <figcaption> Reading Milestones
  </figcaption>
@@ -31,7 +31,7 @@ description: ""
 
 <p align="justify">At the foundational part of this programme, students in the Learning Support Programme undergo buddy reading using yet a different set of graded material. For these emergent readers, buddy reading takes place twice weekly. The EL teacher monitors their progress through regular small group reading instruction. To further encourage the love of reading, the school has collaborated with the National Library Board (NLB) since 2014.
 
-</p><p align="justify">The intensive reading curriculum is supported by a range of extensive reading efforts. Such efforts include DEAR (Drop Everything And Read) time in the early morning, the School Library and the Class Library collection in every English classroom.</p>
+</p><p align="justify">The intensive reading curriculum is supported by a range of extensive reading efforts. Such efforts include DEAR (Drop Everything And Read) time in the early morning, the School Library and the Class Library collection in every English classroom.</p><br>
 
 **II. Supporting Lower Progress Learners**
 
@@ -40,11 +40,11 @@ description: ""
 
 </p><p align="justify">Beyond the above programmes, the school has put in place EL Remediation students who need additional support in language learning. These lessons take place after school in small groups.
 
-</p><p align="justify">For struggling readers who find it difficult to keep up with the teaching and learning in the regular lessons, the school arranges for pull-out teaching to provide customised attention to these students. These teachers are usually have training in supporting lower progress learners in EL.
+</p><p align="justify">For struggling readers who find it difficult to keep up with the teaching and learning in the regular lessons, the school arranges for pull-out teaching to provide customised attention to these students. These teachers are usually have training in supporting lower progress learners in EL.</p>
 
-**III.**&nbsp;&nbsp;&nbsp;&nbsp;**Stretching Higher Progress Learners**
+**III.Stretching Higher Progress Learners**
 
-</p><p align="justify">At the upper primary levels, high progress students have literature enrichment lessons to deepen their appreciation&nbsp;of the&nbsp;language and enhance their&nbsp;enhance their analytical thinking through the&nbsp;study of a chapter book. In addition,students are exposed to newspaper reading for class&nbsp;sharing and discussion of current events and issues. Selected students&nbsp;will go through debate&nbsp;and creative writing lessons to challenge themselves beyond what they have learnt in the&nbsp;curriculum.&nbsp;At the middle primary, students get to read&nbsp;supplementary literary magazines which are subscribed&nbsp;which&nbsp;are subscribed to arouse&nbsp;and sustain their interest in English.
+<p align="justify">At the upper primary levels, high progress students have literature enrichment lessons to deepen their appreciation&nbsp;of the&nbsp;language and enhance their&nbsp;enhance their analytical thinking through the&nbsp;study of a chapter book. In addition,students are exposed to newspaper reading for class&nbsp;sharing and discussion of current events and issues. Selected students&nbsp;will go through debate&nbsp;and creative writing lessons to challenge themselves beyond what they have learnt in the&nbsp;curriculum.&nbsp;At the middle primary, students get to read&nbsp;supplementary literary magazines which are subscribed&nbsp;which&nbsp;are subscribed to arouse&nbsp;and sustain their interest in English.</p>
 
 
 #### **Fostering the Joy of Learning – Special Programmes**
@@ -66,7 +66,7 @@ P4&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&n
 P5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persuasive Speech (prepared)<br>
 P6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persuasive Speech (prepared and impromptu)
 
-</p><p align="justify">The students are taught to use their voice more effectively as they discover new ways to create and present the language. At the end of the oracy lessons, students take turns to showcase their oratorical skills before their classmates. It is always an enjoyable time as the class plays both audience and performer for the day.&nbsp;Besides presenting for confidence, dialogic conversations are incorporated in English lessons to equip students with communication and dialogic skills.
+<p></p><p align="justify">The students are taught to use their voice more effectively as they discover new ways to create and present the language. At the end of the oracy lessons, students take turns to showcase their oratorical skills before their classmates. It is always an enjoyable time as the class plays both audience and performer for the day.&nbsp;Besides presenting for confidence, dialogic conversations are incorporated in English lessons to equip students with communication and dialogic skills.
 
  </p><figure>
 <img src="/images/PersuasiveSpeech.jpeg" style="width:80%">
