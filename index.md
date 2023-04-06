@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: School Calendar
           description: ""
-          url: /about-us/school-calendar
+          url: /about-us/sc
         - title: P3 & P4 e-Meet The Parents 2023
           description: ""
           url: https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Quick%20Links/For%20Parents/2023%20P3%20and%20P4%20eMTP_10%20Jan%20for%20Website.pdf
