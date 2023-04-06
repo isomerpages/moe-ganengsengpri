@@ -31,7 +31,7 @@ description: ""
 
 <p align="justify">At the foundational part of this programme, students in the Learning Support Programme undergo buddy reading using yet a different set of graded material. For these emergent readers, buddy reading takes place twice weekly. The EL teacher monitors their progress through regular small group reading instruction. To further encourage the love of reading, the school has collaborated with the National Library Board (NLB) since 2014.
 
-</p><p align="justify">The intensive reading curriculum is supported by a range of extensive reading efforts. Such efforts include DEAR (Drop Everything And Read) time in the early morning, the School Library and the Class Library collection in every English classroom.</p><br>
+</p><p align="justify">The intensive reading curriculum is supported by a range of extensive reading efforts. Such efforts include DEAR (Drop Everything And Read) time in the early morning, the School Library and the Class Library collection in every English classroom.</p>
 
 **II. Supporting Lower Progress Learners**
 
