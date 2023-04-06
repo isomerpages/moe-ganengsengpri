@@ -12,9 +12,9 @@ sections:
         - title: School Calendar
           description: ""
           url: /about-us/sc
-        - title: P3 & P4 e-Meet The Parents 2023
+        - title: GESPS Corporate Video
           description: ""
-          url: https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Quick%20Links/For%20Parents/2023%20P3%20and%20P4%20eMTP_10%20Jan%20for%20Website.pdf
+          url: https://go.gov.sg/gesps-corporate-video
         - title: P5 & P6 Meet The Parents 2023
           description: ""
           url: https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Quick%20Links/For%20Parents/2023%20P5%20and%20P6%20MTP%20YH%2012%20Jan%20website.pdf
