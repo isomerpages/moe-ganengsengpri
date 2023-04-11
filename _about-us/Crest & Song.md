@@ -19,7 +19,8 @@ The colour ‘blue’ symbolises the foundation of wisdom and knowledge upon whi
   
 The hand symbolizes our pupils holding their future in their hands and the school providing a nurturing environment; protective and empowering.
 
-#### [School Song]("https://file.go.gov.sg/school-song.avi")
+#### School Song
+
 _(Composer: Mr Ng Tian Hui; Lyrics by: Mr Eddie Foo and Ms Cindy Lee)_
 
 **Verse 1:**  
