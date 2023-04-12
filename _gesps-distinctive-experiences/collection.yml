@@ -4,7 +4,6 @@ collections:
     order:
       - LLP/.keep
       - LLP/LLP.md
-      - LLP/Exposure.md
       - LLP/Experience.md
       - LLP/Excellence.md
       - ALP.md
