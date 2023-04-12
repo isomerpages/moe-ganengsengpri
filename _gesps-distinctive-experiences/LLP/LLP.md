@@ -20,5 +20,4 @@ third_nav_title: LLP
 •	To provide authentic learning and sensory experiences through the Arts through Learning Journeys such as the Signature Programme to the ArtScience Museum and Esplanade, Aesthetics Week and P4 Museum-based Learning Journey<br>
 •	To create learning spaces that enables students to explore and express themselves in the Arts
 
-<img src="/images/aesthetics%20week_2.jpg" style="width:55%">
-<img src="/images/aesthetics%20week_1.jpeg" style="with:35%">
+<img src="/images/aesthetics%20week_2.jpg" style="width:50%"><img src="/images/aesthetics%20week_1.jpeg" style="width:80%">
