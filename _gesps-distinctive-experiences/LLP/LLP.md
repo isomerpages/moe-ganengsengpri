@@ -8,8 +8,6 @@ third_nav_title: LLP
 
 **For the Love of the Arts**
 
-<img src="/images/photo1668924706.jpeg" style="width:85%">
-
 The school believes that every student has an innate artistic ability and talent in their own unique ways. The Learning for Life Programme (LLP) in Aesthetics aims to  cultivate these artistic abilities and potential within our students that will inspire the love and pursuit in the Arts.  Guided by the 3E (Exposure, Experience, Excellence) Approach, the school strives to provide learning opportunities and platforms to achieve the desired student outcomes.
 
 **Exposure**<br>
