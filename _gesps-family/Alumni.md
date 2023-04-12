@@ -15,8 +15,8 @@ description: ""
 past!</p>
 
 <p><a href="https://www.instagram.com/gespsalumni/">
-<img style="width:25%" align="left" src="/images/photo1668806084.jpeg">
+<img style="width:20%" align="left" src="/images/photo1668806084.jpeg">
 </a></p>
 <p><a href="https://www.facebook.com/profile.php?id=100084117153720&amp;ref=page_internal">
-<img style="width:23.5%" align="center" src="/images/photo1668806144.jpeg">
+<img style="width:20%" align="center" src="/images/photo1668806144.jpeg">
 </a></p><br clear="left">
