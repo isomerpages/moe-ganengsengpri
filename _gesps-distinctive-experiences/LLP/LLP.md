@@ -16,7 +16,6 @@ third_nav_title: LLP
 <img src="/images/assembly%20prog_1.jpeg" style="width:85%">
 </p><p align="center">Students enjoying a performance during Assembly Programme</p>
 
-**Experience**
-<p align="justify">•	To provide authentic learning and sensory experiences through the Arts through Learning Journeys such as the Signature Programme to the ArtScience Museum and Esplanade, Aesthetics Week and P4 Museum-based Learning Journey<br>
+**Experience**<br>
+•	To provide authentic learning and sensory experiences through the Arts through Learning Journeys such as the Signature Programme to the ArtScience Museum and Esplanade, Aesthetics Week and P4 Museum-based Learning Journey<br>
 •	To create learning spaces that enables students to explore and express themselves in the Arts 
-</p>
