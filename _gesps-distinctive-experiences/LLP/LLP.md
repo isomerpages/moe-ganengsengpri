@@ -21,6 +21,8 @@ third_nav_title: LLP
 •	To create learning spaces that enables students to explore and express themselves in the Arts
 
 <img src="/images/aesthetics%20week_2.jpg" style="width:50%"> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students buidling sculptures during Aesthetics Week
 <img src="/images/aesthetics%20week_1.jpeg" style="width:80%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students buidling sculptures during Aesthetics Week
 
+![](/images/lj%20to%20artscience%20museum.jpeg)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Journey to the ArtScience Museum
