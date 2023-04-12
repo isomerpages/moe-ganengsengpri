@@ -6,7 +6,7 @@ third_nav_title: LLP
 ---
 ## LLP
 
-#### For the Love of the Arts
+**For the Love of the Arts**
 
 <img src="/images/photo1668924706.jpeg" style="width:85%">
 
