@@ -10,9 +10,12 @@ third_nav_title: LLP
 
 <img src="/images/photo1668924706.jpeg" style="width:85%">
 
-LLP is an MOE initiated programme that instils life skills and social-emotional competencies.
+The school believes that every student has an innate artistic ability and talent in their own unique ways. The Learning for Life Programme (LLP) in Aesthetics aims to  cultivate these artistic abilities and potential within our students that will inspire the love and pursuit in the Arts.  Guided by the 3E (Exposure, Experience, Excellence) Approach, the school strives to provide learning opportunities and platforms to achieve the desired student outcomes.
 
-In our school, Aesthetics (Visual Arts and Performing Arts) is the platform to provide all students with more varied and authentic learning opportunities to achieve the desired student outcomes. This distinctive programme is guided by the 3E Approach – Exposure, Experience and Excellence.
+**Exposure**<br>
+•	To create an awareness and appreciation for the Arts through the assembly programme and level-based curriculum lessons
+
+<img src="/images/assembly%20prog_1.jpeg" style="width:85%">
 
 The LLP outcomes&nbsp;<br>
 1 \.  Students appreciate the unity and diversity of Art forms in a multicultural society.&nbsp;<br>
