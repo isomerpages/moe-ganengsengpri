@@ -14,7 +14,7 @@ third_nav_title: LLP
 •	To create an awareness and appreciation for the Arts through the assembly programme and level-based curriculum lessons
 
 <img src="/images/assembly%20prog_1.jpeg" style="width:85%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students enjoying a performance during Assembly &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programme
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students enjoying a performance during Assembly Programme
 
 **Experience**<br>
 •	To provide authentic learning and sensory experiences through the Arts through Learning Journeys such as the Signature Programme to the ArtScience Museum and Esplanade, Aesthetics Week and P4 Museum-based Learning Journey<br>
