@@ -13,7 +13,7 @@ third_nav_title: LLP
 **Exposure**<br>
 •	To create an awareness and appreciation for the Arts through the assembly programme and level-based curriculum lessons
 
-<img src="/images/assembly%20prog_1.jpeg" style="width:85%">
+<img src="/images/assembly%20prog_1.jpeg" style="width:65%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students enjoying a performance during Assembly Programme
 
 **Experience**<br>
