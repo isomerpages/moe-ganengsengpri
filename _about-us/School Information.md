@@ -37,14 +37,16 @@ description: ""
 **Arrival at School**
 
 * <p align="justify">Parents/Guardians can drop off their child/ward at the Bus Bay (if driving) or Main/Side Gate (if walking).</p>
-*   <p align="justify">Parents/Guardians are not allowed to go to the canteen, and terrace or walk along the corridors.</p><p>
+*   <p align="justify">Parents/Guardians are not allowed to go to the canteen, and terrace or walk along the corridors.</p>
 
 **Dismissal from School**  
 
-*   </p><p align="justify"><u>Primary 1 and 2</u>: Students will be brought to the dismissal areas by their teachers.&nbsp;</p>
+*   <p align="justify"><u>Primary 1 and 2</u>: Students will be brought to the dismissal areas by their teachers.&nbsp;</p>
 
 *   <p align="justify"><u>Primary 3 to 6</u>: Teachers will lead the students down to the ground floor of the classroom block and dismiss them from there.&nbsp;</p>
+
 *   <p align="justify">Students who are taking the school bus will line up at the basketball court at the Indoor Sports Hall before proceeding to board the bus.</p>
+
 *   <p align="justify">Parents/Guardians are to wait for their child/ward at the entrance of the Main Gate (blue gate) or Side Gate (red gate), or along the sheltered walkway from the main gate to the Bus Bay (parents should not go beyond the waiting point at the Bus Bay).&nbsp;</p>
 
 *   <p align="justify">Parents/Guardians can only drive into the school and pick up their child/ward from the Bus Bay 15 minutes after the official school dismissal time. This is to facilitate the smooth movement of the school buses as well as to ensure the safety of our students.</p>
