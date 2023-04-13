@@ -33,3 +33,4 @@ third_nav_title: LLP
 
 <img src="/images/cca%20performance_1.JPG" style="width:65%">
 <img src="/images/cca%20performance_2.jpg" style="width:65%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Performing Arts CCA performances
