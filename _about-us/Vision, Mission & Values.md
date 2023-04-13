@@ -31,4 +31,4 @@ _**Learners with Grit, Citizens with Heart**_
 | **Inclusiveness** | 1 \.&nbsp;I will learn, work and play with others.<br>2 \.&nbsp;I will value the opinions of others even if they are&nbsp;different from mine.<br>3 \.&nbsp;I will treat everyone fairly and equally. |
 | **Respect** | 1 \.&nbsp;I will take care of myself.<br>2 \.&nbsp;I will use kind words when speaking to others.<br>3 \.&nbsp;I will look after school property and keep the environment clean. |
 | **Empathy** | 1 \.&nbsp;I will put myself in the shoes of others.<br>2 \.&nbsp;I will consider the feelings of others.<br>3 \. I will lend a helping hand to those in need. |
-|  |  |<p></p>
+|  |  |
