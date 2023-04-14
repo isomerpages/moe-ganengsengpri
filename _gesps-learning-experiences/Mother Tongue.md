@@ -10,7 +10,7 @@ In GESPS, the Mother Tongue (MT) Department takes pride in designing meaningful 
 Students are equipped with skills of listening, speaking, reading, writing, as well as spoken and written interaction to enhance communication skills. Teachers guide students to understand and appreciate cultural materials to strengthen students’ global and cultural awareness. In addition, the department also create opportunities for students to learn and use the various language skills in authentic situations beyond the classrooms.  
   
 
-### **Embracing all Students – Curriculum Customisation**
+#### Embracing all Students – Curriculum Customisation
 
 In GESPS, we embrace learners of all abilities, offering different programmes to cater to the needs of our students. Examples of programmes offered by the MT department are as follows:
 
@@ -24,7 +24,7 @@ Students who are very proficient in the MTL will be offered HMTL at the end of P
  Mother Tongue Support Programme (MTSP) is a two-year programme customized for students who needs extra support to develop their proficiency in the MTL. Teachers teaching these classes are trained to provide varied teaching strategies and resources to engage students as well as to increase their proficiency level at the end of P4. For students requiring more support, the department also conducts the remediation programme for selected students.&nbsp;
 
 
-### **Fostering the Joy of Learning – Special Programmes**
+#### Fostering the Joy of Learning – Special Programmes
 
 To support GESPians to be active and proficient users of their Mother Tongue Languages, various programmes were designed to foster the joy of learning.&nbsp;&nbsp;
 
