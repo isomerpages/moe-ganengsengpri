@@ -3,6 +3,9 @@ title: Signature Programmes
 permalink: /gesps-distinctive-experiences/sig-progs/
 description: ""
 ---
+### Signature Programmes
+
+
 In Gan Eng Seng Primary School (GESPS), we recognize that students learn best when they are meaningfully engaged be it during lessons in schools or outside the classrooms. The GESPS Signature Programmes are designed to promote meaningful and joyful learning via integrated learning journeys to identified landmarks of Singapore. By the end of their six years of education in GESPS, students would achieve a better understanding of the significance of these landmarks and take pride in Singapore’s achievements. The opportunities to work together in groups as well as independently on projects related to these learning journeys would serve to develop students’ Social-Emotional and 21st Century Competencies.&nbsp;
 
   
