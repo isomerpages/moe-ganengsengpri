@@ -9,9 +9,9 @@ description: ""
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
@@ -19,7 +19,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Day</span><br></th>
+		<th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Day</span><br></th>
     <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Reporting Time</span><br></th>
     <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Dismissal Time</span><br></th>
   </tr>
