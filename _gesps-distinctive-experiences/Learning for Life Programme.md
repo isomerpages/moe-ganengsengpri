@@ -3,7 +3,7 @@ title: Learning for Life Programme
 permalink: /gesps-distinctive-experiences/llp/
 description: ""
 ---
-## LLP
+## Learning for Life Programme (LLP)
 
 **For the Love of the Arts**
 
