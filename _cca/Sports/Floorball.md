@@ -4,12 +4,12 @@ permalink: /cca/Sports/floorball/
 description: ""
 third_nav_title: Sports
 ---
-## Floorball
+### Floorball
 
-**Teacher 1 I/C:** **[Ms Hui Sou Kuin](mailto:hui_sou_kuin@schools.gov.sg)**<br>
-**Teacher 2 I/C:** **[Mrs Margaret Lim](mailto:low_hong_mei_margaret@schools.gov.sg)**
+**Teacher 1 I/C:**&nbsp;**[Ms Hui Sou Kuin](mailto:hui_sou_kuin@schools.gov.sg)**<br>
+**Teacher 2 I/C:**&nbsp;**[Mrs Margaret Lim](mailto:low_hong_mei_margaret@schools.gov.sg)**
 
-<img src="/images/floorball-clipart-8.jpg" style="width:49%" align=right>
+<img src="/images/floorball-clipart-8.jpg" style="width:49%" align="right">
 
 Floorball will be a newly introduced CCA in 2021.!
   
