@@ -3,10 +3,10 @@ title: School's Strategic Goals
 permalink: /about-us/ssg/
 description: ""
 ---
-## School's Strategic Goals
+### School's Strategic Goals
 
-**Thrust 1: Lifelong Learners** <br>
-SG 1: Students express themselves confidently and communicate effectively.  <br>
+**Thrust 1: Lifelong Learners**&nbsp;<br>
+SG 1: Students express themselves confidently and communicate effectively.&nbsp;&nbsp;<br>
 SG 2: Students think critically, creatively and have a lively curiosity.<br>
 SG 3: Students pursue their passions and develop their interests and strengths.
 
