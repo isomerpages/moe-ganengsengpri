@@ -3,9 +3,7 @@ title: English
 permalink: /gesps-learning-experiences/eng/
 description: ""
 ---
-### English
-
-#### Learning English @GESPS
+### Learning English @GESPS
 
 <p align="justify"> The English curriculum in Gan Eng Seng Primary School is designed to meet the needs, abilities and interests of GESPians. With the national curriculum STELLAR (STrategies for English Language Learning And Reading) forming the core, GESPS’ instructional programme for the English Language (EL) also comprises our own school-based curriculum in oracy, reading and writing. These efforts aim to develop the&nbsp;GESPian&nbsp;into a confident and engaged learner who are competent in the language skills of listening, speaking, reading and writing in EL.</p>
 
