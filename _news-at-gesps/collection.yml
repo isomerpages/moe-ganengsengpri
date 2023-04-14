@@ -2,5 +2,4 @@ collections:
   news-at-gesps:
     output: true
     order:
-      - 2022.md
       - News @GESPS.md
