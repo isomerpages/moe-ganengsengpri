@@ -4,7 +4,7 @@ permalink: /about-us/School-Rules/looking-ate/
 description: ""
 third_nav_title: School Rules
 ---
-## Looking after the Environment
+### Looking after the Environment
 
 To keep the school clean and conducive for learning, GESPians must demonstrate the following behaviours:
 
