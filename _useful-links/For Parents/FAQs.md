@@ -4,7 +4,7 @@ permalink: /quick-links/For-Parents/faqs/
 description: ""
 third_nav_title: For Parents
 ---
-## FAQs
+### FAQs
 
 #### (A) Student Admission
 
@@ -29,9 +29,9 @@ iii. Approach MOE for assistance
 **Leave of Absence**
 
 **Q1: What is Leave of Absence (LOA)?**<br>
-In support of Singapore's internationalisation efforts, MOE has implemented a Leave of Absence (LOA) Scheme to facilitate the re-admission of children who accompany their parents on overseas postings upon their return. If your child is granted LOA, he/she will continue to be registered as a student of the school. Upon your return, your child can then be re-admitted to his/her former school directly. More details can be found on MOE's <br>website: [https://www.moe.gov.sg/admissions/returning-singaporeans/support-schemes](https://www.moe.gov.sg/admissions/returning-singaporeans/support-schemes). **PAGE NOT FOUND**
+In support of Singapore's internationalisation efforts, MOE has implemented a Leave of Absence (LOA) Scheme to facilitate the re-admission of children who accompany their parents on overseas postings upon their return. If your child is granted LOA, he/she will continue to be registered as a student of the school. Upon your return, your child can then be re-admitted to his/her former school directly. More details can be found on MOE's <br>website:&nbsp;[https://www.moe.gov.sg/admissions/returning-singaporeans/support-schemes](https://www.moe.gov.sg/admissions/returning-singaporeans/support-schemes). **PAGE NOT FOUND**
 
-#### (B) Finance Matters
+#### (B)&nbsp;Finance Matters
 
 **School and Miscellaneous Fees**
 
@@ -55,7 +55,7 @@ iii. Pay at your child's school (cash, cheque or cashier's order)<br>
 iv. Pay at MOE's Customer Service Centre (cash, cheque or NETS)<br>
 v. Send a cheque payable to "Ministry Of Education" to the following address:
 
-Ministry of Education, Finance & Procurement Division, Casher's Unit,<br> 
+Ministry of Education, Finance &amp; Procurement Division, Casher's Unit,<br> 
 1 North Buona Vista Drive, MOE Building, <br>
 Singapore 138675  <br>
 Please write the student's name, NRIC number and school name on the reverse side of the cheque.
