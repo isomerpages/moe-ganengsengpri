@@ -3,7 +3,7 @@ title: Applied Learning Programme
 permalink: /gesps-distinctive-experiences/alp/
 description: ""
 ---
-## ALP
+## Applied Learning Programme (ALP)
 
 **Applied Learning Programme – From Farm to Table**
 
