@@ -3,7 +3,7 @@ title: School Environment
 permalink: /about-us/sch-enviro/
 description: ""
 ---
-## School Environment
+### School Environment
 
 Click on the photo to view the school environment.
 
