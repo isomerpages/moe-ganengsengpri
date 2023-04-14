@@ -4,10 +4,10 @@ permalink: /cca/Clubs/permalink/
 description: ""
 third_nav_title: Clubs
 ---
-## Art Club
+### Art Club
 
-**Teacher 1 I/C:** **[Mrs Chin-Lee Siew Gin](mailto:chin-lee_siew_gin@schools.gov.sg)** <br>
-**Teacher 2 I/C:** **[Mrs Caroline Low](mailto:low_kwee_choo_caroline@schools.gov.sg)**
+**Teacher 1 I/C:**&nbsp;**[Mrs Chin-Lee Siew Gin](mailto:chin-lee_siew_gin@schools.gov.sg)** <br>
+**Teacher 2 I/C:**&nbsp;**[Mrs Caroline Low](mailto:low_kwee_choo_caroline@schools.gov.sg)**
 
 The Art Club is a Co-Curricular Activity that unleashes our students’ creativity. Our students are exposed to different art forms and media and learn artistic skills in areas such as:  
   
