@@ -15,5 +15,8 @@ sections:
         - title: GESPS Corporate Video
           description: ""
           url: https://go.gov.sg/gesps-corporate-video
+        - title: News @GESPS
+          description: Key Highlight description
+          url: ""
       url: /about-us/contact-us/
 ---
