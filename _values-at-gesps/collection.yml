@@ -2,6 +2,7 @@ collections:
   values-at-gesps:
     output: true
     order:
+      - CCA/CCA.md
       - CCA/.keep
       - CCE Curriculum.md
       - Values In Action (VIA).md
