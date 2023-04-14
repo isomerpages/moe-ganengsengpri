@@ -3,7 +3,7 @@ title: Vice Principals
 permalink: /gesps-family/vp/
 description: ""
 ---
-## Vice Principals
+### Vice Principals
 
 <img src="/images/EllenandRichard.jpeg" style="width:50%">
 
