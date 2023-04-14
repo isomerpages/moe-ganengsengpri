@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - LLP.md
-      - LLP/.keep
       - ALP.md
       - Signature Programmes.md
