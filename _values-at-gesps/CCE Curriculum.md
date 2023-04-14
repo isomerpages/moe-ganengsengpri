@@ -3,8 +3,7 @@ title: CCE Curriculum
 permalink: /gesps-cce-experiences/CCA/cce/
 description: ""
 ---
-
-## CCE Curriculum
+### CCE Curriculum
 
 In GESPS, we are guided by three principles when inculcating values and building competencies in our students. There are
 
@@ -29,7 +28,7 @@ Based on Bronfenbrenner’s Ecological Systems Theory, the CCE lessons and activ
 
 <img src="/images/The-Spiraling-Curriculum.png" style="width:70%">
 
-**Our Programmes & Activities**
+**Our Programmes &amp; Activities**
 
 We have designed programmes and activities for all levels. Some of the activities include Values-in-Action and career guidance activities as well as learning journeys and assembly talks.
 
@@ -37,4 +36,4 @@ We have designed programmes and activities for all levels. Some of the activitie
 
 <img src="/images/photo1668928635.jpeg" style="width:85%">
 
-To better inculcate 21st century learners with the right values on and offline, the school put together a cyberwellness program that advocates students to exhibit positive behavior when using ICT. Students are taught and reminded of the cyberwellness messages during ICT programmes and lessons.
+To better inculcate 21st&nbsp;century learners with the right values on and offline, the school put together a cyberwellness program that advocates students to exhibit positive behavior when using ICT. Students are taught and reminded of the cyberwellness messages during ICT programmes and lessons.
