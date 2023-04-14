@@ -2,7 +2,6 @@ collections:
   values-at-gesps:
     output: true
     order:
-      - Aesthetics/.keep
       - CCA/CCA.md
       - CCA/.keep
       - CCE Curriculum.md
