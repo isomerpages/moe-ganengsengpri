@@ -44,7 +44,7 @@ description: ""
 <p align="justify">At the upper primary levels, high progress students have literature enrichment lessons to deepen their appreciation&nbsp;of the&nbsp;language and enhance their&nbsp;enhance their analytical thinking through the&nbsp;study of a chapter book. In addition,students are exposed to newspaper reading for class&nbsp;sharing and discussion of current events and issues. Selected students&nbsp;will go through debate&nbsp;and creative writing lessons to challenge themselves beyond what they have learnt in the&nbsp;curriculum.&nbsp;At the middle primary, students get to read&nbsp;supplementary literary magazines which are subscribed&nbsp;which&nbsp;are subscribed to arouse&nbsp;and sustain their interest in English.</p>
 
 
-#### **Fostering the Joy of Learning – Special Programmes**
+#### Fostering the Joy of Learning – Special Programmes
 
 <p align="justify">Besides the pedagogical efforts in the school English curriculum, the school seeks to provide authentic platforms for students to demonstrate their language skills and instill the joy of learning.  </p>
 
