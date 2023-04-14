@@ -2,7 +2,6 @@ collections:
   values-at-gesps:
     output: true
     order:
-      - Aesthetics/Band.md
       - Aesthetics/.keep
       - CCE Curriculum.md
       - Values In Action (VIA).md
