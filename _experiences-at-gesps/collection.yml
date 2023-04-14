@@ -1,5 +1,5 @@
 collections:
-  gesps-distinctive-experiences:
+  experiences-at-gesps:
     output: true
     order:
       - Learning for Life Programme.md
