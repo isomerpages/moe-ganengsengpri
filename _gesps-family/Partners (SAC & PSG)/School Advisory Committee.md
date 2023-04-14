@@ -4,7 +4,7 @@ permalink: /gesps-family/Partners-SAC-and-PSG/sac/
 description: ""
 third_nav_title: Partners (SAC &amp; PSG)
 ---
-## School Advisory Committee (SAC)
+### School Advisory Committee (SAC)
 
 <p align="justify">Our School Advisory Committee comprises representatives from the Business sector, parents and grassroots leaders. The functions of the Advisory Committee are:
 
