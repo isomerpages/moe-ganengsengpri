@@ -4,7 +4,7 @@ permalink: /about-us/vmv/
 description: ""
 ---
 ### Vision, Mission &amp; Values
-# 
+
 #### Vision
 
 _**Learners with Grit, Citizens with Heart**_  
