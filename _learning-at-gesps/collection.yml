@@ -1,5 +1,5 @@
 collections:
-  gesps-learning-experiences:
+  learning-at-gesps:
     output: true
     order:
       - English.md
