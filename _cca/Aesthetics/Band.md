@@ -4,7 +4,7 @@ permalink: /cca/Aesthetics/band/
 description: ""
 third_nav_title: Aesthetics
 ---
-## Band
+### Band
 
 **Teacher 1 I/C:**&nbsp;**[Mrs Lilian Lim](mailto:ho_lilian@schools.gov.sg)**&nbsp;<br>
 **Teacher 2 I/C:** **[Ms Hazel Sim](mailto:sim_geok_keow@schools.gov.sg)**
