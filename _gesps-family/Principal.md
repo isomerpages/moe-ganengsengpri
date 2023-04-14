@@ -3,7 +3,7 @@ title: Principal
 permalink: /gesps-family/principal/
 description: ""
 ---
-## Principal's Message
+### Principal's Message
 
 <img src="/images/Mr Roy (edited).jpg" style="width:35%; margin-right:20px; vertical-align:middle;" align="left">
 
