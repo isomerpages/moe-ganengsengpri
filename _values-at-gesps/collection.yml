@@ -1,5 +1,5 @@
 collections:
-  gesps-cce-experiences:
+  values-at-gesps:
     output: true
     order:
       - CCA/.keep
