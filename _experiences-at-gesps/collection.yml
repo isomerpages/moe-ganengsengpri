@@ -2,6 +2,6 @@ collections:
   experiences-at-gesps:
     output: true
     order:
-      - Learning for Life Programme.md
+      - Learning for Life Programme (LLP).md
       - Applied Learning Programme.md
       - Signature Programmes.md
