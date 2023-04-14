@@ -3,9 +3,9 @@ title: Student Leadership
 permalink: /gesps-cce-experiences/sl/
 description: ""
 ---
-## Student Leadership
+### Student Leadership
 
-<p align="center"> Overview of Student Leadership in GESPS</p>
+**Overview of Student Leadership in GESPS**
 
 Student Leadership in GESPS adopts the Learn-Lead-Lift (L3) approach.
 
@@ -23,9 +23,9 @@ Forming the Executive Committee (EXCO) are the Head Prefect, Vice Head Prefect, 
 
 <img src="/images/Prefectorial Board.png" style="width:85%">
 
-Each committee has its area of specialisation. Prefect meetings are held monthly to communicate information as well as to conduct trainings so that prefects can carry out their roles effectively. 
+Each committee has its area of specialisation. Prefect meetings are held monthly to communicate information as well as to conduct trainings so that prefects can carry out their roles effectively.&nbsp;
 
-A key programme of the Prefectorial Board is the annual Prefect Investiture. It is a ceremony that formally officiates and congratulates the appointments of the prefects. Due to the Covid-19 situation, our Prefect Investiture this year, was held virtually. Here are some photos of Prefect Investiture 2020.
+A key&nbsp;programme&nbsp;of the&nbsp;Prefectorial&nbsp;Board is the annual Prefect Investiture. It is a ceremony that formally officiates and congratulates the appointments of the prefects.&nbsp;Due to the Covid-19 situation, our Prefect Investiture this year, was held virtually. Here&nbsp;are some photos of Prefect Investiture&nbsp;2020.
 
 <img src="/images/Picture 1.jpg" style="width:85%"><br>
 <img src="/images/Picture 2.jpg" style="width:85%"><br>
