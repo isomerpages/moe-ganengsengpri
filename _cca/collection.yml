@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Aesthetics/.keep
-      - Aesthetics/Band.md
       - Aesthetics/Choir.md
       - Aesthetics/Chinese Dance.md
       - Aesthetics/Malay Dance.md
