@@ -4,7 +4,7 @@ permalink: /about-us/School-Rules/sch-conduct/
 description: ""
 third_nav_title: School Rules
 ---
-## School Conduct
+### School Conduct
 
 <p align="justify">Gan Eng Seng Primary School is committed in providing a safe and caring environment for each student.&nbsp;We seek to inculcate in our students the sense of responsibility and respect for oneself, towards others and also the environment.</p>
 
