@@ -43,10 +43,10 @@ links:
   - title: LEARNING @GESPS
     collection: gesps-learning-experiences
   - title: EXPERIENCES @GESPS
-    url: /gesps-distinctive-experiences/LLP/
+    url: /gesps-distinctive-experiences/llp
     sublinks:
       - title: Learning for Life Programme
-        url: /gesps-distinctive-experiences/LLP/
+        url: /gesps-distinctive-experiences/llp/
       - title: Applied Learning Programme
         url: /gesps-distinctive-experiences/alp/
       - title: Signature Programmes
