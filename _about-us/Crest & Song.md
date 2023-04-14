@@ -3,9 +3,9 @@ title: Crest &amp; Song
 permalink: /about-us/crestnsong/
 description: ""
 ---
-## Crest &amp; Song
+### Crest &amp; Song
 
-#### School Crest
+**School Crest**
 
 <img src="/images/school-crest-1.jpg" style="width:35%">
 
@@ -19,7 +19,7 @@ The colour ‘blue’ symbolises the foundation of wisdom and knowledge upon whi
   
 The hand symbolizes our pupils holding their future in their hands and the school providing a nurturing environment; protective and empowering.
 
-#### School Song
+**School Song**
 
 _(Composer: Mr Ng Tian Hui; Lyrics by: Mr Eddie Foo and Ms Cindy Lee)_
 
