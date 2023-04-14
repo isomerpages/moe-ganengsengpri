@@ -3,7 +3,7 @@ title: School Information
 permalink: /about-us/sch-info/
 description: ""
 ---
-## School Information
+### School Information
 
 **2023**
 
