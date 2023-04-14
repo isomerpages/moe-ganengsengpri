@@ -3,7 +3,7 @@ title: For Teachers
 permalink: /quick-links/for-teachers/
 description: ""
 ---
-## For Teachers
+### For Teachers
 
 **Useful links (click on the link below to open page)**
 
