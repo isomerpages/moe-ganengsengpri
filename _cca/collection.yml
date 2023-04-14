@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA.md
       - Aesthetics/.keep
       - Aesthetics/Band.md
       - Aesthetics/Choir.md
