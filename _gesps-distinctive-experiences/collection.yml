@@ -2,6 +2,7 @@ collections:
   gesps-distinctive-experiences:
     output: true
     order:
+      - LLP.md
       - LLP/.keep
       - ALP.md
       - Signature Programmes.md
