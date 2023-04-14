@@ -4,7 +4,7 @@ permalink: /gesps-family/Teachers/p2/
 description: ""
 third_nav_title: Teachers
 ---
-## Primary Two
+### Primary Two
 
 #### Class:
 
