@@ -3,7 +3,7 @@ title: Teacher Leaders
 permalink: /gesps-family/teacher-ldrs/
 description: ""
 ---
-## Teacher Leaders
+### Teacher Leaders
 
 <img src="/images/photo1668938929.jpeg" style="width:85%">
 
