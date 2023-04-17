@@ -9,9 +9,9 @@ locations:
       - Singapore 158901
       - ""
     operating_hours:
-      - days: Mon - Fri
+      - days: Mon-Fri
         time: 7.00am - 6.00pm
-        description: The office is closed on weekends and public holidays.
+        description: "*The office is closed on weekends and public holidays."
     maps_link: ""
     title: Address
 contacts:
