@@ -3,7 +3,7 @@ title: History
 permalink: /about-us/history/
 description: ""
 ---
-##### **Gan Eng Seng, philanthropist <br>(Pinyin: Yan Yongcheng; 1844—1899)**
+#### Gan Eng Seng, philanthropist <br>(Pinyin: Yan Yongcheng; 1844—1899)
 
 <img src="/images/history.jpg" style="width:20%" align="left">
 <p align="justify">Gan Eng Seng was one of the early pioneers of Singapore who was known for his generosity to many charitable causes during the era of the British Straits Settlements of Malaya and Singapore.</p>
