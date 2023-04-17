@@ -35,4 +35,16 @@ contacts:
       - email: ""
       - other: Bukit Merah
     title: Nearest Bus Interchange
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Along Redhill Road: Bus 63 Jalan Bukit Merah: Bus 14, 147, 196, 197,
+          961, 855"
+    title: Bus Services
+  - content:
+      - phone: ""
+      - email: ""
+      - other: When driving along Bukit Merah, please turn left into Redhill Close just
+          after Bukit Merah Community Centre.
+    title: Driving here
 ---
