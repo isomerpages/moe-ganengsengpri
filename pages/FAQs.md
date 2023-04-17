@@ -4,7 +4,7 @@ permalink: /faqs/
 description: ""
 ---
 #### (A) Student Admission
-**Returning Singaporeans**
+##### Returning Singaporeans
 
 **Q1: What does MOE mean by ‘Returning Singaporean children’?**<br>
 Returning Singaporean children are Singapore Citizens or Singapore Permanent Residents children who are:
@@ -25,13 +25,13 @@ ii. Apply directly to your preferred schools - Returning Singaporeans may approa
 
 iii. Approach MOE for assistance
 
-**Leave of Absence**
+##### Leave of Absence
 
 **Q1: What is Leave of Absence (LOA)?**<br>
 In support of Singapore’s internationalisation efforts, MOE has implemented a Leave of Absence (LOA) Scheme to facilitate the re-admission of children who accompany their parents on overseas postings upon their return. If your child is granted LOA, he/she will continue to be registered as a student of the school. Upon your return, your child can then be re-admitted to his/her former school directly. More details can be found on MOE’s website: [Overview of school admissions for Returning Singaporeans | MOE](https://www.moe.gov.sg/returning-singaporeans)
 
 #### (B) Finance Matters
-**School and Miscellaneous Fees**
+##### School and Miscellaneous Fees
 
 **Q1: What are the current fees payable?**<br>
 The school and miscellaneous fees payable by students in 2018 are shown in the table below:
@@ -65,7 +65,7 @@ Due to transfer of schools and new admissions, the students’ information in MO
 **Q4: Why are December’s fees included in November’s bill for cash-paying students?**<br>
 December’s fees are included in November’s bill because of the December school holidays.
 
-**Edusave Contributions**
+##### Edusave Contributions
 
 **Q1: Who is eligible for Edusave contribution?**<br>
 All Singaporean children who are enrolled in MOE-funded schools will be given an Edusave account and receive an annual Edusave contribution.
