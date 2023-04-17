@@ -16,13 +16,18 @@ locations:
     title: Address
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: ""
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedbacks
+  - content:
+      - phone: +65 6479 4152
+      - email: ""
+      - other: ""
+    title: Fax
+  - content:
+      - phone: +65 6471 7451
+      - email: gesps@moe.edu.sg
+      - other: ""
+    title: General Office
 ---
