@@ -4,8 +4,6 @@ permalink: /gesps-family/Teachers/p5/
 description: ""
 third_nav_title: Teachers
 ---
-### Primary Five
-
 #### Class:
 
 **5 Integrity**
