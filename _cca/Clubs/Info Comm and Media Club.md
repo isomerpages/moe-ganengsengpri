@@ -4,12 +4,10 @@ permalink: /cca/Clubs/icmc/
 description: ""
 third_nav_title: Clubs
 ---
-### Info-Comm and Media Club
-
 **Teacher 1 I/C:**&nbsp;**[Mr Rashidi](mailto:muhammad_rashidi_ramli@schools.gov.sg)**  <br>
 **Teacher 2 I/C:**&nbsp;**[Ms Odelia Tiong](mailto:odelia_tiong_hui_xuan@schools.gov.sg)**
 
-Info-Comm and Media Club (IMC) aims to develop 21st century competencies and digital literacies in the students. Through authentic learning scenarios, students are tasked to come up with solutions to real-world issues, thus stretching their critical and computational thinking.&nbsp;  
+<p align="justify">Info-Comm and Media Club (IMC) aims to develop 21st century competencies and digital literacies in the students. Through authentic learning scenarios, students are tasked to come up with solutions to real-world issues, thus stretching their critical and computational thinking.&nbsp;</p>
 
 Here are the key programmes unique to IMC:
 
@@ -21,7 +19,7 @@ Here are the key programmes unique to IMC:
 *   Coding (with drones, leading to aerial photography)
 *   Animation (using Scratch)
 
-An important part of learning is the transference of skills to others. IMC members are given the opportunities to share their skills with members of other CCAs like the uniform groups (ie. Scouts, Brownies). They shared what they have learned about cyberwellness with the uniform groups and enlisted their help to become cyberwellness advocates. This initiative is well-received by the uniform groups and IMC will continue to look for opportunities to share their skills (like photography, videography, coding) with other CCAs.
+<p align="justify">An important part of learning is the transference of skills to others. IMC members are given the opportunities to share their skills with members of other CCAs like the uniform groups (ie. Scouts, Brownies). They shared what they have learned about cyberwellness with the uniform groups and enlisted their help to become cyberwellness advocates. This initiative is well-received by the uniform groups and IMC will continue to look for opportunities to share their skills (like photography, videography, coding) with other CCAs.</p>
 
 **Drones Competition 2019**
 
@@ -35,8 +33,4 @@ An important part of learning is the transference of skills to others. IMC membe
 <img src="/images/Photography_2.jpg" style="width:70%" align="right">
 <br clear="right"><br>
 
-<p align="center"> Green Explorers Club members in collaboration with Info-Comm Media Club to educate students and stakeholders on recycling.</p>
-
-**REQUIRE JACKSON'S INPUT VIDEO 1**
-
-**REQUIRE JACKSON'S INPUT VIDEO 2**
+<p align="justify"> Green Explorers Club members in collaboration with Info-Comm Media Club to educate students and stakeholders on recycling.</p>
