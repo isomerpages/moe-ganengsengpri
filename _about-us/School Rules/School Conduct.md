@@ -4,8 +4,6 @@ permalink: /about-us/School-Rules/sch-conduct/
 description: ""
 third_nav_title: School Rules
 ---
-### School Conduct
-
 <p align="justify">Gan Eng Seng Primary School is committed in providing a safe and caring environment for each student.&nbsp;We seek to inculcate in our students the sense of responsibility and respect for oneself, towards others and also the environment.</p>
 
 Students&nbsp;must adhere to the following:  
@@ -40,7 +38,7 @@ iii)&nbsp;P.E. attire
 
 iv)&nbsp;Jewellery  
 
-*  *   Jewellery is&nbsp;<u>not</u>&nbsp;allowed except for small, simple ear studs for girls. Only one pair of ear studs are allowed to be worn at a time.
+*  Jewellery is&nbsp;<u>not</u>&nbsp;allowed except for small, simple ear studs for girls. Only one pair of ear studs are allowed to be worn at a time.
 
 v)&nbsp;Grooming  
 
@@ -64,27 +62,27 @@ School Uniform / P.E. Attire
 
 <p align="center">Our School Rules</p>
 
-2 \. Looking after Personal Belongings  
+**2 \. Looking after Personal Belongings**
 
 *   Students should take care of their belongings.&nbsp;
 *   Students should bring only sufficient pocket money for the day.
 *   Students are strongly discouraged from bringing mobile phones/ smartwatches/ electronic devices to school.
 
-*  * The school will not be responsible for any damage or loss of these devices and peripherals.
-*   *  Mobile phones/ smartwatches with calling and recording functions such as video and photography capabilities must not be activated during curriculum hours so that students can be fully engaged in their lessons.
-*  *   In the case of an emergency, students should seek the teacher's permission to make an urgent call. After curriculum hours, students should only use their mobile phones outside the General Office, after obtaining permission from the office staff, or at the Main/Side gates.
-*  * Students caught breaking these rules will have their mobile phones confiscated by the school. A parent may be asked to come to school to claim the item.
+*  The school will not be responsible for any damage or loss of these devices and peripherals.
+*   Mobile phones/ smartwatches with calling and recording functions such as video and photography capabilities must not be activated during curriculum hours so that students can be fully engaged in their lessons.
+*  In the case of an emergency, students should seek the teacher's permission to make an urgent call. After curriculum hours, students should only use their mobile phones outside the General Office, after obtaining permission from the office staff, or at the Main/Side gates.
+*  Students caught breaking these rules will have their mobile phones confiscated by the school. A parent may be asked to come to school to claim the item.
 
-3 \.&nbsp;Looking After The Environment
+**3 \.&nbsp;Looking After The Environment**
 
 *   Students should only eat and drink in the canteen.&nbsp; After eating, they must clear the table&nbsp; and return their plates and cutlery to the receptacles provided by the canteen operators.
 
 *   Students must take care of school property and keep the school litter-free.
 
-4 \.&nbsp;Attendance
+**4 \.&nbsp;Attendance**
 
 *   Students must attend school regularly.&nbsp; Medical certificates/parent’s letter for absence from school must be submitted to the Form Teacher the day the student returns to school. Parents/Guardians are encouraged to inform the Form Teacher of their child's/ward's absence by 7.30am.
 
-5 \.&nbsp;Punctuality
+**5 \.&nbsp;Punctuality**
 
 *   Students must be in school on time (by 7.30am) for the singing of the national anthem and pledge taking.
