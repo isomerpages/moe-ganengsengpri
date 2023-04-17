@@ -4,8 +4,6 @@ permalink: /about-us/School-Rules/safety/
 description: ""
 third_nav_title: School Rules
 ---
-### Safety
-
 #### Safety for All
 
 <p align="justify">The school ensures that its grounds remain as safe, orderly and conducive as possible for learning.&nbsp; Our General Office staff will promptly treat all minor injuries such as cuts and bruises sustained by our pupils.&nbsp; Parents/Guardians can assist by reminding and encouraging their children/ward to play with safety in mind and pay attention to safety rules around the school.&nbsp; Our school regularly reminds pupils to adhere to the following.</p>
