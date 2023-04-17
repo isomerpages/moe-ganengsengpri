@@ -4,8 +4,6 @@ permalink: /gesps-family/Teachers/p4/
 description: ""
 third_nav_title: Teachers
 ---
-### Primary Four
-
 #### Class:
 
 **4 Perseverance**  
