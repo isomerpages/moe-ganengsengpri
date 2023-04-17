@@ -2,8 +2,6 @@
 title: FAQ
 permalink: /faq/
 ---
-### **FAQs**
-
 #### (A) Student Admission
 **Returning Singaporeans**
 
