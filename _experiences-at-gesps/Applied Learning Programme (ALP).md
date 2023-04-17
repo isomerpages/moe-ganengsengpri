@@ -3,9 +3,7 @@ title: Applied Learning Programme (ALP)
 permalink: /gesps-distinctive-experiences/alp/
 description: ""
 ---
-### Applied Learning Programme (ALP)
-
-**Applied Learning Programme – From Farm to Table**
+#### Applied Learning Programme – From Farm to Table
 
 Applied Learning Programmes (ALPs) are programmes designed by schools to help students apply their learning to the real world, providing them with the authentic learning situations and making meaning of their learning as they apply the knowledge and skills learnt.
 
