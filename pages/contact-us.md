@@ -25,4 +25,14 @@ contacts:
       - email: ""
       - other: ""
     title: Fax
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Redhill Station
+    title: Nearest MRT Station
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Bukit Merah
+    title: Nearest Bus Interchange
 ---
