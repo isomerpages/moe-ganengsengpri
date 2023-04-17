@@ -3,23 +3,20 @@ title: Student Leadership
 permalink: /gesps-cce-experiences/sl/
 description: ""
 ---
-### Student Leadership
-
-**Overview of Student Leadership in GESPS**
+#### Overview of Student Leadership in GESPS
 
 Student Leadership in GESPS adopts the Learn-Lead-Lift (L3) approach.
 
 <img src="/images/Lift Lead Learn.png" style="width:30%">
 
-Under the ‘Learn’ stage, all students would be given opportunities to learn to be leaders either during FTGP lessons or through cohort training for the Primary 4 and 5 students. At this stage, students will also be given opportunities to be in class-based leadership positions and they include monitors, assistant monitors as well as group leaders.
+<p align="justify">Under the ‘Learn’ stage, all students would be given opportunities to learn to be leaders either during FTGP lessons or through cohort training for the Primary 4 and 5 students. At this stage, students will also be given opportunities to be in class-based leadership positions and they include monitors, assistant monitors as well as group leaders.</p>
 
-The ‘Lead’ stage will involve selected students being given a bigger leadership role. These roles would include CCE ambassadors and subject representatives who would lead in level-wide events. At the ‘lift’ stage, students will be given school-based leadership positions and they include peer support leaders, CCA leaders and prefects.
+<p align="justify">The ‘Lead’ stage will involve selected students being given a bigger leadership role. These roles would include CCE ambassadors and subject representatives who would lead in level-wide events. At the ‘lift’ stage, students will be given school-based leadership positions and they include peer support leaders, CCA leaders and prefects.</p>
 
 <img src="/images/Pic 1.jpg" style="width:85%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prefectorial Board
 
-<p align="center"> Prefectorial Board</p>
-
-Forming the Executive Committee (EXCO) are the Head Prefect, Vice Head Prefect, Committee Head (Welfare), Committee Head (Sports), Committee Head (AV/ICT) and Committee Head (Discipline) respectively. The organisation chart of prefects is summarised below.
+<p align="justify">Forming the Executive Committee (EXCO) are the Head Prefect, Vice Head Prefect, Committee Head (Welfare), Committee Head (Sports), Committee Head (AV/ICT) and Committee Head (Discipline) respectively. The organisation chart of prefects is summarised below.</p>
 
 <img src="/images/Prefectorial Board.png" style="width:85%">
 
