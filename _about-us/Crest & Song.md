@@ -3,8 +3,6 @@ title: Crest &amp; Song
 permalink: /about-us/crestnsong/
 description: ""
 ---
-### Crest &amp; Song
-
 ##### School Crest
 
 <img src="/images/school-crest-1.jpg" style="width:35%">
