@@ -4,7 +4,7 @@ permalink: /gesps-family/non-ts/
 description: ""
 ---
 |  |  |
-|:---:|---|
+|---|---|
 | **Administration Manager** | Mdm Ariel Lee Wei Jin |
 | **Operations Manager** |  Mr Bernard Chia |
 | **Operations Manager** | Mr Richards Tranley Peter |
