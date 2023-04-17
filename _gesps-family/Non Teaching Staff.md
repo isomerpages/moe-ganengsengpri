@@ -3,8 +3,6 @@ title: Non Teaching Staff
 permalink: /gesps-family/non-ts/
 description: ""
 ---
-### Non-Teaching Staff
-
 |  |  |
 |:---:|---|
 | **Administration Manager** | Mdm Ariel Lee Wei Jin |
