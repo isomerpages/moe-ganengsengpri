@@ -38,8 +38,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "Along Redhill Road: Bus 63                             Jalan Bukit
-          Merah: Bus 14, 147, 196, 197, 961, 855"
+      - other: "Along Redhill Road: Bus 63<br>Jalan Bukit Merah: Bus 14, 147, 196, 197,
+          961, 855"
     title: Bus Services
   - content:
       - phone: ""
