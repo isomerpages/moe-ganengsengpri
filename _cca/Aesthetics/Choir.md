@@ -4,8 +4,6 @@ permalink: /cca/Aesthetics/choir/
 description: ""
 third_nav_title: Aesthetics
 ---
-#### Choir
-
 **Teacher 1 I/C:** &nbsp;**[Mdm Chen Hsueh Lien](mailto:chen_hsueh_lien@schools.gov.sg)**<br>
 **Teacher 2 I/C:** &nbsp;**[Mrs Angeline Ng](mailto:angeline_ong_ling_ling@schools.gov.sg)**
 
