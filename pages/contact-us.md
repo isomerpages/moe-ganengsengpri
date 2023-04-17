@@ -16,18 +16,13 @@ locations:
     title: Address
 contacts:
   - content:
-      - phone: ""
-      - email: ""
+      - phone: +65 6471 7451
+      - email: gesps@moe.edu.sg
       - other: ""
-    title: General Enquiries & Feedbacks
+    title: General Office
   - content:
       - phone: +65 6479 4152
       - email: ""
       - other: ""
     title: Fax
-  - content:
-      - phone: +65 6471 7451
-      - email: gesps@moe.edu.sg
-      - other: ""
-    title: General Office
 ---
