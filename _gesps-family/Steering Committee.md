@@ -3,7 +3,6 @@ title: Steering Committee
 permalink: /gesps-family/steering-committee/
 description: ""
 ---
-#### Steering Committee
 
 <img src="/images/Steering%20Com.png">
 
