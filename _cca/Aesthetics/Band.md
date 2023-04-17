@@ -13,6 +13,6 @@ third_nav_title: Aesthetics
 
 <figure>
 <img src="/images/Getting ready for our outdoor performance at Istana on Labour Day 2019.jpeg" style="width:50%">
-<figcaption>  Getting ready for our outdoor performance at Istana on Labour Day 2019
- </figcaption>
+Getting ready for our outdoor performance at Istana on Labour Day 2019
+ 
 </figure>
