@@ -3,7 +3,7 @@ title: Aesthetics
 permalink: /gesps-learning-experiences/aesthetics/
 description: ""
 ---
-### Aesthetics Department
+#### Learning Aesthetics @GESPS
 
 The Aesthetics Subjects, namely Music &amp; Art, provides opportunities for students to connect, explore and express themselves in and through the Arts.&nbsp; The syllabuses in the Aesthetics subjects aims to:  
   
