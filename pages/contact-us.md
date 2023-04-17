@@ -2,31 +2,49 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Gan Eng Seng Primary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 100 Redhill Close
+      - Singapore 158901
+      - ""
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Mon-Fri
+        time: 7.00am - 6.00pm
+        description: "*The office is closed on weekends and public holidays."
+    maps_link: ""
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6471 7451
+      - email: gesps@moe.edu.sg
+      - other: ""
+    title: General Office
+  - content:
+      - phone: +65 6479 4152
+      - email: ""
+      - other: ""
+    title: Fax
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Redhill Station
+    title: Nearest MRT Station
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Bukit Merah
+    title: Nearest Bus Interchange
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Along Redhill Road: Bus 63<br>Jalan Bukit Merah: Bus 14, 147, 196, 197,
+          961, 855"
+    title: Bus Services
+  - content:
+      - phone: ""
+      - email: ""
+      - other: When driving along Bukit Merah, please turn left into Redhill Close just
+          after Bukit Merah Community Centre.
+    title: Driving here
 ---

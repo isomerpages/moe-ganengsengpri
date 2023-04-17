@@ -4,8 +4,6 @@ permalink: /gesps-family/Teachers/p1/
 description: ""
 third_nav_title: Teachers
 ---
-## Primary One
-
 #### Class:
 
 **1 Self-Discipline**

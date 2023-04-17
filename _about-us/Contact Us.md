@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /about-us/contact-us/
 description: ""
 ---
-## Contact Us
+### Contact Us
 
 **General Office:**&nbsp;(65) 6471 7451  
 **Fax:**&nbsp;(65) 6479 4152  

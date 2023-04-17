@@ -3,8 +3,6 @@ title: Vision, Mission &amp; Values
 permalink: /about-us/vmv/
 description: ""
 ---
-## Vision, Mission &amp; Values
-
 #### Vision
 
 _**Learners with Grit, Citizens with Heart**_  
@@ -12,7 +10,7 @@ _**Learners with Grit, Citizens with Heart**_
 #### Mission
 
 **_CARING AND INSPIRING._**
-<p align="justify">Together, we will nurture all *GESPians* by providing a holistic education in a caring and positive learning environment to learn for life. We will instil in them sound values and equip them with future-ready skills and competencies to inspire others and make a difference.</p>
+<p align="justify">Together, we will nurture all GESPians by providing a holistic education in a caring and positive learning environment to learn for life. We will instil in them sound values and equip them with future-ready skills and competencies to inspire others and make a difference.</p>
 
 #### INSPIRE &nbsp;Values
 

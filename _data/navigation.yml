@@ -40,14 +40,14 @@ links:
         url: /gesps-family/Partners-SAC-and-PSG/sac/
       - title: Alumni
         url: /gesps-family/alumni/
-  - title: LEARNING @GESPS
-    collection: gesps-learning-experiences
+  - title: Learning At Gesps
+    collection: learning-at-gesps
   - title: EXPERIENCES @GESPS
-    url: /gesps-distinctive-experiences/LLP/llp/
+    url: /gesps-distinctive-experiences/llp
     sublinks:
-      - title: LLP
-        url: /gesps-distinctive-experiences/LLP/llp/
-      - title: ALP
+      - title: Learning for Life Programme
+        url: /gesps-distinctive-experiences/llp/
+      - title: Applied Learning Programme
         url: /gesps-distinctive-experiences/alp/
       - title: Signature Programmes
         url: /gesps-distinctive-experiences/sig-progs/
@@ -62,8 +62,6 @@ links:
         url: /gesps-cce-experiences/via/
       - title: Student Leadership
         url: /gesps-cce-experiences/sl/
-  - title: News @GESPS
-    url: /news-at-gesps/
   - title: USEFUL LINKS
     url: /quick-links/for-students/
     sublinks:

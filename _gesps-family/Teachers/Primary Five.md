@@ -4,8 +4,6 @@ permalink: /gesps-family/Teachers/p5/
 description: ""
 third_nav_title: Teachers
 ---
-## Primary Five
-
 #### Class:
 
 **5 Integrity**
@@ -38,5 +36,3 @@ third_nav_title: Teachers
 
 *   Form Teacher: **[Mr Gerald Say](mailto:say_tiong_sin_gerald@schools.gov.sg)**
 *   Form Teacher: **[Ms Brina Tan](mailto:brina_tan@schools.gov.sg)**
-
-  

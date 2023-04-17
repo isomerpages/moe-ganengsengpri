@@ -4,9 +4,8 @@ permalink: /gesps-family/Teachers/non-ft/
 description: ""
 third_nav_title: Teachers
 ---
-## Non-form Teachers
 |  |  |
-|:---:|---|
+|:---|:---|
 | **Teacher** | [Ms Lee Kai Xin](mailto:Lee_Kai_Xin@schools.gov.sg)
 | **Teacher** | [Mdm Nurasilah](mailto:nurasilah_shahzan@schools.gov.sg)
 | **Teacher** | [Mrs Yvonne Leow](mailto:cheak_beo_leng_yvonne@schools.gov.sg)
@@ -26,4 +25,4 @@ third_nav_title: Teachers
 | **Flexi-Adjunct Teacher** | [Ms Florence Teo](mailto:teo_mui_leng_florence@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mdm Vanitha](mailto:vanitha_k_s_perumal@schools.gov.sg)
 | **Flexi-Adjunct Teacher (Uplift)** | [Mdm Wong Sook Yee](mailto:wong_sook_yee@schools.gov.sg)
-| | |
+|  |  |
