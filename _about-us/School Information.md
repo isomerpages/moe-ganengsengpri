@@ -3,8 +3,6 @@ title: School Information
 permalink: /about-us/sch-info/
 description: ""
 ---
-### School Information
-
 **2023**
 
 <style type="text/css">
@@ -22,7 +20,7 @@ description: ""
 		<th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Day</span><br></th>
     <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Reporting Time</span><br></th>
     <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Dismissal Time</span><br></th>
-  </tr>
+	</tr>
 </thead>
 <tbody>
   <tr>
