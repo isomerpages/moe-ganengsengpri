@@ -4,8 +4,6 @@ permalink: /cca/Aesthetics/chi-dance/
 description: ""
 third_nav_title: Aesthetics
 ---
-#### Chinese Dance
-
 **Teacher 1 I/C:**&nbsp;**[Mdm Lee Kai Xin](mailto:lee_kai_xin@schools.gov.sg)** <br>
 **Teacher 2 I/C:**&nbsp;**[Ms Jeanie Chan](mailto:jeanie_chan_wai_peng@schools.gov.sg)**  
   
