@@ -4,11 +4,8 @@ permalink: /gesps-family/Teachers/p6/
 description: ""
 third_nav_title: Teachers
 ---
-### Primary Six
-
 #### Class:
   
-
 **6 Perseverance**
 
 *   Form Teacher: **[Mr Goh Zhao Xiong](mailto:Goh_Zhao_Xiong@schools.gov.sg)**
