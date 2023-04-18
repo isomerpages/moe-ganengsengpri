@@ -21,13 +21,21 @@ third_nav_title: For Parents
 <p align="justify">Students can install and activate Microsoft Office ProPlus on up to 5 desktops/laptops, 5 tablets and 5 mobile devices. </p>
 
 **3. How can my child log in to Student iCON?** 
-<p align="justify">Student iCON is web-based. To access Student iCON, students can use their web browser in their internet- enabled computing or mobile devices to visit <u>https://workspace.google.com/dashboard</u>
+<p align="justify">Student iCON is web-based. To access Student iCON, students can use their web browser in their internet- enabled computing or mobile devices to visit <u>https://workspace.google.com/dashboard</u></p>
 	
 Once parental consent is given, the school will release the user ID to the students through the Form Teachers.   
 	
 **4. Which Operating System or browser should we use?**  
-</p><p align="justify">You can refer to the following table for guidance on the Operating System/browser which students can use to log in.</p>    
+<p></p><p align="justify">You can refer to the following table for guidance on the Operating System/browser which students can use to log in.</p>    
 	
+![](/images/student%20icon%20fig3.PNG)	
 	
+**5. Will email accounts be provisioned for all students?**  
+<p align="justify">No. To ensure students are adequately protected from cyber threats such as engagements from strangers and cyber bullying, the email account will <b>NOT</b> be provisioned for P1, P2 and P3 students.</p>
 	
-5. Will email accounts be provisioned for all students?  No. To ensure students are adequately protected from cyber threats such as engagements from strangers and cyber bullying, the email account will NOT be provisioned for P1, P2 and P3 students.   Email accounts for P4, P5 and P6 will be provisioned but they can only send or receive emails internally within all MOE domains such as moe.edu.sg, students.edu.sg, schools.gov.sg and moe.gov.sg. This is to limit the cyber wellness exposure such as strangers writing to the students.   6. Can my child in P4, P5 or P6 use this email to sign up or install any web-based or mobile applications?  No. Students will NOT be able to use this email to sign up or install any web-based or mobile applications as they won’t be able to receive emails outside MOE domains as stated in the point above.   As a good practice, students should always consult their parents or teachers before installing any applications or games on their devices. <p></p>
+<p align="justify">Email accounts for P4, P5 and P6 will be provisioned but they can only send or receive emails internally within all MOE domains such as <u>moe.edu.sg</u>, <u>students.edu.sg</u>, <u>schools.gov.sg</u> and <u>moe.gov.sg</u>. This is to limit the cyber wellness exposure such as strangers writing to the students.</p>
+	
+**6. Can my child in P4, P5 or P6 use this email to sign up or install any web-based or mobile applications?**  
+<p align="justify">No. Students will <b>NOT</b> be able to use this email to sign up or install any web-based or mobile applications as they won’t be able to receive emails outside MOE domains as stated in the point above.</p>
+
+<p align="justify">As a good practice, students should always consult their parents or teachers before installing any applications or games on their devices. </p>
