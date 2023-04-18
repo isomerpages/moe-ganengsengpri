@@ -3,7 +3,7 @@ title: Education Technology
 permalink: /gesps-learning-experiences/edu-tech/
 description: ""
 ---
-### Learning Educational Technology @GESPS
+#### Learning Educational Technology @GESPS
 
 The school strives to develop future-ready digital learners as well as nurture our students to become responsible users of technology. To create a technology-enabled learning environment, the Educational Technology (Ed-Tech) Department is responsible for periodic upgrading to enhance the school network and ICT infrastructure. In addition, the department also looks into capacity building of teachers. ICT tools are introduced to teachers through school-wide workshops and sharing. The Ed-Tech representatives also provide subject-specific support to the teachers in the various department so that they can use ICT tools which fit the needs of the subjects and their students.
 
