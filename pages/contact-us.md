@@ -50,6 +50,11 @@ contacts:
   - content:
       - phone: ""
       - email: ""
+      - other: --------------------------------------
+    title: School Services
+  - content:
+      - phone: ""
+      - email: ""
       - other: Star Campus
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
           +65 8768 9011 ganengsengscc@starcampus.org
