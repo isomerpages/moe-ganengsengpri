@@ -50,8 +50,13 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
+      - other: --------------------------------------
     title: School Services
+  - content:
+      - phone: ""
+      - email: ""
+      - other: --------------------------------------
+    title: .
   - content:
       - phone: ""
       - email: ""
@@ -66,9 +71,4 @@ contacts:
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;admin@the
           continental.com.sg
     title: "School Bookshop "
-  - content:
-      - phone: ""
-      - email: ""
-      - other: ""
-    title: "-"
 ---
