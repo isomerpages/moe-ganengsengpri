@@ -18,12 +18,11 @@ third_nav_title: For Parents
 
 ##### Primary 2
 
-\-&nbsp;[Primary 2 Meet The Parents (PDF)](https://go.gov.sg/p2-mtp-2023)&nbsp;- 2023  <br>
+\-&nbsp;[Primary 2 Meet The Parents (PDF)](https://go.gov.sg/p2-mtp-2023)&nbsp; 2023  <br>
 
 ##### Primary 3
 
-\-&nbsp;[Primary 3&nbsp;e-Meet The Parents (PDF)](https://ganengsengpri.moe.edu.sg/qql/slot/u206/Quick%20Links/For%20Parents/2023%20P3%20and%20P4%20eMTP_10%20Jan%20for%20Website.pdf)&nbsp;**2023&nbsp;NEW!** <br>
-\- [Primary 3 e-Meet The Parents (PDF)](/files/2022%20P3%20P4%20e-MTP%2010%20Jan%20Consolidated.pdf) - 2022
+\-&nbsp;[Primary 3&nbsp;e-Meet The Parents (PDF)](https://go.gov.sg/p3p4-emtp-2023)&nbsp; 2023<br>
 
 ##### Primary 4
 
