@@ -36,5 +36,4 @@ third_nav_title: For Parents
 
 ##### Primary 6
 
-\-&nbsp;[Primary 6 Meet The Parents (PDF)](/files/2023%20P5%20and%20P6%20MTP%20YH%2012%20Jan%20website.pdf)&nbsp;- **2023&nbsp;NEW!** <br>
-\- [Primary 6 e-Meet The Parents (PDF)](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Home/Announcement/2022%20P5%20%20P6%20e-MTP%2013%20Jan%20Consolidated.pdf)&nbsp;- 2022
+\-&nbsp;[Primary 6 Meet The Parents (PDF)](https://go.gov.sg/p5p6-mtp-2023)&nbsp; 2023 <br>
