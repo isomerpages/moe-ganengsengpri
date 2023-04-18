@@ -13,7 +13,7 @@ description: ""
 #### Reading Resources
 
 *   [**discoveReads**](http://www.nlb.gov.sg/discovereads/)
-*   [**Online Library**](https://ganengsengpri.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME)
+*   [**Online Library**](https://schoolibrary.moe.edu.sg/ganengsengpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 *   [**NLB ebooks Resource (Login required)**](http://eresources.nlb.gov.sg/main/Browse?browseBy=children)
 
 #### PSLE Resources
