@@ -71,4 +71,4 @@ b. Character and Citizenship Education (CCE)
 
 <p align="justify">9. Parents who wish to opt their children out of the&nbsp;Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/2023%20Info%20on%20SEd%20Primary%20Schools_GESPS%20-%20Opt-Out%20Form.pdf">here</a>. The completed opt-out form is to be submitted by 17/02/2023.
 
-10. Parents can contact the school at 647 17451 or email at&nbsp;[gesps@moe.edu.sg](mailto:gesps@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
+</p><p align="justify">10. Parents can contact the school at 647 17451 or email at <a href="mailto:gesps@moe.edu.sg">gesps@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
