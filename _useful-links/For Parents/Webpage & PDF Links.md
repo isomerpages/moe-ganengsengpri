@@ -12,8 +12,8 @@ third_nav_title: For Parents
 
 ##### Primary 1
 
-\-&nbsp;[Primary 1 First Day of School (PDF)](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Home/Announcement/2022%20P1%20First%20Day%20of%20School%20Consolidated.pdf)&nbsp;- 2022 <br>
-\-&nbsp;[Primary 1 Orientation Slides (PDF)](https://ganengsengpri.moe.edu.sg/qql/slot/u206/Home/Announcement/P1%20Orientation%2021%20Nov%20-%20consolidated.pdf)&nbsp;- 2022 
+\-&nbsp;[Primary 1 First Day of School (PDF)](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Home/Announcement/2022%20P1%20First%20Day%20of%20School%20Consolidated.pdf)&nbsp; 2022 <br>
+\-&nbsp;[Primary 1 Orientation Slides (PDF)](https://ganengsengpri.moe.edu.sg/qql/slot/u206/Home/Announcement/P1%20Orientation%2021%20Nov%20-%20consolidated.pdf)&nbsp; 2022 
 
 
 ##### Primary 2
@@ -32,8 +32,7 @@ third_nav_title: For Parents
 
 ##### Primary 5
 
-\-&nbsp;[Primary 5 Meet The Parents (PDF)](/files/2023%20P5%20and%20P6%20MTP%20YH%2012%20Jan%20website.pdf)&nbsp;- **2023&nbsp;NEW!** <br>
-\-&nbsp;[Primary 5 e-Meet The Parents (PDF)](https://ganengsengpri-moe-edu-sg-admin.cwp.sg/qql/slot/u206/Home/Announcement/2022%20P5%20%20P6%20e-MTP%2013%20Jan%20Consolidated.pdf)&nbsp;- 2022
+\-&nbsp;[Primary 5 Meet The Parents (PDF)](https://go.gov.sg/p5p6-mtp-2023)&nbsp; 2023 <br>
 
 ##### Primary 6
 
