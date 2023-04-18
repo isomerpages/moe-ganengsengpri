@@ -55,6 +55,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
-    title: "School Bookshop (The "
+      - other: The Continental Book Centre +65 6261
+          1859&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;admin@the continental.com.sg
+    title: "School Bookshop "
 ---
