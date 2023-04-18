@@ -3,7 +3,7 @@ title: Science
 permalink: /gesps-learning-experiences/sci/
 description: ""
 ---
-### Learning Science @GESPS
+#### Learning Science @GESPS
 
 The Science department strives to nurture GESPians with a passion for Science who are active eco stewards of their environment. GESPians are encouraged to take ownership of their own learning through inquiry, which is characterised by the degree of responsibility they have in posing and responding to questions, designing investigations, and evaluating and communicating their learning. Through this, GESPians develop their scientific inquiry and reasoning skills, and become more confident communicators who are passionate about learning.
 
