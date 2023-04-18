@@ -18,9 +18,9 @@ third_nav_title: For Parents
 *   Android:&nbsp;[Google PlayStore](https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG)
 
 ##### B.&nbsp;General Access to Parents Gateway 
-1 \.  Access to Parents Gateway is granted to parents and legal guardians of students studying in MOE schools in Singapore. To safeguard our students’ data, only parents who are registered officially in the MOE database will be able to access the mobile app.<br>
+<p align="justify">1.  Access to Parents Gateway is granted to parents and legal guardians of students studying in MOE schools in Singapore. To safeguard our students’ data, only parents who are registered officially in the MOE database will be able to access the mobile app.</p>
 
-2 \.  The information reflected in Parents Gateway is based on the student records in the MOE database. If there are any discrepancies in the information in Parents Gateway, please contact the school at email:&nbsp;[gesps@moe.edu.sg](mailto:gesps@moe.edu.sg)&nbsp;to update the details.<br>
+<p align="justify">2.  The information reflected in Parents Gateway is based on the student records in the MOE database. If there are any discrepancies in the information in Parents Gateway, please contact the school at email: <a href="gesps@moe.edu.sg"> gesps@moe.edu.sg</a> to update the details.</p><br>
 
 3 \.  You will need your SingPass to access Parents Gateway. If you currently do not have a SingPass, you can register at&nbsp;[https://www.singpass.gov.sg/singpass/register/instructions](https://www.singpass.gov.sg/home/ui/register/instructions). Should you require further assistance, please contact SingPass Helpdesk at 6643-0555.
 
