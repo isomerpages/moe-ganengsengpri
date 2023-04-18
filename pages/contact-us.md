@@ -66,4 +66,9 @@ contacts:
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;admin@the
           continental.com.sg
     title: "School Bookshop "
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: "-"
 ---
