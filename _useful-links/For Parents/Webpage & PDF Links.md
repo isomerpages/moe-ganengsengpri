@@ -26,9 +26,8 @@ third_nav_title: For Parents
 
 ##### Primary 4
 
-\-&nbsp;[Primary 4 e-Meet The Parents (PDF)](/files/2023%20P3%20and%20P4%20eMTP_10%20Jan%20for%20Website.pdf)&nbsp;- **2023&nbsp;NEW!**<br>
-\- [Primary 4 e-Meet The Parents (PDF)](/files/P4%20SBB%20and%20PSLE%20scoring%20sharing.pdf) - 2022<br>
-\- [P4 SBB and PSLE Scoring Sharing (PDF)](/files/2022%20P3%20P4%20e-MTP%2010%20Jan%20Consolidated%20(1).pdf) - 2022
+\-&nbsp;[Primary 4 e-Meet The Parents (PDF)](https://go.gov.sg/p3p4-emtp-2023)&nbsp; 2023<br>
+\- [P4 SBB and PSLE Scoring Sharing (PDF)](/files/2022%20P3%20P4%20e-MTP%2010%20Jan%20Consolidated%20(1).pdf)  2022
 
 
 ##### Primary 5
