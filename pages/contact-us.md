@@ -54,4 +54,10 @@ contacts:
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
           +65 8768 9011 ganengsengscc@starcampus.org
     title: Student Care Centre
+  - content:
+      - phone: ""
+      - email: ""
+      - other: The Continental Book Centre +65 6261 1850
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; admin@the-continental.com.sg
+    title: School Bookshop
 ---
