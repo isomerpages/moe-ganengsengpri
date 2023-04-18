@@ -24,5 +24,6 @@ third_nav_title: For Parents
 
 3 \.  You will need your SingPass to access Parents Gateway. If you currently do not have a SingPass, you can register at&nbsp;[https://www.singpass.gov.sg/singpass/register/instructions](https://www.singpass.gov.sg/home/ui/register/instructions). Should you require further assistance, please contact SingPass Helpdesk at 6643-0555.
 
-C. FAQs – Please refer to the following website for the frequently asked questions:  <br>
+##### C. FAQs
+Please refer to the following website for the frequently asked questions:  <br>
 [https://pg.moe.edu.sg/faq](https://pg.moe.edu.sg/faq).
