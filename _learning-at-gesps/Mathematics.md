@@ -3,7 +3,7 @@ title: Mathematics
 permalink: /gesps-learning-experiences/math/
 description: ""
 ---
-### Learning Mathematics @GESPS
+#### Learning Mathematics @GESPS
 
 <img src="/images/maths.jpg" style="width:35%" align="right">
 
