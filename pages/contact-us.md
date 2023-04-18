@@ -47,4 +47,14 @@ contacts:
       - other: When driving along Bukit Merah, please turn left into Redhill Close just
           after Bukit Merah Community Centre.
     title: Driving here
+  - content:
+      - phone: +65 8768 9011
+      - email: ganengsengscc@starcampus.org
+      - other: Star Campus
+    title: Student Care Ctr (Star Campus)
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: "School Bookshop (The "
 ---
