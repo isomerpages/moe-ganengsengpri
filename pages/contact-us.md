@@ -48,14 +48,17 @@ contacts:
           after Bukit Merah Community Centre.
     title: Driving here
   - content:
-      - phone: +65 8768 9011
-      - email: ganengsengscc@starcampus.org
-      - other: Star Campus
-    title: Student Care Ctr (Star Campus)
+      - phone: ""
+      - email: ""
+      - other: Star
+          Campus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          +65 8768 9011  ganengsengscc@starcampus.org
+    title: Student Care Centre
   - content:
       - phone: ""
       - email: ""
-      - other: The Continental Book Centre +65 6261
-          1859&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;admin@the continental.com.sg
+      - other: The Continental Book Centre +65 6261 1859
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;admin@the
+          continental.com.sg
     title: "School Bookshop "
 ---
