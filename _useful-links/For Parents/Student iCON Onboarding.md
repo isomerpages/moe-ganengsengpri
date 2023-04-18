@@ -7,7 +7,7 @@ third_nav_title: For Parents
 #### FAQs on Student ICON for Parents
 
 **1. What is Student ICON ?**
-<p align="justify">Student ICON is a suite of Google apps including email (for P4-P6 students ONLY) and other app services such as Google Classroom and Docs.</p>
+<p align="justify">Student ICON is a suite of Google apps including email (for P4-P6 students <b>ONLY</b>) and other app services such as Google Classroom and Docs.</p>
 	
 ![](/images/student%20icon%20fig1.PNG)
 	
