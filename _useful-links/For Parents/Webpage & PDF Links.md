@@ -14,17 +14,17 @@ third_nav_title: For Parents
 \-&nbsp;[Primary 1 Orientation Slides (PDF)](https://ganengsengpri.moe.edu.sg/qql/slot/u206/Home/Announcement/P1%20Orientation%2021%20Nov%20-%20consolidated.pdf)&nbsp; 2022 
 
 ##### Primary 2
-\-&nbsp;[Primary 2 Meet The Parents (PDF)](https://go.gov.sg/p2-mtp-2023)&nbsp; 2023  <br>
+\-&nbsp;[Primary 2 Meet The Parents (PDF)](https://go.gov.sg/p2-mtp-2023)&nbsp; 2023
 
 ##### Primary 3
-\-&nbsp;[Primary 3&nbsp;e-Meet The Parents (PDF)](https://go.gov.sg/p3p4-emtp-2023)&nbsp; 2023<br>
+\-&nbsp;[Primary 3&nbsp;e-Meet The Parents (PDF)](https://go.gov.sg/p3p4-emtp-2023)&nbsp; 2023
 
 ##### Primary 4
-\-&nbsp;[Primary 4 e-Meet The Parents (PDF)](https://go.gov.sg/p3p4-emtp-2023)&nbsp; 2023<br>
+\-&nbsp;[Primary 4 e-Meet The Parents (PDF)](https://go.gov.sg/p3p4-emtp-2023)&nbsp; 2023
 \- [P4 SBB and PSLE Scoring Sharing (PDF)](/files/2022%20P3%20P4%20e-MTP%2010%20Jan%20Consolidated%20(1).pdf)  2022
 
 ##### Primary 5
-\-&nbsp;[Primary 5 Meet The Parents (PDF)](https://go.gov.sg/p5p6-mtp-2023)&nbsp; 2023 <br>
+\-&nbsp;[Primary 5 Meet The Parents (PDF)](https://go.gov.sg/p5p6-mtp-2023)&nbsp; 2023
 
 ##### Primary 6
-\-&nbsp;[Primary 6 Meet The Parents (PDF)](https://go.gov.sg/p5p6-mtp-2023)&nbsp; 2023 <br>
+\-&nbsp;[Primary 6 Meet The Parents (PDF)](https://go.gov.sg/p5p6-mtp-2023)&nbsp; 2023
