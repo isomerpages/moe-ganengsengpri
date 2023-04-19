@@ -36,7 +36,6 @@ Opening hours of the Side Gate (Along Jalan Bukit Merah)
 |:---|:---|
 |Monday to Friday| 6.30 a.m. - 9.00 a.m.<br>1.00 p.m. - 6.30 p.m.
 |
-
 ##### School Attendance
   
 *   <p align="justify">All students are required to attend school daily. Under the Compulsory Education Act, “a child of compulsory school age shall attend regularly as a pupil at a national primary school.”</p>
