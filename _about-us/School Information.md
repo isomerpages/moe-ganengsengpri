@@ -35,7 +35,7 @@ Opening hours of the Side Gate (Along Jalan Bukit Merah)
 | Day | Opening Hours |
 |:---|:---|
 |Monday to Friday| 6.30 a.m. - 9.00 a.m.<br>1.00 p.m. - 6.30 p.m.
-|
+| |
 
 ##### School Attendance
   
