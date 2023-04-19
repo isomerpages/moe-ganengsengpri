@@ -15,5 +15,5 @@ third_nav_title: Sports
 
 <p align="justify">During a relatively short time, the Football boys from the two schools met, trained and gelled into an impressive team. Together, GESP/RV primary schools competed in the Senior Football National School Games (NSG) as a team and succeeded in placing top 4 in the South Zone. Thereafter, they went on to represent as one of the sixteen teams in the Nationals.</p>
 
-![](/images/senior%20football%201.jpg)
-![](/images/senior%20football%202.jpg)
+<img size="25%" src="images/senior%20football%201.jpg">
+<img size="30%" src="images/senior%20football%202.jpg">
