@@ -50,6 +50,58 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: --------------------------------------
+      - other: __________________________________
     title: School Services
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: ______________________________
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Star
+          Campus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb\
+          sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +65
+          8768
+          9011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp\
+          ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email:
+          ganengsengscc@starcampus.org"
+    title: Student Care Centre
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "The Continental Book Centre +65 6261
+          1850&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp\
+          ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email:
+          admin@the-continental.com.sg"
+    title: School Bookshop
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Revolving Transport Pte Ltd +65 6479
+          7597&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp\
+          ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email:
+          edmund55@singnet.com.sg"
+    title: School Bus
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "KH Uniform Pte
+          Ltd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+          &nbsp;&nbsp;&nbsp;&nbsp; +65 6479
+          6811&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp\
+          ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email:
+          sales@khuniform.com"
+    title: School Uniform
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Dental
+          Therapist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          Ms Chen
+          Sujuan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          +65 64747701
+    title: School Dental Clinic
 ---
