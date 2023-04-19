@@ -33,7 +33,7 @@ description: ""
 
 | | |
 |:---|:---|:---|
-Day
+|**Day**|**Reporting Time**|**Dismissal Time**|
 | | |
 
 **Arrival at School**
