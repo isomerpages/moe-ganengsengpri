@@ -31,6 +31,10 @@ description: ""
 </tbody>
 </table>
 
+| | |
+|:---|:---|:---|
+Day
+| | |
 
 **Arrival at School**
 
