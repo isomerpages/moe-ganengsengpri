@@ -10,7 +10,7 @@ description: ""
 | Day | Reporting Time | Dismissal Time |
 |:---|:---|:---|
 |Monday to<br>Friday|By 7.30 a.m.<br>(For Flag-Raising Ceremony)|1.30 p.m.|
-||||
+|
 
 ##### Arrival at School
 
