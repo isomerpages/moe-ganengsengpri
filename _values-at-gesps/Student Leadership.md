@@ -11,13 +11,13 @@ Student Leadership in GESPS adopts the Learn-Lead-Lift (L3) approach.
 
 <p align="justify">Under the ‘Learn’ stage, all students would be given opportunities to learn to be leaders through CCE (FTGP) lessons and the appointment of class-based leaders.</p>
 
-<p align="justify">The ‘Lead’ stage provides students with pportunities to step up and serve as leaders. They are involved in class-based leadership training. During the class-based leadership training for Primary 3 to Primary 6, students who are given leadership positions in class (monitors, subject representatives and other leadership roles) will be inducted in the roles so that they are able to better perform their leadership duties.</p>
+<p align="justify">The ‘Lead’ stage provides students with opportunities to step up and serve as leaders. They are involved in class-based leadership training. During the class-based leadership training for Primary 3 to Primary 6, students who are given leadership positions in class (monitors, subject representatives and other leadership roles) will be inducted in the roles so that they are able to better perform their leadership duties.</p>.
 
 <p align="justify"> At the ‘Lift’ stage, students will be given school-based leadership positions and these include Prefects, Peer Support Leaders and CCA Leaders. Through the various appointed leadership roles, students develop interpersonal skills to influence and lead those around them through school-wide events.</p>
 
 <p align="justify"> <b>Prefectorial Board</b>
 
-</p><p align="justify"> </p>Forming the Executive Committee (EXCO) are the Head Prefect, Vice Head Prefect and EXCO members. The organisation chart of prefects is summarised below.
+</p><p align="justify"> Forming the Executive Committee (EXCO) are the Head Prefect, Vice Head Prefect and EXCO members. The organisation chart of prefects is summarised below.
 
 ![](/images/exco%20chart.JPG)
 
@@ -31,4 +31,4 @@ A key programme of the Prefectorial Board is the annual Prefect Investiture. It 
 
 ![](/images/student%20leadership%201.jpg)
 
-![](/images/student%20leadership%202.jpg)
+![](/images/student%20leadership%202.jpg)</p>
