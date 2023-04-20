@@ -15,10 +15,9 @@ description: ""
 <img src="/images/ms%20brina%20tan%20(2).jpg" align="left" style="width:20%"><br><br>&nbsp;&nbsp;&nbsp;
 [brina_tan@schools.gov.sg](mailto:brina_tan@schools.gov.sg)
 
+<img src="/images/mr%20gerard%20woo.jpg" align="left" style="width:20%"><br><br>&nbsp;&nbsp;&nbsp;
+[gerard_goo_gon_meng@schools.gov.sg](mailto:Gerard_Woo_Hon_meng)
 
-**LEFT TO RIGHT**
-
-[gerard_goo_gon_meng@schools.gov.sg](mailto:Gerard_Woo_Hon_meng)<br>
 [ernest_vaithilingam@schools.gov.sg](mailto:Ernest_Vaithilingam@schools.gov.sg)<br>
 [nazreen_zainudeen@schools.gov.sg](mailto:Nazreen_Zainudeen@schools.gov.sg)<br>
 [lim_swee_kheng_a@schools.gov.sg](mailto:lim_swee_kheng_a@schools.gov.sg)<br>
