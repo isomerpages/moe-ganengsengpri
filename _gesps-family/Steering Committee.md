@@ -3,8 +3,8 @@ title: Steering Committee
 permalink: /gesps-family/steering-committee/
 description: ""
 ---
-| | | |
-|:---|:---|:---|
+| | |
+|:---|:---|
 <img src="/images/mrs%20luvena%20lim%202.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[tan_guek_khim_luvena@schools.gov.sg](mailto:Tan_Guek_Khim_Luvena@schools.gov.sg)
 <img src="/images/mdm%20tan%20chay%20hiang.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[tan_chay_hiang@schools.gov.sg](mailto:tan_chay_hiang@schools.gov.sg)
 <img src="/images/mrs%20angela%20ho%202.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[seah_chiew_suan@schools.gov.sg](mailto:Seah_Chiew_Suan@schools.gov.sg)
