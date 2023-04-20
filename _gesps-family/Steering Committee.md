@@ -12,7 +12,7 @@ description: ""
 <img src="/images/mr%20gerard%20woo.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[gerard_goo_gon_meng@schools.gov.sg](mailto:Gerard_Woo_Hon_meng)|
 <img src="/images/mr%20vaithilingam%20ernest%20junior%202.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[ernest_vaithilingam@schools.gov.sg](mailto:Ernest_Vaithilingam@schools.gov.sg)|
 <img src="/images/mdm%20nazreen%202.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[nazreen_zainudeen@schools.gov.sg](mailto:Nazreen_Zainudeen@schools.gov.sg)|
-<img src="/images/ms%20lim%20swee%20kheng%202.jpg" align="left" style="width:20%">|<br>&nbsp;&nbsp;&nbsp;[lim_swee_kheng_a@schools.gov.sg](mailto:lim_swee_kheng_a@schools.gov.sg)|
+<img src="/images/ms%20lim%20swee%20kheng%202.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[lim_swee_kheng_a@schools.gov.sg](mailto:lim_swee_kheng_a@schools.gov.sg)|
 <img src="/images/ms%20grace%20ang.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[ang_soo_hiean_grace@schools.gov.sg](mailto:ang_soo_hiean_grace@schools.gov.sg)|
 <img src="/images/mdm%20deepa%20(2).jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[deepa_surendran@schools.gov.sg](mailto:Deepa_Surendran@schools.gov.sg)|
 <img src="/images/mr%20benjamin%20gan%20(2).jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[gan_tze_qiang_benjamin@schools.gov.sg](mailto:gan_tze_qiang_benjamin@schools.gov.sg)|
