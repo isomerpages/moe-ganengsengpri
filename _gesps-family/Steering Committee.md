@@ -5,7 +5,7 @@ description: ""
 ---
 |  |  |
 |---|---|
-<img src="/images/mrs%20luvena%20lim%202.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[tan_guek_khim_luvena@schools.gov.sg](mailto:Tan_Guek_Khim_Luvena@schools.gov.sg)|<img src="/images/mdm%20tan%20chay%20hiang.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[tan_chay_hiang@schools.gov.sg](mailto:tan_chay_hiang@schools.gov.sg)|
+<img src="/images/mrs%20luvena%20lim%202.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;Mrs Luvena Lim<br>&nbsp;&nbsp;&nbsp;HOD English (internal)<br>&nbsp;&nbsp;&nbsp;[tan_guek_khim_luvena@schools.gov.sg](mailto:Tan_Guek_Khim_Luvena@schools.gov.sg)|<img src="/images/mdm%20tan%20chay%20hiang.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;Mdm Tan Chay Hiang<br>&nbsp;&nbsp;&nbsp;HOD Mathematic<br>&nbsp;&nbsp;&nbsp;[tan_chay_hiang@schools.gov.sg](mailto:tan_chay_hiang@schools.gov.sg)|
 <img src="/images/mrs%20angela%20ho%202.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[seah_chiew_suan@schools.gov.sg](mailto:Seah_Chiew_Suan@schools.gov.sg)|
 |<img src="/images/ms%20brina%20tan%20(2).jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[brina_tan@schools.gov.sg](mailto:brina_tan@schools.gov.sg)|
 <img src="/images/mr%20gerard%20woo.jpg" align="left" style="width:20%"><br>&nbsp;&nbsp;&nbsp;[gerard_goo_gon_meng@schools.gov.sg](mailto:Gerard_Woo_Hon_meng)|
