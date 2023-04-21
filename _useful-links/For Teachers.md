@@ -3,9 +3,7 @@ title: For Teachers
 permalink: /quick-links/for-teachers/
 description: ""
 ---
-### For Teachers
-
-**Useful links (click on the link below to open page)**
+#### Useful links 
 
 *   **[MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)**
 *   **[Human Resource Portal (HRP)](https://www.hrp.gov.sg/)**

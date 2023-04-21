@@ -47,4 +47,41 @@ contacts:
       - other: When driving along Bukit Merah, please turn left into Redhill Close just
           after Bukit Merah Community Centre.
     title: Driving here
+  - content:
+      - phone: ""
+      - email: ""
+      - other: __________________________________
+    title: School Services
+  - content:
+      - phone: ""
+      - email: ""
+      - other: __________________________________
+    title: ":"
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Star Camps<br> +65 8768 9011<br>Email: ganengsengscc@starcampus.org"
+    title: Student Care Centre
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "The Continental Book Centre<br>+65 6261 1850<br>Email:
+          admin@the-continental.com.sg"
+    title: School Bookshop
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Revolving Transport Pte Ltd<br>+65 6479 7597<br>Email:
+          edmund55@singnet.com.sg"
+    title: School Bus
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "KH Uniform Pte Ltd<br>+65 6479 6811<br>Email: sales@khuniform.com"
+    title: School Uniform
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Dental Therapist<br>Ms Chen Sujuan<br>+65 64747701
+    title: School Dental Clinic
 ---

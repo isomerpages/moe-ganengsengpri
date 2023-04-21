@@ -12,5 +12,3 @@ third_nav_title: Clubs
 <p align="justify">During the CCA sessions, members get the chance to grow vegetables via hydroponics and do planting at our school’s vertical farm. Through various hands-on activities, research, investigation, learning journeys as well as collaboration with peers, members will become more aware of their impact on the environment and hence develop a sense of responsibility to care for the environment.</p>
 
 <img src="/images/Screenshot 2020-10-26 at 154049.png" style="width:85%">
-
-<p align="center">Green Explorers Club members in collaboration with Info-Comm Media Club to educate students and stakeholders on recycling.</p>

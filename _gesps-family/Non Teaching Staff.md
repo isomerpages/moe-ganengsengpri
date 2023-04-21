@@ -19,6 +19,7 @@ description: ""
 | **Student Welfare Officer** | [Ms Ling Jennie](mailto:ling_jennie@schools.gov.sg) |
 | **Special Educational Needs Officer** | [Ms Wendy Ho](mailto:ho_wendy@schools.gov.sg) |
 | **Special Educational Needs Officer** | [Mdm Kon Wai Fuang](mailto:kon_wai_fuang@schools.gov.sg) |
+| **Special Educational Needs Officer** | [Ms Nazreth Begum](mailto:nazreth_begum_shaik_alawoodeen@schools.gov.sg) |
 | **Operation Support Officer** | Mdm Hajijah Binte Yet |
 | **Operation Support Officer** | Ms Saroja Thevi |
 | **Operation Support Officer** | Ms Zeenath Begum |

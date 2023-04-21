@@ -3,7 +3,7 @@ title: Mother Tongue
 permalink: /gesps-learning-experiences/mt/
 description: ""
 ---
-### Learning Mother Tongue @GESPS
+#### Learning Mother Tongue @GESPS
 
 In GESPS, the Mother Tongue (MT) Department takes pride in designing meaningful lessons and programmes to provide authentic and joyful learning environments for our students.&nbsp;
 

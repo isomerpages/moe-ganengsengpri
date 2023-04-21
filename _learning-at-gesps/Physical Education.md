@@ -3,7 +3,7 @@ title: Physical Education
 permalink: /gesps-learning-experiences/pe/
 description: ""
 ---
-### Learning Physical Education @GESPS
+#### Learning Physical Education @GESPS
 
 As part of the school’s overall effort towards holistic learning, a child’s physical education at Gan Eng Seng Primary is guided by the 3 E approach. Our focus on developing the child in the physical domain would be defined by the following;
 

@@ -33,12 +33,12 @@ description: ""
 <img src="/images/sp6.png" style="width:75%">
 		 
 ##### P5 – Gardens by the Bay
-<p align="justify">The exciting outdoor learning experience to the Gardens by the Bay will allow our P5 GESPians learn beyond the classroom and have first-hand experience to see how different conservation strategies are applied in real life context. While learning about how the two cooled conservatories (Flower Dome and Cloud Forest) apply a set of advanced, cutting-edge technologies for energy-efficient solutions in cooling, students will get to experience how it feels like to be in a greenhouse, aiding them in their understanding of energy sustainability strategies. In addition, as climate change is one of the key global problems currently faced, this learning journey will give our students an awareness of climate change as one of the key global problems currently faced and how Singapore has played its part in caring for the environment and conserving resources. We wish to inspire our students to be actively engaged in conservation by adopting energy-saving practices in their daily life.</p><p>
+<p align="justify">The exciting outdoor learning experience to the Gardens by the Bay will allow our P5 GESPians learn beyond the classroom and have first-hand experience to see how different conservation strategies are applied in real life context. While learning about how the two cooled conservatories (Flower Dome and Cloud Forest) apply a set of advanced, cutting-edge technologies for energy-efficient solutions in cooling, students will get to experience how it feels like to be in a greenhouse, aiding them in their understanding of energy sustainability strategies. In addition, as climate change is one of the key global problems currently faced, this learning journey will give our students an awareness of climate change as one of the key global problems currently faced and how Singapore has played its part in caring for the environment and conserving resources. We wish to inspire our students to be actively engaged in conservation by adopting energy-saving practices in their daily life.</p>
 
 <img src="/images/sp7.png" style="width:75%">
 <img src="/images/sp8.png" style="width:75%">
 		 
-##### P6 – St. John’s Island
-</p><p align="justify">P6 students will explore the rich cultural, historical and natural significance of St John’s Island, one of the southernmost islands of the Singapore archipelago. The students will take a ferry ride to the island and have  great opportunities  to enjoy the Singapore skyline, come close to nature and appreciate the role St. John’s Island played in Singapore’s history. </p>
+##### P6 St. John's Island
+<p align="justify">P6 students will explore the rich cultural, historical and natural significance of St John’s Island, one of the southernmost islands of the Singapore archipelago. The students will take a ferry ride to the island and have  great opportunities  to enjoy the Singapore skyline, come close to nature and appreciate the role St. John’s Island played in Singapore’s history. </p>
 
 <img src="/images/sp9.png" style="width:75%">
