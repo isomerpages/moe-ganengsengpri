@@ -18,7 +18,7 @@ description: ""
   
 The school was established in 1885. It was named Anglo-Chinese Free School at first. In 1889, Gan Eng Seng paid for the construction of a new building in Telok Ayer Street. Anglo-Chinese Free School was renamed Gan Eng Seng School in 1893 and became a government school in 1938. As of 2007,&nbsp;[**Gan Eng Seng School**](https://ganengsengsch.moe.edu.sg/)&nbsp;is located at 1 Henderson Road after moving eight times during its 122-year history due to expansion needs.<br>
   
-***Generous and Had a Heart for the Less Fortunate:* ** <br>
+***Generous and Had a Heart for the Less Fortunate:*** 
   
 <p align="justify">As a philanthropist, Gan was noted for his donations to local hospital funds. He founded a school for the children of the poor at Sam-Loh in the Fukien province of China. </p>
 
