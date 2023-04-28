@@ -2,7 +2,7 @@
 title: School Advisory Committee (SAC)
 permalink: /gesps-family/partners-sac-and-psg/sac/
 description: ""
-third_nav_title: Partners (SAC &amp; PSG)
+third_nav_title: Partners (SAC & PSG)
 ---
 <p align="justify">Our School Advisory Committee comprises representatives from the Business sector, parents and grassroots leaders. The functions of the Advisory Committee are:
 
@@ -15,4 +15,5 @@ third_nav_title: Partners (SAC &amp; PSG)
   
 **Hon Secretary:**&nbsp;Mr Roy Lee (Principal)
 
-**Members:**&nbsp;<br>Mr Ku Keung  <br>Mr Sebastian Tan Beng Wah<br>Mdm Chang Rhoo Pi  <br>Mdm Azlinah Binte Ariff</p>
+**Members:**&nbsp;
+<br>Mr Ku Keung  <br>Mr Sebastian Tan Beng Wah<br>Mdm Chang Rhoo Pi  <br>Mdm Azlinah Binte Ariff</p>
