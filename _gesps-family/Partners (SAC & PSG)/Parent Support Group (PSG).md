@@ -1,8 +1,8 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /gesps-family/Partners-SAC-and-PSG/psg/
+permalink: /gesps-family/partners-sac-and-psg/psg/
 description: ""
-third_nav_title: Partners (SAC &amp; PSG)
+third_nav_title: Partners (SAC & PSG)
 ---
 #### Belief:
 <p align="justify">The Gan Eng Seng Primary School Parent Support Group (GESPS PSG), established in 2006, comprises parents from diverse backgrounds but all sharing a common goal to support and advocate the school’s mission, vision and beliefs.</p>
