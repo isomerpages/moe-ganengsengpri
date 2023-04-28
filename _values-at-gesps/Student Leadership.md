@@ -19,7 +19,7 @@ Student Leadership in GESPS adopts the Learn-Lead-Lift (L3) approach.
 
 </p><p align="justify"> Forming the Executive Committee (EXCO) are the Head Prefect, Vice Head Prefect and EXCO members. The organisation chart of prefects is summarised below.
 
-![](/images/exco%20chart.JPG)
+<img src="/images/exco%20chart.JPG">
 
 
 
@@ -29,6 +29,5 @@ The Design Thinking Principles is adopted in the training of the prefects so tha
 
 A key programme of the Prefectorial Board is the annual Prefect Investiture. It is a ceremony that formally officiates and congratulates the appointments of the prefects by the school population. This is to affirm the effort and service rendered by the prefects.
 
-![](/images/student%20leadership%201.jpg)
-
-![](/images/student%20leadership%202.jpg)</p>
+<img src="/images/student%20leadership%201.jpg">
+<img src="/images/student%20leadership%202.jpg"></p>
