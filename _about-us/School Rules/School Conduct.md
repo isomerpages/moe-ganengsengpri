@@ -68,10 +68,13 @@ School Uniform / P.E. Attire
 *   Students should bring only sufficient pocket money for the day.
 *   Students are strongly discouraged from bringing mobile phones/ smartwatches/ electronic devices to school.
 
-*  The school will not be responsible for any damage or loss of these devices and peripherals.
-*   Mobile phones/ smartwatches with calling and recording functions such as video and photography capabilities must not be activated during curriculum hours so that students can be fully engaged in their lessons.
-*  In the case of an emergency, students should seek the teacher's permission to make an urgent call. After curriculum hours, students should only use their mobile phones outside the General Office, after obtaining permission from the office staff, or at the Main/Side gates.
-*  Students caught breaking these rules will have their mobile phones confiscated by the school. A parent may be asked to come to school to claim the item.
+    - The school will not be responsible for any damage or loss of these devices and peripherals.
+
+    - Mobile phones/ smartwatches with calling and recording functions such as video and photography capabilities must not be activated during curriculum hours so that students can be fully engaged in their lessons.
+
+    - In the case of an emergency, students should seek the teacher's permission to make an urgent call. After curriculum hours, students should only use their mobile phones outside the General Office, after obtaining permission from the office staff, or at the Main/Side gates.
+
+    - Students caught breaking these rules will have their mobile phones confiscated by the school. A parent may be asked to come to school to claim the item.
 
 **3 \.&nbsp;Looking After The Environment**
 
