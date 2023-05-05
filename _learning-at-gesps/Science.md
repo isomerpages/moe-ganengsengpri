@@ -52,10 +52,7 @@ Systems are also put in place to further model and anchor environmental protecti
 
 Through these, the school aims to instill in our&nbsp;_GESPians_&nbsp;and staff the desire and passion to care for our living environment by adopting an eco-friendly lifestyle.
 
-<figure>
-<img src="/images/Students%20made%20toothbrush%20holders%20out%20of%20recyclable%20materials.jpg">
-<figcaption>As part of World Water Day commemoration in school, students used recyclable materials and their creativity to create a functional and aesthetically pleasing holder for their toothbrushes.</figcaption>
-</figure>
+![](/images/world%20water%20day.jpg)
 
 #### Fostering the Joy of Learning – Special Programmes
 
