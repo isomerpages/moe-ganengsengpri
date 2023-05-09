@@ -5,8 +5,8 @@ description: ""
 ---
 #### Thrust 1: Lifelong Learners
 SG 1: Students express themselves confidently and communicate effectively.&nbsp;&nbsp;<br>
-SG 2: Students think critically, creatively and have a lively curiosity.<br>
-SG 3: Students pursue their passions and develop their interests and strengths.
+SG 2: Students think critically and creatively.<br>
+SG 3: Students  have a lively curiosity, pursue their passions, and develop their interests and strengths.
 
 #### Thrust 2: Citizens of Character<br>
 SG 4: Students demonstrate the INSPIRE values.<br>
