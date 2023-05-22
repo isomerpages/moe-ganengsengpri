@@ -75,6 +75,6 @@ b. Character and Citizenship Education (CCE)
 
 |  |
 |:--:|
-Address / Telephone Number
+|Address / Telephone Number|
 |School Dental Clinic<br> Tel: 6757 4231<br>or<br>Health Promotion Board....
 |  |
