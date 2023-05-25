@@ -29,8 +29,9 @@ third_nav_title: Teachers
 
 **5 Respect**
 
-*   Form Teacher: **[Ms Brina Tan](mailto:brina_tan@schools.gov.sg)**
+*   Form Teacher: **[Mdm Alleda](mailto:alleda_baba@schools.gov.sg)**
 *   Form Teacher: **[Mrs Quek-Tan Chia Ling](mailto:tan_chia_ling@schools.gov.sg)**
+*   Form Teacher: **[Mdm Tan See Kin](mailto:)**
 
 **5 Empathy**
 
