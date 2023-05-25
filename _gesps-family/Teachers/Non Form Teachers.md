@@ -6,6 +6,9 @@ third_nav_title: Teachers
 ---
 |  |  |
 |:---|:---|
+| **HOD/Science *(int)*** | [Ms Brina Tan](mailto:brina_tan@schools.gov.sg)
+| **Level Head/Mathematics** | [Mr Gerald Say](mailto:say_tiong_sin_gerald@schools.gov.sg)
+| **Subject Head/Mother Tongue** | [Mdm Siti Noraini](mailto:siti_noraini_ibrahim@schools.gov.sg)
 | **Teacher** | [Ms Lee Kai Xin](mailto:Lee_Kai_Xin@schools.gov.sg)
 | **Teacher** | [Mdm Nurasilah](mailto:nurasilah_shahzan@schools.gov.sg)
 | **Teacher** | [Mrs Yvonne Leow](mailto:cheak_beo_leng_yvonne@schools.gov.sg)
