@@ -35,5 +35,5 @@ third_nav_title: Teachers
 
 **5 Empathy**
 
-*   Form Teacher: **[Mr Gerald Say](mailto:say_tiong_sin_gerald@schools.gov.sg)**
+*   Form Teacher: **[Mr Eric Yong](mailto:yong_junxiong_eric@schools.gov.sg)**
 *   Form Teacher: **[Ms Nur'Uzaimah](mailto:nur_uzaimah_fadzali@schools.gov.sg)**
