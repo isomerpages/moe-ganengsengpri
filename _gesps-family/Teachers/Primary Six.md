@@ -24,4 +24,4 @@ third_nav_title: Teachers
 **6 Empathy**  
 
 *   Form Teacher: **[Ms Hui Sou Kuin](mailto:Hui_Sou_Kuin@schools.gov.sg)**
-*   Form Teacher: **[Ms Siti Noraini](mailto:siti_noraini_ibrahim@schools.gov.sg)**
+*   Form Teacher: **[Mr K Kannathasan](mailto:k_kannathasan@schools.gov.sg)**
