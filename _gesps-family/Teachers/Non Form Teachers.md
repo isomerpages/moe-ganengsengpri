@@ -21,7 +21,7 @@ third_nav_title: Teachers
 | **Flexi-Adjunct Teacher** | [Mrs Nathan](mailto:Kanapathipillai_Jayamalar@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mrs Shawn Low](mailto:shawn_lok@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Ms June Tay](mailto:tay_wee_hong@schools.gov.sg)
-| **Flexi-Adjunct Teacher** | [Ms Esther Chow](mailto:chow_eileen_esther@schools.gov.sg)
+| **Flexi-Adjunct Teacher** | [Ms Chua Hui Hui](mailto:chua_hui_hui@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mdm Lim Cheo Hwa](mailto:Lim_Cheo_Hwa@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mdm Sellam](mailto:sellammal_varadarajalu@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mrs Kong Sim Guan](mailto:kong_sim_guan@schools.gov.sg)
