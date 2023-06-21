@@ -31,7 +31,7 @@ third_nav_title: Teachers
 
 *   Form Teacher: **[Mdm Alleda](mailto:alleda_baba@schools.gov.sg)**
 *   Form Teacher: **[Mrs Quek-Tan Chia Ling](mailto:tan_chia_ling@schools.gov.sg)**
-*   Form Teacher: **[Mdm Tan See Kin](mailto:)**
+*   Form Teacher: **[Mdm Tan See Kin](mailto:tan_see_kin@schools.gov.sg)**
 
 **5 Empathy**
 
