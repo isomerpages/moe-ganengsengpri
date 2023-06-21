@@ -9,7 +9,7 @@ third_nav_title: Teachers
 **2 Self-Discipline**
 
 *   Form Teacher: **[Ms Ether Goh](mailto:goh_yue_yin_esther@schools.gov.sg)**
-*   Form Teacher: 
+*   Form Teacher: **[Ms Tan Sue-Ann](mailto:tan_sueann_a@schools.gov.sg)**
   
 **2 Perseverance**
 
