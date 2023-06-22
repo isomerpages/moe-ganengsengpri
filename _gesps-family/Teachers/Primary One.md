@@ -9,7 +9,7 @@ third_nav_title: Teachers
 **1 Self-Discipline**
 
 *   Form Teacher: **[Mrs Dorcas Chan](mailto:koh_kah_fong_dorcas@schools.gov.sg)**
-*   Form Teacher: **[Mdm Nadiah](mailto:Nadiah_Sheik_Allahuddin@schools.gov.sg)**
+*   Form Teacher: **[Mdm Nadiah](mailto:nadiah_sheik_allahuddin@schools.gov.sg)**
 
 **1 Perseverance**
 

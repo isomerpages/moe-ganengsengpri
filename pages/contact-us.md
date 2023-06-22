@@ -77,11 +77,17 @@ contacts:
   - content:
       - phone: ""
       - email: ""
+      - other: Dental Therapist<br>Ms Chen Sujuan<br>+65 8764 7603
+    title: School Dental Clinic
+  - content:
+      - phone: ""
+      - email: ""
       - other: "KH Uniform Pte Ltd<br>+65 6479 6811<br>Email: sales@khuniform.com"
     title: School Uniform
   - content:
       - phone: ""
       - email: ""
-      - other: Dental Therapist<br>Ms Chen Sujuan<br>+65 64747701
-    title: School Dental Clinic
+      - other: "Blk 115A Commonwealth Drive #02-28 S(149596)<br> Website:
+          www.khuniform.com"
+    title: "Address:"
 ---
