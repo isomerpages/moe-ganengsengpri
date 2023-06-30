@@ -13,7 +13,6 @@ description: ""
 | **Corporate Support Officer** | [Ms Siti Aishah Binte Alias](mailto:siti_aishah_alias@schools.gov.sg) |
 | **Corporate Support Officer** | [Mdm Geetha D/O Nallappan](mailto:geetha_nallappan@schools.gov.sg) |
 | **Corporate Support Officer** | [Ms Cindy Yap](mailto:yap_choon_huay@schools.gov.sg) |
-| **School Counsellor** | [Dr Bibi Jan Md Ayyub](mailto:bibi_jan_md_ayyub@schools.gov.sg) |
 | **School Counsellor** | [Ms Paulyn Soong](mailto:soong_wen_hui_paulyn@schools.gov.sg) | 
 | **School Counsellor** | [Ms Nazeera Yacob](mailto:nazeera_mohamed_yacob@schools.gov.sg) |
 | **Student Welfare Officer** | [Ms Ling Jennie](mailto:ling_jennie@schools.gov.sg) |
