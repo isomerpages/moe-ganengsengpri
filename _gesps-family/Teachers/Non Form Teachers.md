@@ -15,7 +15,6 @@ third_nav_title: Teachers
 | **Teacher** | [Mdm Chua Chee Hui](mailto:chua_chee_hui@schools.gov.sg)
 | **Teacher** | [Ms Tan Kah Heok](mailto:Tan_Kah_Heok@schools.gov.sg)
 | **Teacher** | [Mdm Tan Siang Noi](mailto:Tan_Siang_Noi@schools.gov.sg)
-| **Teacher** | [Mdm Surya Tambunan](mailto:surya_tambunan_bt_rosman@schools.gov.sg)
 | **Teacher** | [Mdm Wu Peisha](mailto:wu_pei_sha@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mdm Sithika](mailto:sithika_begam_schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mrs Nathan](mailto:Kanapathipillai_Jayamalar@schools.gov.sg)
