@@ -14,7 +14,7 @@ third_nav_title: Teachers
 **5 Self-Discipline**
 
 *   Form Teacher: **[Ms Jess Chan](mailto:chan_hoon_seah@schools.gov.sg)**
-*   Form Teacher: **[Mr Zheng Xu](mailto:Xu_Zheng@schools.gov.sg)**
+*   Form Teacher: **[Mr Zheng Xu](mailto:zheng_xu@schools.gov.sg)**
 
 **5 Perseverance**  
 
