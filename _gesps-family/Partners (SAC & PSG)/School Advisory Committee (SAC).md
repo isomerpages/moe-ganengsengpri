@@ -13,4 +13,4 @@ third_nav_title: Partners (SAC & PSG)
 <b>Vice-Chairman:</b>&nbsp;Dr Thian Eng Suan  
 <b>Hon Secretary:</b>&nbsp;Mr Roy Lee (Principal)
 
-<b>Members:</b>&nbsp;<br>Mr Ku Keung  <br>Mr Sebastian Tan Beng Wah<br>Mdm Chang Rhoo Pi  <br>Mdm Azlinah Binte Ariff<p></p>
+<b>Members:</b>&nbsp;<br>Mr Ku Keung  <br>Mr Sebastian Tan Beng Wah<br>Mdm Chang Rhoo Pi  <br>Mdm Azlinah Binte Ariff
