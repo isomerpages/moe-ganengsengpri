@@ -17,5 +17,5 @@ sections:
           url: https://go.gov.sg/gesps-corporate-video
         - title: News @GESPS
           description: ""
-          url: /news-at-gesps/2023
+          url: /news-at-gesps/permalink/
 ---
