@@ -24,7 +24,7 @@ third_nav_title: Teachers
 **1 Respect**  
 
 *   Form Teacher: **[Ms Caroline Low](mailto:low_kwee_choo_caroline@schools.gov.sg)**
-*   Form Teacher: **[Mdm Florence Chew](mailto:chew_geok_fah@schools.gov.sg)**
+*   Form Teacher: **[Mrs Lee Chia Ling](mailto:sum_chia_ling@schools.gov.sg)**
 
 **1 Empathy**
 
