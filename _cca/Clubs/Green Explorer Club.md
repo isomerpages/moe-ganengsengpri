@@ -4,7 +4,7 @@ permalink: /cca/Clubs/gec/
 description: ""
 third_nav_title: Clubs
 ---
-**Teacher 1 I/C:**&nbsp;**[Mr Lester Tan](mailto:tan_meng_fai_lester@schools.gov.sg)**  <br>
+**Teacher 1 I/C:**&nbsp;**[Ms Elaine Lim](mailto:elaine_lim_chiu_wei@schools.gov.sg)**  <br>
 **Teacher 2 I/C:**&nbsp;**[Mrs Carol Wong](mailto:tay_puay_suan@schools.gov.sg)**
 
 <p align="justify">Green Explorer Club aims to cultivate an appreciation and interest in the environment by providing members with opportunities to learn and explore science and the environment around them. Some of the topics covered include: Food Sustainability, Alternative Farming Methods, Food Wastage, Conservation and 3Rs – Reuse, Reduce &amp; Recycle.&nbsp;</p>
