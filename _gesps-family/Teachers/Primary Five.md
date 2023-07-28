@@ -23,7 +23,6 @@ third_nav_title: Teachers
 
 **5 Inclusiveness**
 
-*   Form Teacher: **[Mr Lester Tan](mailto:tan_meng_fai_lester@schools.gov.sg)**
 *   Form Teacher: **[Ms Adeline Goh](mailto:adeline_goh_pei_yin@schools.gov.sg)**
 *   Form Teacher: **[Ms A Aafreen](mailto:a_aafreen_fathima@schools.gov.sg)**
 
