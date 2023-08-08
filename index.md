@@ -21,4 +21,5 @@ sections:
   - infopic:
       title: GESPS wishes Singapore a Happy 58th Birthday!
       image: /images/national day.jpg
+      alt: Gesps celebrates National Day!
 ---
