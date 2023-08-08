@@ -20,8 +20,5 @@ sections:
           url: /news-at-gesps/permalink/
   - infopic:
       title: GESPS wishes Singapore a Happy 58th Birthday!
-      description: Infopic description
-      button: Button Text
-      image: /images/national day1.jpeg
-      alt: Image alt text
+      image: /images/national day.jpg
 ---
