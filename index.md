@@ -23,6 +23,8 @@ sections:
       url: https://www.instagram.com/gespsalumni/
       image: /images/message (teachers day).png
       alt: Image alt text
+      description: Join our GESPS Alumni social media platforms for the latest
+        happenings in our school!
   - resources:
       title: Announcement
       button: GESPS Alumni
