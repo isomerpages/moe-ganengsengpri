@@ -19,7 +19,10 @@ sections:
           description: ""
           url: /news-at-gesps/permalink/
   - infopic:
-      title: GESPS wishes Singapore a Happy 58th Birthday!
-      image: /images/national day.jpg
-      alt: Gesps celebrates National Day!
+      button: GESPS Alumni
+      url: /gesps-family/alumni/
+      image: /images/message (teachers day).png
+      alt: Image alt text
+      description: Join our GESPS Alumni social media platforms for the latest
+        happenings in our school!
 ---
