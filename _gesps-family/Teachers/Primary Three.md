@@ -15,9 +15,8 @@ third_nav_title: Teachers
 
 **3 Self-Discipline**  
 
-*   Form Teacher: **[Mrs Chin-Lee Siew Gin](mailto:Chin-lee_Siew_Gin@schools.gov.sg)**
-
 *   Form Teacher: **[Ms Siti Nuraisyah](mailto:Siti_nuraisyah_RAZALI@schools.gov.sg)**
+*   Form Teacher: **[Ms Lee Kai Xin](mailto:lee_kai_xin@schools.gov.sg)**
 
   
 
