@@ -18,11 +18,10 @@ sections:
         - title: News @GESPS
           description: ""
           url: /news-at-gesps/permalink/
-  - infopic:
-      button: GESPS Alumni
-      url: /gesps-family/alumni/
-      image: /images/message (teachers day).png
-      alt: Image alt text
-      description: Join our GESPS Alumni social media platforms for the latest
-        happenings in our school!
+  - infobar:
+      title: Home-Based Learning
+      id: infobar
+      description: "Primary 4 and Primary 5 "
+      button: HBL Page
+      url: https://sites.google.com/moe.edu.sg/gesps-hbl/home
 ---
