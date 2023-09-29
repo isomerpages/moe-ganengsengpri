@@ -4,7 +4,7 @@ permalink: /cca/Sports/floorball/
 description: ""
 third_nav_title: Sports
 ---
-**Teacher 1 I/C:**&nbsp;**[Ms Hui Sou Kuin](mailto:hui_sou_kuin@schools.gov.sg)**<br>
+**Teacher 1 I/C:**&nbsp;**[Mr Thomas Lee](mailto:lee_tee_kai_thomas@schools.gov.sg)**<br>
 **Teacher 2 I/C:**&nbsp;**[Mrs Margaret Lim](mailto:low_hong_mei_margaret@schools.gov.sg)**
 
 <img src="/images/floorball-clipart-8.jpg" style="width:49%" align="right">
