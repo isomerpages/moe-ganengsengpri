@@ -18,10 +18,4 @@ sections:
         - title: News @GESPS
           description: ""
           url: /news-at-gesps/permalink/
-  - infobar:
-      title: Home-Based Learning
-      id: infobar
-      description: Primary 4 and Primary 5
-      button: HBL Page
-      url: https://sites.google.com/moe.edu.sg/gesps-hbl/home
 ---
