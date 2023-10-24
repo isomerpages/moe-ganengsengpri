@@ -23,6 +23,6 @@ sections:
       id: infopic
       button: Play video
       url: https://www.youtube.com/watch?v=OJq63wBIBe0
-      image: /images/school crest_hr (transparent) - small.png
+      image: /images/school crest_hr small.png
       alt: Image alt text
 ---
