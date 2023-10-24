@@ -18,4 +18,11 @@ sections:
         - title: News @GESPS
           description: ""
           url: /news-at-gesps/permalink/
+  - infopic:
+      title: GESPS Corporate Video
+      id: infopic
+      button: Play video
+      url: https://www.youtube.com/watch?v=OJq63wBIBe0
+      image: /images/school crest_hr (transparent).png
+      alt: Image alt text
 ---
