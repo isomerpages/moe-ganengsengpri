@@ -17,7 +17,7 @@ sections:
           url: /news-at-gesps/permalink/
         - title: Useful Links
           description: ""
-          url: https://go.gov.sg/gesps-corporate-video
+          url: https://www.ganengsengpri.moe.edu.sg/quick-links/for-students/
   - resources:
       title: News @GESPS
       id: resources
