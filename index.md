@@ -12,14 +12,14 @@ sections:
         - title: School Calendar
           description: ""
           url: /about-us/sc
-        - title: GESPS Corporate Video
-          description: ""
-          url: https://go.gov.sg/gesps-corporate-video
         - title: News @GESPS
           description: ""
           url: /news-at-gesps/permalink/
+        - title: Useful Links
+          description: ""
+          url: https://go.gov.sg/gesps-corporate-video
   - resources:
-      title: Announcements
+      title: News @GESPS
       id: resources
       button: More Announcements
   - infopic:
