@@ -18,10 +18,19 @@ sections:
         - title: Useful Links
           description: ""
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/for-students/
+  - textcards:
+      title: Bulletin Board
+      id: textcards
+      cards:
+        - title: P4 Subject-Based Banding (SBB) 2023
+          description: PDF slides for parents
+          linktext: Learn more
+          url: https://for.edu.sg/gesps-p4sbb-slides2023
   - resources:
-      title: News @GESPS
+      title: NEWSFLASH!
       id: resources
-      button: More Announcements
+      button: Check out for more
+      subtitle: Collection of gESPS
   - infopic:
       title: GESPS Corporate Video
       id: infopic
