@@ -19,7 +19,7 @@ sections:
           description: ""
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/for-students/
   - textcards:
-      title: Announcement
+      title: Bulletin Board
       id: textcards
       cards:
         - title: P4 Subject-Based Banding (SBB) 2023
