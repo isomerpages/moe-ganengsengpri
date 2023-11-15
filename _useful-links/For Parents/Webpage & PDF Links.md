@@ -1,8 +1,9 @@
 ---
-title: Webpage &amp; PDF Links
+title: Webpage & PDF Links
 permalink: /quick-links/For-Parents/links/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 ##### All levels
 \-&nbsp;[Parents in Education](https://www.schoolbag.edu.sg/)
@@ -18,8 +19,9 @@ third_nav_title: For Parents
 \-&nbsp;[Primary 3&nbsp;e-Meet The Parents (PDF)](https://go.gov.sg/p3p4-emtp-2023)&nbsp; 2023
 
 ##### Primary 4
+\-&nbsp;[Primary 4 SBB (PDF)](https://for.edu.sg/gesps-p4sbb-slides2023)&nbsp;2023<br>
 \-&nbsp;[Primary 4 e-Meet The Parents (PDF)](https://go.gov.sg/p3p4-emtp-2023)&nbsp; 2023<br>
-\- [P4 SBB and PSLE Scoring Sharing (PDF)](https://go.gov.sg/p4-sbb-psle-scoring-2022)  2022
+
 
 ##### Primary 5
 \-&nbsp;[Primary 5 Meet The Parents (PDF)](https://go.gov.sg/p5p6-mtp-2023)&nbsp; 2023
