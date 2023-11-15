@@ -26,6 +26,7 @@ sections:
           description: PDF slides for parents
           linktext: Learn more
           url: https://for.edu.sg/gesps-p4sbb-slides2023
+      subtitle: OUR
   - resources:
       title: NEWSFLASH!
       id: resources
