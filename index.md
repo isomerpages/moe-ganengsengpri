@@ -18,6 +18,13 @@ sections:
         - title: Useful Links
           description: ""
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/for-students/
+  - infopic:
+      title: GESPS Corporate Video
+      id: infopic
+      button: Play video
+      url: https://www.youtube.com/watch?v=OJq63wBIBe0
+      image: /images/school crest_hr small.png
+      alt: Image alt text
   - textcards:
       title: Bulletin Board
       id: textcards
@@ -32,11 +39,4 @@ sections:
       id: resources
       button: Check out for more
       subtitle: Collection of gESPS
-  - infopic:
-      title: GESPS Corporate Video
-      id: infopic
-      button: Play video
-      url: https://www.youtube.com/watch?v=OJq63wBIBe0
-      image: /images/school crest_hr small.png
-      alt: Image alt text
 ---
