@@ -27,9 +27,9 @@ sections:
           linktext: Learn more
           url: https://for.edu.sg/gesps-p4sbb-slides2023
   - resources:
-      title: News @GESPS
+      title: We are in the News!
       id: resources
-      button: More Announcements
+      button: Check out for more
   - infopic:
       title: GESPS Corporate Video
       id: infopic
