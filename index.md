@@ -18,6 +18,15 @@ sections:
         - title: Useful Links
           description: ""
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/for-students/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: P4 Subject-Based Banding (SBB)
+          date: 15 November 2023
+          announcement: Sharing PDF slides for Parents
+          link_text: click here
+          link_url: https://for.edu.sg/gesps-p4sbb-slides2023
   - resources:
       title: News @GESPS
       id: resources
