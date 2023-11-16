@@ -31,8 +31,14 @@ sections:
       cards:
         - title: P4 Subject-Based Banding (SBB) 2023
           description: PDF slides for parents
-          linktext: Learn more
+          linktext: Click here to view
           url: https://for.edu.sg/gesps-p4sbb-slides2023
+        - title: GESPS Excellers' Day 2023
+          description: |-
+            15 Nov 2023      
+            - Event and prize presentation photos
+          linktext: Click here to view
+          url: https://movingstillsphotography.shootproof.com/gallery/20520170/album/16336550
       subtitle: OUR
   - resources:
       title: NEWSFLASH!
