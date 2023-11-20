@@ -29,6 +29,10 @@ sections:
       title: Bulletin Board
       id: textcards
       cards:
+        - title: P1 Orientation 2023
+          description: PDF slides for parents
+          linktext: Click here to view
+          url: https://go.gov.sg/gesps-p1-orientation-2023
         - title: P4 Subject-Based Banding (SBB) 2023
           description: PDF slides for parents
           linktext: Click here to view
