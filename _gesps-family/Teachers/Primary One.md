@@ -19,15 +19,15 @@ variant: markdown
 
 **1 Inclusiveness**
 
-*   Form Teacher: **[Mdm Tan Geok Kian](mailto:Tan_Geok_Kian@schools.gov.sg)**
-*   Form Teacher: **[Mdm Yu Yunyan](mailto:yu_yunyan@schools.gov.sg)**
+*   Form Teacher: **[Ms Nga Lee Choon](mailto:nga_lee_choon@schools.gov.sg)**
+*   Form Teacher: **[Mdm Cai Zhiying](mailto:cai_zhiying@schools.gov.sg)**
 
 **1 Respect**  
 
-*   Form Teacher: **[Ms Caroline Low](mailto:low_kwee_choo_caroline@schools.gov.sg)**
-*   Form Teacher: **[Mrs Lee Chia Ling](mailto:sum_chia_ling@schools.gov.sg)**
+*   Form Teacher: **[Ms Patricia Goh](mailto:goh_ley_hoon_patricia@schools.gov.sg)**
+*   Form Teacher: **[Mdm Yu Yunyan](mailto:yu_yunyan@schools.gov.sg)**
 
 **1 Empathy**
 
-*   Form Teacher: **[Mrs Angeline Ng](mailto:ong_ling_ling_angeline@schools,gov.sg)**
+*   Form Teacher: **[Ms Caroline Low](mailto:low_kwee_choo_caroline@schools.gov.sg)**
 *   Form Teacher: **[Mdm Khairyanie](mailto:Khairyanie_Kamsani@schools.gov.sg)**
