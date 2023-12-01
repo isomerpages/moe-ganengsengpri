@@ -3,18 +3,19 @@ title: Primary One
 permalink: /gesps-family/Teachers/p1/
 description: ""
 third_nav_title: Teachers
+variant: markdown
 ---
 #### Class:
 
 **1 Self-Discipline**
 
-*   Form Teacher: **[Mrs Dorcas Chan](mailto:koh_kah_fong_dorcas@schools.gov.sg)**
-*   Form Teacher: **[Mdm Nadiah](mailto:nadiah_sheik_allahuddin@schools.gov.sg)**
+*   Form Teacher: **[Mrs Margaret Lim](mailto:low_hong_mei_margaret@schools.gov.sg)**
+*   Form Teacher: **[Mdm Li Ying](mailto:li_ying@schools.gov.sg)**
 
 **1 Perseverance**
 
-*   Form Teacher: **[Ms Lim Seow Eng](mailto:lim_seow_eng@schools.gov.sg)**
-*   Form Teacher: **[Mdm Teo Siew Ping](mailto:Teo_Siew_Ping_Paulyne@schools.gov.sg)**
+*   Form Teacher: **[Mdm Nadiah](mailto:nadiah_sheik_allahuddin@schools.gov.sg)**
+*   Form Teacher: **[Mdm Clare Linda Chee](mailto:chee_lin_gia@schools.gov.sg)**
 
 **1 Inclusiveness**
 
