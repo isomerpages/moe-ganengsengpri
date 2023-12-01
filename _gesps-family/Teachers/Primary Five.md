@@ -25,4 +25,4 @@ variant: markdown
 **5 Empathy**
 
 *   Form Teacher: **[Ms Jayne Leong](mailto:leong_hui_ling_jayne@schools.gov.sg)**
-*   Form Teacher: **[Mr K Kannathasan](mailto:nur_uzaimah_fadzali@schools.gov.sg)**
+*   Form Teacher: **[Mr K Kannathasan](mailto:k_kannathasan@schools.gov.sg)**
