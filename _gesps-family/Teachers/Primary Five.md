@@ -3,36 +3,26 @@ title: Primary Five
 permalink: /gesps-family/Teachers/p5/
 description: ""
 third_nav_title: Teachers
+variant: markdown
 ---
 #### Class:
 
-**5 Integrity**
-
-*   Form Teacher: **[Mdm Anglie Ng](mailto:Ng_Sor_Ling_Anglie@schools.gov.sg)**
-*   Form Teacher: **[Ms Johannah Fong](mailto:johannah_fong_yun_wen@schools.gov.sg)**
-
-**5 Self-Discipline**
-
-*   Form Teacher: **[Ms Jess Chan](mailto:chan_hoon_seah@schools.gov.sg)**
-*   Form Teacher: **[Mr Zheng Xu](mailto:zheng_xu@schools.gov.sg)**
-
 **5 Perseverance**  
 
-*   Form Teacher: **[Ms Regina Yip](mailto:yip_lai_kuan@schools.gov.sg)**
-*   Form Teacher: **[Mr Thomas Lee](mailto:lee_tee_kai_thomas@schools.gov.sg)**
+*   Form Teacher: **[Ms Ong Pei Ling](mailto:ong_pei_ling@schools.gov.sg)**
+*   Form Teacher: **[Mrs Bhama](mailto:sathiya_bhama_arasan@schools.gov.sg)**
 
 **5 Inclusiveness**
 
-*   Form Teacher: **[Ms Adeline Goh](mailto:adeline_goh_pei_yin@schools.gov.sg)**
-*   Form Teacher: **[Ms A Aafreen](mailto:a_aafreen_fathima@schools.gov.sg)**
+*   Form Teacher: **[Mrs Lilian Lim](mailto:ho_lilian@schools.gov.sg)**
+*   Form Teacher: **[Mdm Thenmulli](mailto:thenmulli_palaniappan@schools.gov.sg)**
 
 **5 Respect**
 
-*   Form Teacher: **[Mdm Alleda](mailto:alleda_baba@schools.gov.sg)**
-*   Form Teacher: **[Mrs Quek-Tan Chia Ling](mailto:tan_chia_ling@schools.gov.sg)**
-*   Form Teacher: **[Mdm Tan See Kin](mailto:tan_see_kin@schools.gov.sg)**
+*   Form Teacher: **[Mr Goh Zhao Xiong](mailto:goh_zhao_xiong@schools.gov.sg)**
+*   Form Teacher: **[Ms Chong Chyi Ling](mailto:chong_chyi_ling@schools.gov.sg)**
 
 **5 Empathy**
 
-*   Form Teacher: **[Mr Eric Yong](mailto:yong_junxiong_eric@schools.gov.sg)**
-*   Form Teacher: **[Ms Nur'Uzaimah](mailto:nur_uzaimah_fadzali@schools.gov.sg)**
+*   Form Teacher: **[Ms Jayne Leong](mailto:leong_hui_ling_jayne@schools.gov.sg)**
+*   Form Teacher: **[Mr K Kannathasan](mailto:nur_uzaimah_fadzali@schools.gov.sg)**
