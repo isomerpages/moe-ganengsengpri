@@ -3,27 +3,38 @@ title: Primary Four
 permalink: /gesps-family/Teachers/p4/
 description: ""
 third_nav_title: Teachers
+variant: markdown
 ---
 #### Class:
 
+
+**4 Integrity**  
+
+*   Form Teacher: **[Mrs Ariff](mailto:rabiah_bibi_ahmed_mitten@schools.gov.sg)**
+*   Form Teacher: **[Mrs Tan Yue Xing](mailto:kwan_yue_xing@schools.gov.sg)**
+
+**4 Self-Discipline**  
+
+*   Form Teacher: **[Mrs Chin-Lee Siew Gin](mailto:chin-lee_siew_gin@schools.gov.sg)**
+*   Form Teacher: **[Ms Siti Nuraisyah](mailto:siti_nuraisyah_razali@schools.gov.sg)**
+
+
 **4 Perseverance**  
 
-*   Form Teacher: **[Mrs Carol Wong](mailto:tay_puay_suan@schools.gov.sg)**
-*   Form Teacher: **[Ms Chong Chyi Ling](mailto:chong_chyi_ling@schools.gov.sg)**
+*   Form Teacher: **[Ms Esther Goh](mailto:goh_yue_yin_esther@schools.gov.sg)**
+*   Form Teacher: **[Mr David Tan](mailto:tan_hong_meng_david@schools.gov.sg)**
 
 **4 Inclusiveness**  
 
-*   Form Teacher: **[Ms Jayne Leong](mailto:leong_hui_ling_jayne@schools.gov.sg)**
-
-*   Form Teacher: **[Mrs Bhama Puravalan](mailto:sathiya_bhama_arasan@schools.gov.sg)**
+*   Form Teacher: **[Mr Rashidi](mailto:muhammad_rashidi_ramli@schools.gov.sg)**
+*   Form Teacher: **[Mdm Diana Toh](mailto:toh_lay_beng_diana@schools.gov.sg)**
 
 **4 Respect**  
 
-*   Form Teacher: **[Ms Nur Hanisah](mailto:nur_hanisah_mohd_johari_george@schools.gov.sg)**
-
-*   Form Teacher: **[Ms Lin Yingru](mailto:lin_yingru@schools.gov.sg)**
+*   Form Teacher: **[Mrs Evelyn Loh](mailto:soh_hwee_lin@schools.gov.sg)**
+*   Form Teacher: **[Mrs Sukumar](mailto:subangkini_sukumar@schools.gov.sg)**
 
 **4 Empathy**  
 
-*   Form Teacher: **[Ms Elaine Lim](mailto:elaine_lim_chiu_wei@schools.gov.sg)**
-*   Form Teacher: **[Mdm Chen Hsueh Lien](mailto:chen_hsueh_lien@schools.gov.sg)**
+*   Form Teacher: **[Ms Hazel Sim](mailto:sim_geok_keow@schools.gov.sg)**
+*   Form Teacher: **[Mdm Jacquelyn Yin](mailto:jacquelyn_yin_hui_jing@schools.gov.sg)**
