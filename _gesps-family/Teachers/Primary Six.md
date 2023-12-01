@@ -3,25 +3,39 @@ title: Primary Six
 permalink: /gesps-family/Teachers/p6/
 description: ""
 third_nav_title: Teachers
+variant: markdown
 ---
 #### Class:
   
+**6 Integrity**
+
+*   Form Teacher: **[Mdm Anglie Ng](mailto:ng_sor_ling_anglie@schools.gov.sg)**
+*   Form Teacher: **[Mr John Tan](mailto:john_tan_chong_jin@schools.gov.sg)**
+
+**6 Self-Discipline**
+
+*   Form Teacher: **[Mdm Elaine Lim](mailto:Elaine_Lim_Chiu_Wei@schools.gov.sg)**
+*   Form Teacher: **[Ms Lin Yingru](mailto:lin_yingru@schools.gov.sg)**
+
+
 **6 Perseverance**
 
-*   Form Teacher: **[Mr Goh Zhao Xiong](mailto:Goh_Zhao_Xiong@schools.gov.sg)**
-*   Form Teacher: **[Mdm Thenmulli](mailto:Thenmulli_Palaniappan@schools.gov.sg)**
+*   Form Teacher: **[Ms Regina Yip](mailto:yip_lai_kuan@schools.gov.sg)**
+*   Form Teacher: **[Mdm Swathy](mailto:swathy_muralidharan@schools.gov.sg)**
 
 **6 Inclusiveness**
 
-*   Form Teacher: **[Mrs Lilian Lim](mailto:Ho_Lilian@schools.gov.sg)**
-*   Form Teacher: **[Mr John Tan](mailto:john_tan_chong_jin@schools.gov.sg)**
+*   Form Teacher: **[Mdm Adeline Goh](mailto:adeline_goh_pei_yin@schools.gov.sg)**
+*   Form Teacher: **[Mr Kelvin Lee](mailto:lee_kwee_ming_kelvin@schools.gov.sg)**
+*   Form Teacher: **[Ms Noraini](mailto:siti_noraini_ibrahim@schools.gov.sg)**
 
 **6 Respect**
 
-*   Form Teacher: **[Mdm Nandalayga](mailto:Nandalayga_A@schools.gov.sg)**
-*   Form Teacher: **[Ms Li Ying](mailto:Li_Ying@schools.gov.sg)**
+*   Form Teacher: **[Ms Tan See Kin](mailto:tan_see_kin@schools.gov.sg)**
+*   Form Teacher: **[Ms Uzaimah](mailto:nur_uzaimah_fadzali@schools.gov.sg)**
+*   Form Teacher: **[Mdm Nurasilah](mailto:nurasilah_shahzan@schools.gov.sg)**
 
 **6 Empathy**  
 
-*   Form Teacher: **[Ms Noraini](mailto:siti_noraini_ibrahim@schools.gov.sg@schools.gov.sg)**
-*   Form Teacher: **[Mr K Kannathasan](mailto:k_kannathasan@schools.gov.sg)**
+*   Form Teacher: **[Mr Eric Yong](mailto:yong_junxiong_eric@schools.gov.sg)**
+*   Form Teacher: **[Ms Nur Hanisah](mailto:nur_hanisah_mohd_johari_george@schools.gov.sg)**
