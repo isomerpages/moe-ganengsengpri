@@ -2,16 +2,17 @@
 title: School's Strategic Goals
 permalink: /about-us/ssg/
 description: ""
+variant: markdown
 ---
-#### Thrust 1: Lifelong Learners
-SG 1: Students express themselves confidently and communicate effectively.&nbsp;&nbsp;<br>
-SG 2: Students think critically and creatively.<br>
-SG 3: Students  have a lively curiosity, pursue their passions, and develop their interests and strengths.
+#### ST1: Lifelong Learners
+SG 1: <u>C</u>onfident Communicators<br>
+SG 2: <u>C</u>reative and Critical Thinkers<br> 
+SG 3: <u>C</u>urious Learners
 
-#### Thrust 2: Citizens of Character<br>
-SG 4: Students demonstrate the INSPIRE values.<br>
-SG 5: Students contribute actively to the school and community.
+#### ST2: Citizens of Character<br>
+SG 4: GESPians with INSPIRE <u>C</u>haracter<br>
+SG 5: <u>C</u>oncerned Citizens
 
-#### Thrust 3: Caring and Inspiring Staff<br>
-SG 6: Staff take ownership of their own professional learning and contribute to the growth of others.<br>
-SG 7: Staff promote the culture of care in the school.
+#### ST3: Caring and Inspiring Staff<br>
+SG 6: <u>C</u>ompetent and Collaborative Staff<br>
+SG 7: <u>C</u>aring Staff
