@@ -72,7 +72,7 @@ contacts:
       - phone: ""
       - email: ""
       - other: "Revolving Transport Pte Ltd<br>+65 6479 7597<br>Email:
-          edmund55@singnet.com.sg"
+          edmund55@singnet.com.sg<br>More on bus services click here"
     title: School Bus
   - content:
       - phone: ""
@@ -90,4 +90,5 @@ contacts:
       - other: "Blk 115A Commonwealth Drive #02-28 S(149596)<br> Website:
           www.khuniform.com"
     title: "Address:"
+feedback: ""
 ---

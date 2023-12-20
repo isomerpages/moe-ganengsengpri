@@ -3,9 +3,10 @@ title: Boys' Brigade
 permalink: /cca/Uniformed-Groups/bb/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
-**Teacher 1 I/C:**&nbsp;**[Ms Johannah Fong](mailto:johannah_fong_yun_wen@schools.gov.sg)**<br>
-**Teacher 2 I/C:**&nbsp;**[Ms Lim Seow Eng](mailto:lim_seow_eng@schools.gov.sg)**  
+**Teacher 1 I/C:**&nbsp;**[Mrs Dorcas Chan](mailto:koh_kah_fong_dorcas@schools.gov.sg)**<br>
+**Teacher 2 I/C:**&nbsp;**[Mdm Nga Lee Choon](mailto:nga_lee_choon@schools.gov.sg)**  
 
 The Boys’ Brigade is an Uniformed Group Co-Curricular Activity for boys from primary 3 to primary 5. It aims to:
 

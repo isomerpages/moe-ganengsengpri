@@ -3,9 +3,10 @@ title: Info Comm and Media Club
 permalink: /cca/Clubs/icmc/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 **Teacher 1 I/C:**&nbsp;**[Mr Rashidi](mailto:muhammad_rashidi_ramli@schools.gov.sg)**  <br>
-**Teacher 2 I/C:**&nbsp;**[Ms Odelia Tiong](mailto:odelia_tiong_hui_xuan@schools.gov.sg)**
+**Teacher 2 I/C:**&nbsp;**[Mdm Nadiah](mailto:nadiah_sheik_allahuddin@schools.gov.sg)**
 
 <p align="justify">Info-Comm and Media Club (IMC) aims to develop 21st century competencies and digital literacies in the students. Through authentic learning scenarios, students are tasked to come up with solutions to real-world issues, thus stretching their critical and computational thinking.&nbsp;</p>
 

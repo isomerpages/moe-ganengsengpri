@@ -3,10 +3,10 @@ title: Art Club
 permalink: /cca/Clubs/permalink/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
-
-**Teacher 1 I/C:**&nbsp;**[Mrs Caroline Low](mailto:low_kwee_choo_caroline@schools.gov.sg)**<br>
-**Teacher 1 I/C:**&nbsp;**[Mdm Jacquelyn Yin](mailto:jacquelyn_yin_hui_jing@schools.gov.sg)** 
+**Teacher 1 I/C:**&nbsp;**[Mdm Jacquelyn Yin](mailto:jacquelyn_yin_hui_jing@schools.gov.sg)** <br>
+**Teacher 2 I/C:**&nbsp;**[Ms Caroline Low](mailto:low_kwee_choo_caroline@schools.gov.sg)**
 
 <p align="justify">The Art Club is a Co-Curricular Activity that unleashes our students’ creativity. Our students are exposed to different art forms and media and learn artistic skills in areas such as:  </p>
   
