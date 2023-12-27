@@ -7,7 +7,6 @@ variant: markdown
 ---
 |  |  |
 |:---|:---|
-| **Teacher** | [Ms Jess Chan](mailto:chan_hoon_seah@schools.gov.sg)
 | **Teacher** | [Mrs Yvonne Leow](mailto:cheak_beo_leng_yvonne@schools.gov.sg)
 | **Teacher** | [Mdm Chua Chee Hui](mailto:chua_chee_hui@schools.gov.sg)
 | **Teacher** | [Mdm Lee Kai Xin](mailto:lee_kai_xin@schools.gov.sg)
@@ -27,4 +26,5 @@ variant: markdown
 | **Flexi-Adjunct Teacher** | [Mdm Sithika](mailto:sithika_begam@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mdm Vanitha](mailto:vanitha_k_s_perumal@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Ms Charrisa Chan](mailto:@schools.gov.sg)
+| **Flexi-Adjunct Teacher (UPLIFT)** | [Ms Wong Sook Yee](mailto:wong_sook_yee@schools.gov.sg)
 |  |  |
