@@ -16,7 +16,7 @@ variant: markdown
 | **Teacher** | [Mdm Wu Peisha](mailto:wu_pei_sha@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Ms Chua Hui Hui](mailto:chua_hui_hui@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Ms Chua Mui Yee](mailto:chua_mui_yee@schools.gov.sg)
-| **Flexi-Adjunct Teacher** | [Mr Daniel Guan](mailto:daniel_guan@schools.gov.sg)
+| **Flexi-Adjunct Teacher** | [Mr Daniel Guan](mailto:daniel_guan_poh_wei@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Ms Irene Ang](mailto:@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Ms June Tay](mailto:tay_wee_hong@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mrs Kong Sim Guan](mailto:kong_sim_guan@schools.gov.sg)
