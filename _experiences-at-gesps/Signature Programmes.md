@@ -2,6 +2,7 @@
 title: Signature Programmes
 permalink: /gesps-distinctive-experiences/sig-progs/
 description: ""
+variant: markdown
 ---
 <p align="justify">In Gan Eng Seng Primary School (GESPS), we recognize that students learn best when they are meaningfully engaged be it during lessons in schools or outside the classrooms. The GESPS Signature Programmes are designed to promote meaningful and joyful learning via integrated learning journeys to identified landmarks of Singapore. By the end of their six years of education in GESPS, students would achieve a better understanding of the significance of these landmarks and take pride in Singapore’s achievements. The opportunities to work together in groups as well as independently on projects related to these learning journeys would serve to develop students’ Social-Emotional and 21st Century Competencies.&nbsp;</p>
 
@@ -27,10 +28,10 @@ description: ""
 <img src="/images/sp4.png" style="width:75%">
 <img src="/images/sp5.png" style="width:75%">
 
-##### P4 - At the Esplanade
-<p align="justify">P4 GESPians’ exposure to the Arts ignites the imagination, encourages creative self-expression and provokes new ways of thinking and looking at the world. The Esplanade provides a variety of learning opportunities for our students to explore the various genres of Art through tours of the centre as well as performances, visual arts exhibitions, talks and workshops. Our students will be able to experience how the English Language can come alive by watching a children’s musical or theatre play and discover what goes on behind the scenes that leads to a successful performance. Our trip to the Esplanade could be the start of the nurturing of a future artist or actor.</p>
+##### P4 - KidZania
+<p align="justify">The P4 students will enter the interactive city of KidZania as part of their Signature Programme. It combines inspiration, fun and learning through realistic role-play as they explore different careers and the concept of managing money. The experiences are designed to empower students and give them confidence to be their best selves.</p>
 
-<img src="/images/sp6.png" style="width:75%">
+<img src="/images/P4_SP.jpg" style="width:75%">
 		 
 ##### P5 – Gardens by the Bay
 <p align="justify">The exciting outdoor learning experience to the Gardens by the Bay will allow our P5 GESPians learn beyond the classroom and have first-hand experience to see how different conservation strategies are applied in real life context. While learning about how the two cooled conservatories (Flower Dome and Cloud Forest) apply a set of advanced, cutting-edge technologies for energy-efficient solutions in cooling, students will get to experience how it feels like to be in a greenhouse, aiding them in their understanding of energy sustainability strategies. In addition, as climate change is one of the key global problems currently faced, this learning journey will give our students an awareness of climate change as one of the key global problems currently faced and how Singapore has played its part in caring for the environment and conserving resources. We wish to inspire our students to be actively engaged in conservation by adopting energy-saving practices in their daily life.</p>

@@ -11,7 +11,7 @@ variant: markdown
 **4 Integrity**  
 
 *   Form Teacher: **[Mrs Ariff](mailto:rabiah_bibi_ahmed_mitten@schools.gov.sg)**
-*   Form Teacher: **[Mrs Tan Yue Xing](mailto:kwan_yue_xing@schools.gov.sg)**
+*   Form Teacher: **[Mrs Tang Yue Xing](mailto:kwan_yue_xing@schools.gov.sg)**
 
 **4 Self-Discipline**  
 
