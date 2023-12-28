@@ -18,9 +18,9 @@ sections:
         - title: Useful Links
           description: Students, Parents & Teachers
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/for-students/
-        - title: sCHOOL Canteen advertisement
+        - title: School Canteen advertisement
           description: ""
-          url: ""
+          url: /permalink/school-canteen-ad/
   - infopic:
       title: GESPS Corporate Video
       id: infopic
