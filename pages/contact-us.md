@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours:
       - days: Mon-Fri
-        time: 7.00am - 6.00pm
+        time: 7.00am - 5.30pm
         description: "*The office is closed on weekends and public holidays."
     maps_link: ""
     title: Address
