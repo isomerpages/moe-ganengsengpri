@@ -12,15 +12,15 @@ sections:
         - title: School Calendar
           description: ""
           url: /about-us/sc
+        - title: School Canteen advertisement
+          description: ""
+          url: /permalink/school-canteen-ad/
         - title: News @GESPS
           description: ""
           url: /news-at-gesps/permalink/
         - title: Useful Links
           description: Students, Parents & Teachers
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/for-students/
-        - title: School Canteen advertisement
-          description: ""
-          url: /permalink/school-canteen-ad/
   - infopic:
       title: GESPS Corporate Video
       id: infopic
