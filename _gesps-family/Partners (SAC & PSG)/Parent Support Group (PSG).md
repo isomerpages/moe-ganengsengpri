@@ -3,40 +3,6 @@ title: Parent Support Group (PSG)
 permalink: /gesps-family/partners-sac-and-psg/psg/
 description: ""
 third_nav_title: Partners (SAC & PSG)
+variant: markdown
 ---
-#### Belief:
-<p align="justify">The Gan Eng Seng Primary School Parent Support Group (GESPS PSG), established in 2006, comprises parents from diverse backgrounds but all sharing a common goal to support and advocate the school’s mission, vision and beliefs.</p>
-
-#### Goal:
-<p align="justify">To work collaboratively with the school community and provide support for student’s holistic learning, development and achievement.</p>
-
-#### Objectives:
-<p align="justify">To support the school’s programmes and to foster a good relationship between parents and the school community.</p>
-
-**The GESPS PSG aims to:**
-* Enhance and work together towards a better school-home partnership.
-
-* Enhance communication between school teachers and parents.
-
-* Promote greater parental involvement in the school’s programmes.
-
-* Walk alongside in your child’s educational journey.
-
-* Establish a platform for parents to network.
-
-##### Registration:
-We welcome all parents to join us in the PSG. If you are interested in serving and supporting the school and students, please register via this link: [https://go.gov.sg/gespspsg](https://go.gov.sg/gespspsg)&nbsp;or scan the QR code below:
-
-<img src="/images/Screenshot 2020-11-23.png" style="width:30%">
-
-#### PSG Committee Team
-
-<p></p><p align="center"> PSG Advisor<br>Mdm Eva Loh / Mdm Elaine Teh</p>
-
-<img src="/images/photo1668805584.jpeg" style="width:85%">
-
-<img src="/images/photo1668805654.jpeg" style="width:85%">
-
-<img src="/images/photo1668805728.jpeg" style="width:27%;margin-right:15px;" align="left">
-<img src="/images/photo1668805749.jpeg" style="width:25%;margin-right:15px;" align="left">
-<img src="/images/photo1668805798.jpeg" style="width:34%;margin-right:15px;" align="left">
+<h4>Belief:</h4><p>The Gan Eng Seng Primary School Parent Support Group (GESPS PSG), established in 2006, comprises parents from diverse backgrounds but all sharing a common goal to support and advocate the school’s mission, vision and beliefs.</p><h4>Goal:</h4><p>To work collaboratively with the school community and provide support for student’s holistic learning, development and achievement.</p><h4>Objectives:</h4><p>To support the school’s programmes and to foster a good relationship between parents and the school community.</p><p><strong>The GESPS PSG aims to:</strong></p><ul><li><p>Enhance and work together towards a better school-home partnership.</p></li><li><p>Enhance communication between school teachers and parents.</p></li><li><p>Promote greater parental involvement in the school’s programmes.</p></li><li><p>Walk alongside in your child’s educational journey.</p></li><li><p>Establish a platform for parents to network.</p></li></ul><h5>Registration:</h5><p>We welcome all parents to join us in the PSG. If you are interested in serving and supporting the school and students, please register via this link: <a href="https://go.gov.sg/gespspsg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gespspsg</a>&nbsp;or scan the QR code below:</p><div class="isomer-image-wrapper"><img style="width:30%" height="auto" width="100%" src="/images/Screenshot 2020-11-23.png"></div><h4>PSG Committee Team</h4><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>             </strong></p><p><br></p></th><th rowspan="1" colspan="1"><p><strong>            PSG Advisor<br>       Mdm Adeline Eng</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Advisor___Adeline_Eng.jpg"></div></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>               Chairman</strong><br><strong> Mdm Ibrah Lim</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chairman___Ibrah_Lim.jpg"></div></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p><strong>Vice Chairman           </strong><br><strong>Ms Mei Ling</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vice_Chairman___Ms_Mei_Ling.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><strong> P1 to P3 Level Rep</strong><br><strong>         Mdm Lili Sng</strong></p><div class="isomer-image-wrapper"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Event_Coord___Lili_Sng.jpg"></div><p></p></td><td rowspan="1" colspan="1"><p></p><p>  </p><p></p></td><td rowspan="1" colspan="1"><p> <strong> P4 and P6 Level Rep</strong><br><strong>         Mr Joseph Lee</strong></p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_to_P6_Level_Rep___Joseph_Lee.jpg"></div><p></p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Event Coord Team<br>Mdm Rachel Chan</strong></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event_Coord___Mdm_Rachel_Chan.jpg"></div></td><td rowspan="1" colspan="1"><p><strong>Event Coord Team</strong><br><strong>Mdm Tee Sheena</strong></p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Event_Coord___Mdm_Tee_Sheena.jpg"></div></td><td rowspan="1" colspan="1"><p><strong>Event Coord Team</strong><br><strong>Mdm Sudha</strong></p><div class="isomer-image-wrapper"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Sudha_Event_coord_Team.jpg"></div></td></tr></tbody></table><p></p><p></p>
