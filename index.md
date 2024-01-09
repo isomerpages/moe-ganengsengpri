@@ -29,23 +29,13 @@ sections:
       image: /images/school crest_hr small.png
       alt: Image alt text
   - textcards:
-      title: Bulletin Board 2024
-      subtitle: OUR
+      title: Bulletin Board
       id: textcards
-      description: Text card description
       cards:
         - title: P1 & P2 Meet-The-Parents Session
-          description: PDF slides for parents
+          description: PDFslides for parents
           linktext: Click here to view
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
-        - title: P2 Meet-The-Parents Sesson
-          description: 4 Jan - PDF slides for parents
-          linktext: Click here to view
-          url: https://go.gov.sg/gesps-p2-mtp-2024
-  - textcards:
-      title: Bulletin Board 2023
-      id: textcards
-      cards:
         - title: P1 Orientation 2023
           description: PDF slides for parents
           linktext: Click here to view
