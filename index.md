@@ -60,7 +60,7 @@ sections:
         - title: P2 Meet-The-Parents Sesson
           description: 4 Jan - PDF slides for parents
           linktext: Click here to view
-          url: https://go.gov.sg/gesps-p1-mtp-2024
+          url: https://go.gov.sg/gesps-p2-mtp-2024
   - resources:
       title: NEWSFLASH!
       id: resources
