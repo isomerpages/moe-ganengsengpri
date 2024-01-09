@@ -35,7 +35,7 @@ sections:
         - title: P1 Meet-The-Parents Session
           description: 02 Jan 2024 - PDF slides for parents
           linktext: Click here to view
-          url: file:///O:/Ed-Tech/Website%20Contents/2024/Bulletin%20Board/P1%20MTP%20(02%20Jan%202024).pdf
+          url: https://go.gov.sg/gesps-p1-mtp-2024
         - title: P1 Orientation 2023
           description: PDF slides for parents
           linktext: Click here to view
