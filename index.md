@@ -61,10 +61,6 @@ sections:
           description: 4 Jan - PDF slides for parents
           linktext: Click here to view
           url: https://go.gov.sg/gesps-p1-mtp-2024
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
   - resources:
       title: NEWSFLASH!
       id: resources
