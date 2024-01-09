@@ -29,13 +29,9 @@ sections:
       image: /images/school crest_hr small.png
       alt: Image alt text
   - textcards:
-      title: Bulletin Board
+      title: Bulletin Board 2023
       id: textcards
       cards:
-        - title: P1 Meet-The-Parents Session
-          description: 02 Jan 2024 - PDF slides for parents
-          linktext: Click here to view
-          url: https://go.gov.sg/gesps-p1-mtp-2024
         - title: P1 Orientation 2023
           description: PDF slides for parents
           linktext: Click here to view
@@ -51,6 +47,24 @@ sections:
           linktext: Click here to view
           url: https://movingstillsphotography.shootproof.com/gallery/20520170/album/16336550
       subtitle: OUR
+  - textcards:
+      title: Bulletin Board 2024
+      subtitle: OUR
+      id: textcards
+      description: Text card description
+      cards:
+        - title: P1 Meet-The-Parents Session
+          description: 2 Jan - PDF slides for parents
+          linktext: Click here to view
+          url: https://go.gov.sg/gesps-p1-mtp-2024
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
   - resources:
       title: NEWSFLASH!
       id: resources
