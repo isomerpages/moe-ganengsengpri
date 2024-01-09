@@ -32,18 +32,10 @@ sections:
       title: Bulletin Board
       id: textcards
       cards:
-        - title: P1 & P2 Meet-The-Parents Session
+        - title: P1 & P2 Meet-The-Parents Session 2024
           description: PDFslides for parents
           linktext: Click here to view
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
-        - title: P1 Orientation 2023
-          description: PDF slides for parents
-          linktext: Click here to view
-          url: https://go.gov.sg/gesps-p1-orientation-2023
-        - title: P4 Subject-Based Banding (SBB) 2023
-          description: PDF slides for parents
-          linktext: Click here to view
-          url: https://for.edu.sg/gesps-p4sbb-slides2023
         - title: GESPS Excellers' Day 2023
           description: |-
             15 Nov 2023      
