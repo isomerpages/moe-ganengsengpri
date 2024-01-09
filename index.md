@@ -57,10 +57,10 @@ sections:
           description: 2 Jan - PDF slides for parents
           linktext: Click here to view
           url: https://go.gov.sg/gesps-p1-mtp-2024
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: P2 Meet-The-Parents Sesson
+          description: 4 Jan - PDF slides for parents
+          linktext: Click here to view
+          url: https://go.gov.sg/gesps-p1-mtp-2024
         - title: Card
           description: Card description
           linktext: Learn more
