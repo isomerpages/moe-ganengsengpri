@@ -11,6 +11,7 @@ variant: markdown
 
 *   Form Teacher: **[Mdm Anglie Ng](mailto:ng_sor_ling_anglie@schools.gov.sg)**
 *   Form Teacher: **[Mr John Tan](mailto:john_tan_chong_jin@schools.gov.sg)**
+*   Form Teacher: **[Mdm Tan Chay Hiang](mailto:tan_chay_hiang@schools.gov.sg)**
 
 **6 Self-Discipline**
 
@@ -27,7 +28,7 @@ variant: markdown
 
 *   Form Teacher: **[Mdm Adeline Goh](mailto:adeline_goh_pei_yin@schools.gov.sg)**
 *   Form Teacher: **[Mr Kelvin Lee](mailto:lee_kwee_ming_kelvin@schools.gov.sg)**
-*   Form Teacher: **[Ms Noraini](mailto:siti_noraini_ibrahim@schools.gov.sg)**
+
 
 **6 Respect**
 
@@ -39,3 +40,4 @@ variant: markdown
 
 *   Form Teacher: **[Mr Eric Yong](mailto:yong_junxiong_eric@schools.gov.sg)**
 *   Form Teacher: **[Ms Nur Hanisah](mailto:nur_hanisah_mohd_johari_george@schools.gov.sg)**
+*   Form Teacher: **[Mdm Lee Kai Xin ](mailto:lee_kai_xin@schools.gov.sg)**
