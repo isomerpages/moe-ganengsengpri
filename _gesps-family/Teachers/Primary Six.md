@@ -28,7 +28,7 @@ variant: markdown
 
 *   Form Teacher: **[Mdm Adeline Goh](mailto:adeline_goh_pei_yin@schools.gov.sg)**
 *   Form Teacher: **[Mr Kelvin Lee](mailto:lee_kwee_ming_kelvin@schools.gov.sg)**
-*   Form Teacher: **[Ms Noraini](mailto:siti_noraini_ibrahim@schools.gov.sg)**
+
 
 **6 Respect**
 
