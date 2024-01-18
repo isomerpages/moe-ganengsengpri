@@ -23,7 +23,7 @@ variant: markdown
 
 
 ##### Primary 5
-\-&nbsp;[Primary 5 Meet The Parents (PDF)](https://go.gov.sg/p5p6-mtp-2023)&nbsp; 2023
+[Meet-The-Parents Session (PDF)](https://go.gov.sg/gesps-p5p6-mtp-2024) - 2024
 
 ##### Primary 6
-\-&nbsp;[Primary 6 Meet The Parents (PDF)](https://go.gov.sg/p5p6-mtp-2023)&nbsp; 2023
+[Meet-The-Parents Session (PDF)](https://go.gov.sg/gesps-p5p6-mtp-2024) - 2024
