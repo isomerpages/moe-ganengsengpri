@@ -40,6 +40,10 @@ sections:
           description: PDF slides for parents
           linktext: Click here to view
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
+        - title: P5 & P6 Meet-The-Parents Session 2024
+          description: PDF slides for parents
+          linktext: Click here to view
+          url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
         - title: GESPS Excellers' Day 2023
           description: |-
             15 Nov 2023      
