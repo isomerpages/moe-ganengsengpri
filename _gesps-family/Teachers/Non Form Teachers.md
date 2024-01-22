@@ -9,7 +9,6 @@ variant: markdown
 |:---|:---|
 | **Teacher** | [Mrs Yvonne Leow](mailto:cheak_beo_leng_yvonne@schools.gov.sg)
 | **Teacher** | [Mdm Chua Chee Hui](mailto:chua_chee_hui@schools.gov.sg)
-| **Teacher** | [Mdm Lee Kai Xin](mailto:lee_kai_xin@schools.gov.sg)
 | **Teacher** | [Ms Jeanie Chan](mailto:jeanie_chan_wai_peng@schools.gov.sg)
 | **Teacher** | [Ms Tan Kah Heok](mailto:Tan_Kah_Heok@schools.gov.sg)
 | **Teacher** | [Mdm Tan Siang Noi](mailto:Tan_Siang_Noi@schools.gov.sg)
@@ -19,7 +18,6 @@ variant: markdown
 | **Flexi-Adjunct Teacher** | [Mr Daniel Guan](mailto:daniel_guan_poh_wei@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Ms Irene Ang](mailto:irene_ang_pek_ai@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Ms June Tay](mailto:tay_wee_hong@schools.gov.sg)
-| **Flexi-Adjunct Teacher** | [Mrs Kong Sim Guan](mailto:kong_sim_guan@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mdm Lim Cheo Hwa](mailto:Lim_Cheo_Hwa@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mrs Nathan](mailto:Kanapathipillai_Jayamalar@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mrs Shawn Low](mailto:shawn_lok@schools.gov.sg)
