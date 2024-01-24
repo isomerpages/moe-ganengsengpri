@@ -1,0 +1,7 @@
+collections:
+  values-at-gesps:
+    output: true
+    order:
+      - CCE Curriculum.md
+      - Values In Action (VIA).md
+      - Student Leadership.md

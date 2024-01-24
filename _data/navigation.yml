@@ -1,0 +1,62 @@
+logo: /images/photo1668939236.jpeg
+links:
+  - title: ABOUT US
+    url: /about-us/history/
+    sublinks:
+      - title: History
+        url: /about-us/history/
+      - title: Crest & Song
+        url: /about-us/crestnsong/
+      - title: Vision, Mission & Values
+        url: /about-us/vmv/
+      - title: School's Strategic Goals
+        url: /about-us/ssg/
+      - title: School Calendar
+        url: /about-us/sc/
+      - title: School Environment
+        url: /about-us/sch-enviro/
+      - title: School Information
+        url: /about-us/sch-info/
+      - title: School Rules
+        url: /about-us/School-Rules/our-sch-rules/
+  - title: GESPS FAMILY
+    url: /gesps-family/principal/
+    sublinks:
+      - title: Principal
+        url: /gesps-family/principal/
+      - title: Vice Principals
+        url: /gesps-family/vp/
+      - title: Steering Committee
+        url: /gesps-family/steering-committee/
+      - title: Teacher Leaders
+        url: /gesps-family/teacher-ldrs/
+      - title: Teachers
+        url: /gesps-family/Teachers/p1/
+      - title: Non-Teaching Staff
+        url: /gesps-family/non-ts/
+      - title: Partners (SAC/PSG)
+        url: /gesps-family/partners-sac-and-psg/sac/
+      - title: Alumni
+        url: /gesps-family/alumni/
+  - title: Learning At Gesps
+    collection: learning-at-gesps
+  - title: EXPERIENCES @GESPS
+    url: /gesps-distinctive-experiences/llp
+    sublinks:
+      - title: Learning for Life Programme
+        url: /gesps-distinctive-experiences/llp/
+      - title: Applied Learning Programme
+        url: /gesps-distinctive-experiences/alp/
+      - title: Signature Programmes
+        url: /gesps-distinctive-experiences/sig-progs/
+  - title: VALUES @GESPS
+    url: /gesps-cce-experiences/CCA/cca/
+    sublinks:
+      - title: CCA
+        url: /gesps-cce-experiences/CCA/cca/
+      - title: CCE Curriculum
+        url: /gesps-cce-experiences/CCA/cce/
+      - title: Values In Action (VIA)
+        url: /gesps-cce-experiences/via/
+      - title: Student Leadership
+        url: /gesps-cce-experiences/sl/

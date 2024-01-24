@@ -1,0 +1,24 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA.md
+      - Aesthetics/Band.md
+      - Aesthetics/.keep
+      - Aesthetics/Choir.md
+      - Aesthetics/Chinese Dance.md
+      - Aesthetics/Malay Dance.md
+      - Aesthetics/Indian Dance.md
+      - Clubs/.keep
+      - Clubs/Art Club.md
+      - Clubs/Green Explorer Club.md
+      - Clubs/Info Comm and Media Club.md
+      - Sports/.keep
+      - Sports/Basketball.md
+      - Sports/Badminton.md
+      - Sports/Floorball.md
+      - Sports/Football.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Scouts.md
