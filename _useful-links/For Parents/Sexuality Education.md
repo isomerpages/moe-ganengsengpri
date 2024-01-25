@@ -61,6 +61,6 @@ variant: markdown
 
 <p align="justify">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 
-<p align="justify">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <u>here</u> (please upload parents opt-out form found in Annex <strong>A</strong> and insert a hyperlink for parents to download the form). The completed opt-out form is to be submitted by DD/MM/YYYY.</p>
+<p align="justify">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <u>here</u>. The completed opt-out form is to be submitted by 19/02/2024.</p>
 
 <p align="justify">10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6471 7451 or email at <a rel="noopener noreferrer nofollow" target="_blank">gesps@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.</p><p><strong><em><u>&nbsp;</u></em></strong></p>
