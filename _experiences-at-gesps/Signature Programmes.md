@@ -39,7 +39,7 @@ variant: markdown
 <img src="/images/sp7.png" style="width:75%">
 <img src="/images/sp8.png" style="width:75%">
 		 
-##### P6 St. John's Island
-<p align="justify">P6 students will explore the rich cultural, historical and natural significance of St John’s Island, one of the southernmost islands of the Singapore archipelago. The students will take a ferry ride to the island and have  great opportunities  to enjoy the Singapore skyline, come close to nature and appreciate the role St. John’s Island played in Singapore’s history. </p>
+##### P6 Trip for International Experience to Thailand and Vietnam
+<p align="justify">To better prepare our GESPians to be global citizens of today’s world, our school is organising an overseas school immersion programme to Thailand or Vietnam for our Primary 6 students. Through this International Experience, our GESPians will develop essential 21st Century competencies such as global awareness and cross-cultural skills. &nbsp;Our school has collaborated with local schools there and our GESPians will attend lessons with local students to gain different schooling experience. They will also visit cultural sites where they will learn the rich history and heritage of these ASEAN countries. Through this immersive learning experience, our GESPians will be able to gain greater appreciation for cultural&nbsp;diversity and differences, as well as learn a 3rd language which is part of our school’s distinctive programme </p>
 
 <img src="/images/sp9.png" style="width:75%">
