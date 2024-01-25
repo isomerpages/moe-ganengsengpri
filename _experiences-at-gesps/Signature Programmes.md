@@ -8,4 +8,4 @@ variant: markdown
 <p>Thailand</p>
 <img style="width: 40%;" src="/images/Chiang_Mai___Elephant_Poo_Paper_Park.jpg"><img style="width: 40%;" src="/images/Chiang_Mai___The_Prince_Royal_College.jpg"><img style="width:40%" src="/images/Chiang_Mai___Umbrella_Factory.jpg">
 <p>Vietnam</p>
-<img style="width:50%" height="auto" width="100%" src="/images/Hanoi___Doan_Thi_Diem_Primary_School.jpg"><img style="width:50%" height="auto" width="100%" src="/images/Hanoi___Vietnam_Musuem_of_Ethnology.jpg"><img style="width:50%" height="auto" width="100%" src="/images/Hanoi___Water_Puppet_Show.jpg">
+<img style="width:40%" src="/images/Hanoi___Doan_Thi_Diem_Primary_School.jpg"><img style="width:40%" src="/images/Hanoi___Vietnam_Musuem_of_Ethnology.jpg"><img style="width:40%" src="/images/Hanoi___Water_Puppet_Show.jpg">
