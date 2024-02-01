@@ -40,4 +40,3 @@ variant: markdown
 
 *   Form Teacher: **[Mr Eric Yong](mailto:yong_junxiong_eric@schools.gov.sg)**
 *   Form Teacher: **[Ms Nur Hanisah](mailto:nur_hanisah_mohd_johari_george@schools.gov.sg)**
-*   Form Teacher: **[Mdm Lee Kai Xin ](mailto:lee_kai_xin@schools.gov.sg)**
