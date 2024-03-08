@@ -25,5 +25,6 @@ variant: markdown
 | **Flexi-Adjunct Teacher** | [Mdm Sithika](mailto:sithika_begam@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mdm Vanitha](mailto:vanitha_k_s_perumal@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Ms Charrisa Chan](mailto:Chan_Huishi_Charrisa_A@schools.gov.sg)
+| **Flexi-Adjunct Teacher** | [Mrs Kong Sim Guan](mailto:kong_sim_guan@schools.gov.sg)
 | **Flexi-Adjunct Teacher (UPLIFT)** | [Mdm Wong Sook Yee](mailto:wong_sook_yee_a@schools.gov.sg)
 |  |  |
