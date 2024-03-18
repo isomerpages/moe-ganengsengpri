@@ -10,7 +10,7 @@ variant: markdown
 **2 Self-Discipline**
 
 *   Form Teacher: **[Mrs Dorcas Chan](mailto:koh_kah_fong_dorcas@schools.gov.sg)**
-*   Form Teacher: **[Ms Nurul Naqiyyah](mailto:@schools.gov.sg)**
+*   Form Teacher: **[Ms Nurul Naqiyyah](mailto:nurul_naqiyyah_mohd_kamal@schools.gov.sg)**
   
 **2 Perseverance**
 

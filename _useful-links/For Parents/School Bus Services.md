@@ -1,6 +1,6 @@
 ---
-title: Bus Services
-permalink: /quick-links/for-parents/bus-services/
+title: School Bus Services
+permalink: /quick-links/for-parents/school-bus-services/
 variant: markdown
 description: Bus Services
 third_nav_title: For Parents
