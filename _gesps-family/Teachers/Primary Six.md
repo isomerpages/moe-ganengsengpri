@@ -11,7 +11,6 @@ variant: markdown
 
 *   Form Teacher: **[Mdm Anglie Ng](mailto:ng_sor_ling_anglie@schools.gov.sg)**
 *   Form Teacher: **[Mr John Tan](mailto:john_tan_chong_jin@schools.gov.sg)**
-*   Form Teacher: **[Mdm Tan Chay Hiang](mailto:tan_chay_hiang@schools.gov.sg)**
 
 **6 Self-Discipline**
 
