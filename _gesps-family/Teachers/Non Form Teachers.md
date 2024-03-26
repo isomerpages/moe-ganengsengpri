@@ -7,7 +7,6 @@ variant: markdown
 ---
 |  |  |
 |:---|:---|
-| **HOD**|[Mdm Tan Chay Hiang](mailto:tan_chay_hiang@schools.gov.sg)
 | **Teacher** |[Mdm Lee Kai Xin](mailto:lee_kai_xin@schools.gov.sg)
 | **Teacher** | [Mrs Yvonne Leow](mailto:cheak_beo_leng_yvonne@schools.gov.sg)
 | **Teacher** | [Mdm Chua Chee Hui](mailto:chua_chee_hui@schools.gov.sg)
