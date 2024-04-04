@@ -22,7 +22,7 @@ description: ""
 <p>Halal Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 March 2024</p>
+<p>30 April 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice or noodle stalls are acceptable</p>
@@ -63,7 +63,7 @@ via email OR to the School's General Office.</p>
 <p><strong>Address</strong>: Gan Eng Seng Primary School, 100 Redhill Close,
 Singapore 158901
 <br><strong>Contact</strong> No: 6471 7451
-<br><strong>Email</strong>: <a rel="noopener noreferrer nofollow" target="_blank">gesps@moe.edu.sg</a>
+<br><strong>Email</strong>: <a rel="noopener noreferrer nofollow" target="_blank">gesps@moe.edu.sg</a> 
 <br><strong>Contact Person</strong>: Mdm Ariel Lee</p>
 <p></p>
 <h4><strong>How to get there?</strong></h4>
