@@ -2,6 +2,7 @@
 title: Education Technology
 permalink: /gesps-learning-experiences/edu-tech/
 description: ""
+variant: markdown
 ---
 #### Learning Educational Technology @GESPS
 
@@ -17,6 +18,6 @@ Students are given ample opportunities to use ICT to&nbsp;enhance their learning
 
 #### Fostering the Joy of Learning - Special Programmes
 
-The scbool partners with IMDA for the Primary 6 Code For Fun Programme to teach students the fundamentals of computational thinking as well as basic coding concepts. Conducted as a post PSLE activity, the programme has been well-received by students.
+The school partners with IMDA for the Primary 6 Code For Fun Programme to teach students the fundamentals of computational thinking as well as basic coding concepts. Conducted as a post PSLE activity, the programme has been well-received by students.
 
 <img src="/images/Students%20using%20ipads%20for%20programming%201.jpg" style="width:60%">
