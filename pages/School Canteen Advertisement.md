@@ -4,7 +4,12 @@ permalink: /permalink/school-canteen-ad/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,7 +27,7 @@ description: ""
 <p>Halal Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 April 2024</p>
+<p>31 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice or noodle stalls are acceptable</p>
