@@ -33,7 +33,6 @@ variant: markdown
 
 *   Form Teacher: **[Ms Tan See Kin](mailto:tan_see_kin@schools.gov.sg)**
 *   Form Teacher: **[Ms Uzaimah](mailto:nur_uzaimah_fadzali@schools.gov.sg)**
-*   Form Teacher: **[Mdm Nurasilah](mailto:nurasilah_shahzan@schools.gov.sg)**
 
 **6 Empathy**  
 
