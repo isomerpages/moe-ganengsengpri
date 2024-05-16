@@ -36,5 +36,5 @@ variant: markdown
 
 **4 Empathy**  
 
-*   Form Teacher: **[Ms Hazel Sim](mailto:sim_geok_keow@schools.gov.sg)**
+*   Form Teacher: **[Mdm Lee Kai Xin](mailto:lee_kai_xin@schools.gov.sg)**
 *   Form Teacher: **[Mdm Jacquelyn Yin](mailto:jacquelyn_yin_hui_jing@schools.gov.sg)**
