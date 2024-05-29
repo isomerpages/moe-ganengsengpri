@@ -2,14 +2,15 @@
 title: Values In Action (VIA)
 permalink: /gesps-cce-experiences/via/
 description: ""
+variant: markdown
 ---
 <p align="justify">Values-In Action (VIA) in Gan Eng Seng Primary School’s Values-In-Action (VIA)&nbsp; consists of a&nbsp; 6 year spiral up design-thinking principles based learning experiences which allow students to understand bigger concepts as they grow older and learn to be citizens with heart through social innovation.&nbsp;</p>
 
-<p align="justify">In order to develop&nbsp;_GESPians_&nbsp;into Citizens with Heart, GESPS Primary 1 to Primary 6 VIA learning experiences are designed based on the school&nbsp; INSPIRE Values (Integrity, Self-discipline, Perseverance, Inclusiveness, Respect and Empathy) , focusing on nurturing gratitude in our students.&nbsp; We want&nbsp;_GESPians_&nbsp;to feel grateful and appreciative for the opportunities, gifts, and kindness that others bestow upon them. Embracing this heart of gratitude,&nbsp;_GESPians_&nbsp;will learn to care for others and contribute activity to the community.</p>
+<p align="justify">In order to develop&nbsp; <i>GESPians</i> into Citizens with Heart, GESPS Primary 1 to Primary 6 VIA learning experiences are designed based on the school&nbsp; INSPIRE Values (Integrity, Self-discipline, Perseverance, Inclusiveness, Respect and Empathy) , focusing on nurturing gratitude in our students.&nbsp; We want&nbsp; <i>GESPians</i> to feel grateful and appreciative for the opportunities, gifts, and kindness that others bestow upon them. Embracing this heart of gratitude,&nbsp;<i>GESPians</i> will learn to care for others and contribute activity to the community.</p>
 
-##### Primary 1 Bringing Cheers to My Family Members
+##### Primary 1 - My First Skool
 
-<p align="justify">Our P1 GESPians reflect on what their family members have done for them and learn to be thankful to&nbsp; their family members for all the love and care shown. In order to show their appreciation, our students carry out acts of cheers for their family members.</p>
+<p align="justify">P1 <i>GESPians</i> demonstrate empathy when they show understanding that K2 preschoolers will be overwhelmed by the transition to formal education in the following year. Along with their teachers, they plan a day of school experience for the K2 preschoolers to allay their anxiety and show the joy of learning in school.</p>
 
 <img src="/images/P1_1.png" style="width:49%" align="left">
 <img src="/images/P1_2.png" style="width:39%" align="right">
