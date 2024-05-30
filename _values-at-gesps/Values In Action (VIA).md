@@ -54,7 +54,7 @@ Getting a briefing from the SMRT staff before springing into action.
 
 ##### Primary 3 Buddy Clean Programme
 
-<p align="justify">P3 <i>GESPians</i> demonstrate respect and take ownership of the cleanliness of the school and the environment around them. Through the programme, our GESPians will inculcate positive social values and norms on cleanliness within the classroom as well as common spaces. It leverages peer influence and feedback to shape the students’ behaviour. It also helps to foster shared ownership and responsibility of common spaces through regular cohort-wide cleaning.</p>
+<p align="justify">P3 <i>GESPians</i> demonstrate respect and take ownership of the cleanliness of the school and the environment around them. Through the programme, our <i>GESPians</i> will inculcate positive social values and norms on cleanliness within the classroom as well as common spaces. It leverages peer influence and feedback to shape the students’ behaviour. It also helps to foster shared ownership and responsibility of common spaces through regular cohort-wide cleaning.</p>
 
 ![](/images/P3_VIA__1_.jpg)
 Our <i>GESPians</i> find joy through working together to keep the common space clean.
