@@ -47,7 +47,7 @@ commuters to interact by waving came about.</p>
 <img align="left" style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_05_18_at_11_22_16_AM__2_.jpg">
 
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_05_18_at_11_22_17_AM__2_.jpg"> 
-Wishing and showing appreciation to our commuters and delivery staff a good day!
+Wishing a good day and showing appreciation to our commuters and delivery staff.
 
 ![](/images/IMG20230518104658.jpg)
 Getting a briefing from the SMRT staff before springing into action.
