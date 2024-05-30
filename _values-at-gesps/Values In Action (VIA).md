@@ -37,7 +37,7 @@ Getting the K2 preschoolers to experience learning in the classroom.
 
 ##### Primary 2 SMRT - Redhill MRT Station
 
-<p align="justify">P2 GEPSians spread their kindness to the fellow commuters at SMRT Redhill
+<p align="justify">P2 <i>GESPians</i> spread their kindness to the fellow commuters at SMRT Redhill
 MRT station by distributing their handmade wands. The wands carry positive
 messages to encourage commuters to start their day right and keep their
 spirits high. During the COVID period, commuters kept much to themselves
@@ -54,7 +54,7 @@ Getting a briefing from the SMRT staff before springing into action.
 
 ##### Primary 3 Buddy Clean Programme
 
-<p align="justify">P3 GESPians demonstrate respect and take ownership of the cleanliness of the school and the environment around them. Through the programme, our GESPians will inculcate positive social values and norms on cleanliness within the classroom as well as common spaces. It leverages peer influence and feedback to shape the students’ behaviour. It also helps to foster shared ownership and responsibility of common spaces through regular cohort-wide cleaning.</p>
+<p align="justify">P3 <i>GESPians</i> demonstrate respect and take ownership of the cleanliness of the school and the environment around them. Through the programme, our GESPians will inculcate positive social values and norms on cleanliness within the classroom as well as common spaces. It leverages peer influence and feedback to shape the students’ behaviour. It also helps to foster shared ownership and responsibility of common spaces through regular cohort-wide cleaning.</p>
 
 ![](/images/P3_VIA__1_.jpg)
 Our <i>GESPians</i> find joy through working together to keep the common space clean.
@@ -65,7 +65,7 @@ It is heartening to see our <i>GESPians</i> working as a team to keep the school
 
 ##### Primary 4 St Andrew's Nursing Home
 
-<p align="justify">P4 GESPians play their role in taking care of the elderly in St Andrew’s Nursing Home by spending quality time with them to keep them socially, mentally and physically healthy.</p>
+<p align="justify">P4 <i>GESPians</i> play their role in taking care of the elderly in St Andrew’s Nursing Home by spending quality time with them to keep them socially, mentally and physically healthy.</p>
 
 <img align="left" style="width: 50%;" height="auto" width="100%" alt="" src="/images/P4_VIA__1_.jpg">
 <img align="left" style="width: 50%;" height="auto" width="100%" alt="" src="/images/P4_VIA__2_.jpg">
@@ -77,7 +77,7 @@ Waiting patiently for the nurse before our <i>GESPians</i> would spring into act
 
 ##### Primary 5 NEA - Redhill Food Centre
 
-<p align="justify">P5 GESPians reach out to residents in the neighourhood at the Redhill Food Centre. They share with patrons Singapore’s unique hawker culture and reminders of the do’s and don’ts of good dining habits. Not forgetting the healthy tips about ordering food with less salt and oil.</p>
+<p align="justify">P5 <i>GESPians</i> reach out to residents in the neighourhood at the Redhill Food Centre. They share with patrons Singapore’s unique hawker culture and reminders of the do’s and don’ts of good dining habits. Not forgetting the healthy tips about ordering food with less salt and oil.</p>
 
 <img align="left" style="width: 50%;" height="auto" width="100%" alt="" src="/images/P5_VIA__1_.jpg">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P5_VIA__3_.jpg">
@@ -85,3 +85,15 @@ Belting out in fluent Mandarin, <i>GESPians</i> confidently reaching out to all 
 <br><br>
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P5_VIA__2_.jpg">
 Showing the results of sharing.
+
+
+##### Primary 6 Kindle Garden
+
+<p align="justify">P6 <i>GESPians</i> demonstrate inclusivity by extending invitation to the K2 preschoolers of first inclusive preschool in Singapore, Kindle Garden to our school for a day experience. As seniors in our school, they take great care of our esteemed guests and showered them with lots of love. They cannot wait to share all their school experiences with them and strongly encourage them to join our school for the following year.</p>
+
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P6_VIA__1_.jpg">
+Our P6 <i>GESPians</i> went to Kindle Garden @ Enabling Village to fetch our little preschoolers for their trip to Gan Eng Seng Primary School
+<br><br>
+<img align="left" style="width: 50%;" height="auto" width="100%" alt="" src="/images/P6_VIA__2_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P6_VIA__3_.jpg">
+Our preschoolers enjoyed a day of physical activities and tried out a gymnastics lesson led by the P6 <i>GESPians</i>. <i>(left)</i> Having a hands-on activity as well as a bonding with the preschoolers. <i>(right)</i>
