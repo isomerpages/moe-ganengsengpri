@@ -27,48 +27,56 @@ K2 preschoolers will be overwhelmed by the transition to formal education in the
 
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20230713_102356.jpg">
 Our P1 <em>GESPians</em> are guiding the K2 in the drawing and colouring
-exercise <i>(left)</i>
+exercise. <i>(left)</i>
 <br>Having recess together is a good way to our <em>GESPians</em> to bond with
-the K2 preschoolers <i>(right)</i>
+the K2 preschoolers. <i>(right)</i>
 <br clear=""><br>
+
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/IMG20230713110252.jpg">
-Getting the K2 preschoolers to experience learning in the classroom
+Getting the K2 preschoolers to experience learning in the classroom.
 
 ##### Primary 2 SMRT - Redhill MRT Station
-<p>P2 GEPSians spread their kindness to the fellow commuters at SMRT Redhill
+
+<p align="justify">P2 GEPSians spread their kindness to the fellow commuters at SMRT Redhill
 MRT station by distributing their handmade wands. The wands carry positive
 messages to encourage commuters to start their day right and keep their
 spirits high. During the COVID period, commuters kept much to themselves
 and minimized interaction. The idea of using handwands to encourage fellow
 commuters to interact by waving came about.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_05_18_at_11_22_16_AM__2_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_05_18_at_11_22_17_AM__2_.jpg">
-</div>
-<h5>Primary 3 Let's Stop Food Wastage</h5>
-<p>Our P3 GESPians learn about food wastage and brainstorm on ways to stop
-food wastage in their daily life. They share what they have learnt with
-their family members and encourage their family members to take part in
-the clean plate challenge as part of their efforts to reduce food wastage.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/P3.png">
-</div>
-<h5>Primary 5</h5>
-<p>Like the Primary 1 students, Primary 5 students also volunteered their
-time at Redhill MRT station.Singapore Mass Rapid Transit (SMRT) would train
-the students to be service ambassadors at Redhill MRT station. The students’
-responsibilities include helping commuters with directions, lending a hand
-at the ticketing machines and ensuring that the elderly and those in need
-would be given priority to use the lifts.</p>
-<div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/P5_1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/P5_2.png">
-</div>
-<p>
-<br>
-<br>
-</p>
+
+<img align="left" style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_05_18_at_11_22_16_AM__2_.jpg">
+
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_05_18_at_11_22_17_AM__2_.jpg"> 
+Wishing and showing appreciation to our commuters and delivery staff a good day!
+
+![](/images/IMG20230518104658.jpg)
+Getting a briefing from the SMRT staff before springing into action.
+
+##### Primary 3 Buddy Clean Programme
+
+<p align="justify">P3 GESPians demonstrate respect and take ownership of the cleanliness of the school and the environment around them. Through the programme, our GESPians will inculcate positive social values and norms on cleanliness within the classroom as well as common spaces. It leverages peer influence and feedback to shape the students’ behaviour. It also helps to foster shared ownership and responsibility of common spaces through regular cohort-wide cleaning.</p>
+
+![](/images/P3_VIA__1_.jpg)
+Our <i>GESPians</i> find joy through working together to keep the common space clean.
+
+<img align="left" style="width: 50.4%;" height="auto" width="100%" alt="" src="/images/P3_VIA__2a_.jpg">
+<img style="width: 49.5%;" height="auto" width="100%" alt="" src="/images/P3_VIA__3_.jpg">
+It is heartening to see our <i>GESPians</i> working as a team to keep the school environment clean. <i>(left)</i> Every <i>GESPians</i> is doing their part in keeping the classroom clean with a big smile. <i>(right)</i>
+
+##### Primary 4 St Andrew's Nursing Home
+
+<p align="justify">P4 GESPians play their role in taking care of the elderly in St Andrew’s Nursing Home by spending quality time with them to keep them socially, mentally and physically healthy.</p>
+
+<img align="left" style="width: 50%;" height="auto" width="100%" alt="" src="/images/P4_VIA__1_.jpg">
+<img align="left" style="width: 50%;" height="auto" width="100%" alt="" src="/images/P4_VIA__2_.jpg">
+Playing a game of modified floorball with the seniors. <i>(left)</i> Giving the senior a demostration of how the game could be played. <i>(right)</i>
+<br><br>
+
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P4_VIA__3_.jpg">
+Waiting patiently for the nurse before our <i>GESPians</i> would spring into action to play with the seniors.
+
+##### Primary 5 NEA - Redhill Food Centre
+
+<p align="justify">P5 GESPians reach out to residents in the neighourhood at the Redhill Food Centre. They share with patrons Singapore’s unique hawker culture and reminders of the do’s and don’ts of good dining habits. Not forgetting the healthy tips about ordering food with less salt and oil.</p>
+
+<img align="left" style="width: 50%;" height="auto" width="100%" alt="" src="">
