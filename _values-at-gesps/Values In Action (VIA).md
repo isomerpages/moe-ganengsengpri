@@ -79,4 +79,9 @@ Waiting patiently for the nurse before our <i>GESPians</i> would spring into act
 
 <p align="justify">P5 GESPians reach out to residents in the neighourhood at the Redhill Food Centre. They share with patrons Singapore’s unique hawker culture and reminders of the do’s and don’ts of good dining habits. Not forgetting the healthy tips about ordering food with less salt and oil.</p>
 
-<img align="left" style="width: 50%;" height="auto" width="100%" alt="" src="">
+<img align="left" style="width: 50%;" height="auto" width="100%" alt="" src="/images/P5_VIA__1_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P5_VIA__3_.jpg">
+Belting out in fluent Mandarin, <i>GESPians</i> confidently reaching out to all patrons at the food centre regardless of race and language.
+<br><br>
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P5_VIA__2_.jpg">
+Showing the results of sharing.
