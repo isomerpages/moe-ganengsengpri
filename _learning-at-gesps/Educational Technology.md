@@ -4,20 +4,24 @@ permalink: /gesps-learning-experiences/edu-tech/
 description: ""
 variant: markdown
 ---
-#### Learning Educational Technology @GESPS
+#### Educational Technology @GESPS
 
-The school strives to develop future-ready digital learners as well as nurture our students to become responsible users of technology. To create a technology-enabled learning environment, the Educational Technology (Ed-Tech) Department is responsible for periodic upgrading to enhance the school network and ICT infrastructure. In addition, the department also looks into capacity building of teachers. ICT tools are introduced to teachers through school-wide workshops and sharing. The Ed-Tech representatives also provide subject-specific support to the teachers in the various department so that they can use ICT tools which fit the needs of the subjects and their students.
+The Educational Technology (EdTech) Department strives to develop future-ready digital learners and nurture our students to become responsible users of technology.
 
-<img src="/images/ET1.png" style="width:75%">
+With a dedicated commitment to harnessing technology as a powerful enabler, we aim to create an enriching learning experience for our students. Technology is meaningfully integrated into the curriculum through immersive online resources and collaborative learning platforms, fostering a student-centric ecosystem that promotes adaptability, critical thinking, and digital literacy while nurturing responsible and ethical use of technology. This ensures that students are well-prepared with the skills and knowledge needed to thrive in the digital age.
 
-#### Embracing all Students - Curriculum Customisation
+One of the key online learning portals supporting students throughout their educational journey at GESPS is the Student Learning Space (SLS).
 
-Students are given ample opportunities to use ICT to&nbsp;enhance their learning experiences. Beside the use of computer labs, students can learn anywhere, anytime using mobile carts in the school. One key online platform which students will use throughout their 6 years of education in GESPS is the Student Learning Space ([SLS](https://vle.learning.moe.edu.sg/)), where curriculum-aligned resources are available for students to learn independently.
+We also aim to equip our teachers with the relevant EdTech knowledge through professional development opportunities, enabling them to explore and implement new learning possibilities made possible by digital technologies.
 
-<img src="/images/ET2.png" style="width:75%">
+![](/images/EDT_Picture1.png)
 
-#### Fostering the Joy of Learning - Special Programmes
+#### Empowering Digital Learners @GESPS
 
-The school partners with IMDA for the Primary 6 Code For Fun Programme to teach students the fundamentals of computational thinking as well as basic coding concepts. Conducted as a post PSLE activity, the programme has been well-received by students.
+At GESPS, students progressively develop digital skills across the four components of the “Find, Think, Apply, Create” framework from MOE’s National Digital Literacy Programme, integrating technology into various subjects.
 
-<img src="/images/Students%20using%20ipads%20for%20programming%201.jpg" style="width:60%">
+![](/images/EDT_Picture2.png)
+
+Additionally, students at GESPS are exposed to coding and computational thinking skills through collaboration with the Infocomm Media Development Authority (IMDA) for the Primary 6 Code for Fun Programme. This post-PSLE activity introduces students to fundamental computational thinking and basic coding concepts. The partnership with IMDA enriches the overall educational experience and has garnered positive feedback from students, further demonstrating the school's commitment to fostering confident, critical, and responsible users of digital technologies for information, communication, and problem-solving.
+
+![](/images/EDT_Picture3.jpg)
