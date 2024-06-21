@@ -23,8 +23,8 @@ variant: markdown
 | **Flexi-Adjunct Teacher** | [Ms June Tay](mailto:tay_wee_hong@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mrs Nathan](mailto:Kanapathipillai_Jayamalar@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mrs Shawn Low](mailto:shawn_lok@schools.gov.sg)
-| **Flexi-Adjunct Teacher** | [Ms Tan Lay Leng](mailto:@schools.gov.sg)
-| **Flexi-Adjunct Teacher** | [Ms Wong Oi Lee](mailto:@schools.gov.sg)
+| **Flexi-Adjunct Teacher** | [Ms Tan Lay Leng - (Mrs Kwan)](mailto:@schools.gov.sg)
+| **Flexi-Adjunct Teacher** | [Mdm Wong Oi Lee](mailto:@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mrs Kong Sim Guan](mailto:kong_sim_guan@schools.gov.sg)
 | **Flexi-Adjunct Teacher (UPLIFT)** | [Mdm Wong Sook Yee](mailto:wong_sook_yee_a@schools.gov.sg)
 |  |  |
