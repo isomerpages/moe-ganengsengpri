@@ -5,9 +5,9 @@ variant: markdown
 ---
 ### **Government Agency Privacy Statement**
 
-**\_\_\_\_\_\_\_\_\_\_\_ (School Name) PRIVACY STATEMENT**
+**GAN ENG SENG PRIMARY SCHOOL PRIVACY STATEMENT**
 
-1.  This is a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (school name) website. Thank you for examining our privacy statement.
+1.  This is a Gan Eng Seng Primary School website. Thank you for examining our privacy statement.
 
 2   If you are only browsing this website, we do not capture data that allows us to identify you individually.
 
