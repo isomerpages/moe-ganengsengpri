@@ -15,7 +15,7 @@ variant: markdown
 **5 Inclusiveness**
 
 *   Form Teacher: **[Mrs Lilian Lim](mailto:ho_lilian@schools.gov.sg)**
-*   Form Teacher: **[Ms Siti Noraini](mailto:siti_noraini_ibrahim@schools.gov.sg)**
+*   Form Teacher: **[Mdm Nanda](mailto:nandalayga_a@schools.gov.sg)**
 
 **5 Respect**
 
@@ -25,4 +25,4 @@ variant: markdown
 **5 Empathy**
 
 *   Form Teacher: **[Ms Jayne Leong](mailto:leong_hui_ling_jayne@schools.gov.sg)**
-*   Form Teacher: **[Mdm Nanda](mailto:nandalayga_a@schools.gov.sg)**
+*   Form Teacher: **[Ms Siti Noraini](mailto:siti_noraini_ibrahim@schools.gov.sg)**
