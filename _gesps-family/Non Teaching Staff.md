@@ -8,7 +8,7 @@ variant: markdown
 |---|---|
 | **Administration Manager** | [Mdm Ariel Lee Wei Jin](mailto:ariel_lee@schools.gov.sg) |
 | **Operations Manager** | [Mr Bernard Chia](mailto:bernard_chia_beng_ho@schools.gov.sg) |
-| **Operations Manager** | [Mr Kang Cheong Hee](kang_cheong_hee@schools.gov.sg) |
+| **Operations Manager** | [Mr Kang Cheong Hee](mailto:kang_cheong_hee@schools.gov.sg) |
 | **Administrative Executive** | [Ms Goh Geok Sim](mailto:goh_geok_sim@schools.gov.sg) |
 | **ICT Associate** | [Mdm Siti Zulriah](mailto:siti_zulriah@schools.gov.sg) |
 | **Corporate Support Officer** | [Ms Siti Aishah Binte Alias](mailto:siti_aishah_alias@schools.gov.sg) |
