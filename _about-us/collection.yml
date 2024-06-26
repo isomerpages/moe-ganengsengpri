@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Learning Dispositions.md
       - History.md
       - Crest & Song.md
       - Vision, Mission & Values.md
+      - Learning Dispositions.md
       - School's Strategic Goals.md
       - School Calendar.md
       - School Information.md
