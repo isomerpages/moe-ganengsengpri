@@ -57,7 +57,7 @@ Opening hours of the Side Gate (Along Jalan Bukit Merah)
 
 *   <p align="justify">Visitors are advised to make prior appointments with teachers before coming to the school. Otherwise, visitors will be requested to wait at the General Office or return at a later time when the teacher is available.</p>
 
-*   <p align="justify">Visitors are required to collect a visitor’s pass from the security post at the Main and proceed to the General Office. Visitors are not allowed to walk into the classrooms or other areas of the school compound without authorisation.</p>
+*   <p align="justify">Visitors are required to collect a visitor’s pass from the security post at the Main gate and proceed to the General Office. Visitors are not allowed to walk into the classrooms or other areas of the school compound without authorisation.</p>
 
 *   <p align="justify">Parents/Guardians can enter the school to purchase of books or uniforms only after dismissal time.</p>
 *   <p align="justify">Students should buy their own food from the canteen during recess/lunch. Parents/Guardians are reminded not to enter the school to deliver food to their child/ward. This is to ensure the safety of our students. Instead, students can collect packed food from their parents/guardians at the Main/Side Gate during recess/lunch.</p>
