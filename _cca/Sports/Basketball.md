@@ -15,4 +15,4 @@ variant: markdown
 <img src="/images/cca_bb2.jpg" style="width:49%">
 <img src="/images/cca_bb3.jpg" style="width:49%">
 <br clear="left"><br>
-<img src="/images/cca_bb4.jpg" style="width:49%">
+<img src="/images/cca_bb4.jpg" style="width:100%">
