@@ -12,8 +12,7 @@ variant: markdown
 
 <img src="/images/cca_bb1.jpg" style="width:100%" align="center">
 <br>
-
-<img src="/images/cca_bb2.jpg" style="width:55%" align="left">
-<img src="/images/cca_bb3.jpg" style="width:37%" align="right"><br>
-
-<img src="/images/cca_bb4.jpg" style="width:100%" align="center">
+<img src="/images/cca_bb2.jpg" style="width:49%" align="left">
+<img src="/images/cca_bb4.jpg" style="width:45%" align="right">
+<br clear="left"><br>
+<img src="/images/cca_bb3.jpg" style="width:100%" align="center">
