@@ -10,4 +10,13 @@ variant: markdown
   
 <p align="justify">Students explore their passion for dance through Chinese Dance. They develop creativity, contribute to choreography, and perform and contribute in various events like Singapore Youth Festival and our community like the Radin Mas National Day observance ceremony. Through these opportunities, students get to learn about the culture, build values and friendship, developing a resilient approach as they work together to strive for excellence.</p>
 
-![](/images/cca_cd1.jpg)
+<img src="/images/cca_cd2.jpg" style="width:100%" align="center">
+<br clear="left">
+
+<img src="/images/cca_cd1.jpg" style="width:49%" align="left">
+<img src="/images/cca_cd3.jpg" style="width:49%" align="right">
+<br clear="left"><br>
+
+<img src="/images/cca_cd4.jpg" style="width:100%" align="left">
+
+
