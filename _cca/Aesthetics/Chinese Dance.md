@@ -18,5 +18,3 @@ variant: markdown
 <br clear="left"><br>
 
 <img src="/images/cca_cd4.jpg" style="width:100%" align="left">
-
-
