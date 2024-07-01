@@ -6,13 +6,13 @@ description: ""
 ---
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
-##### Service Requirements
+#### **Service Requirements**
 
 1.    Call for Proposal
 
 2.    Agreement for Appointment of School Bus Operator
 
-**Application Procedure**
+#### **Application Procedure**
 
 1.    Complete the Call for Proposal – Annex A
 
@@ -23,11 +23,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **Email**: gesps@moe.edu.sg  
 **Contact Person**:  Mr Bernard Chia (Operation Manager) / Mdm Ariel Lee (Admin Manager)
 
-**How to get there?**
+#### **How to get there?**
 
-Nearest MRT: Redhill Station
-
-Bus Number:
-
-Along Redhill Road: Bus 63  
-Jalan Bukit Merah: Bus 14, 147, 196, 197, 961, 855
+**Nearest MRT**: Redhill MRT Station – 10 minutes walking distance  
+**Bus number**: Along Redhill Road: Bus 63  / Jalan Bukit Merah: Bus 14, 147, 196, 197, 961, 855
