@@ -14,7 +14,7 @@ sections:
           url: /about-us/sc
         - title: School Canteen & Bus Advertisement
           description: ""
-          url: /permalink/school-canteen-ad/
+          url: /school-canteen-ad/
         - title: News @GESPS
           description: ""
           url: /news-at-gesps/permalink/
