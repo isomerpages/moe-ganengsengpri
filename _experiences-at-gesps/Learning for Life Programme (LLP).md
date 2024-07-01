@@ -29,7 +29,6 @@ Students performing at the Musical Production "Tapestry" in celebration of the s
 Students building sculptures during Aesthetics Week
 
  
- 
 #####  Excellence<br>
 •	Students with an inclination and talent for the Arts can deepen their disciplinary learning and understanding in the Arts through their involvement in the Performing Arts (Choir, Band, Dance) and Visual Art CCA groups where they are able to develop and hone of their artistic abilities.
 
@@ -42,4 +41,3 @@ Performing Arts CCA performances
 
 <img src="/images/LLP_6.jpg" style="width:48%" align="left">
 <img src="/images/LLP_7.jpg" style="width:49%" align="right">
-
