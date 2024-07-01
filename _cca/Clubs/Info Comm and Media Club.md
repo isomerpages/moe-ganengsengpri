@@ -22,16 +22,19 @@ Here are the key programmes unique to IMC:
 
 <p align="justify">An important part of learning is the transference of skills to others. IMC members are given the opportunities to share their skills with members of other CCAs like the uniform groups (ie. Scouts, Brownies). They shared what they have learned about cyberwellness with the uniform groups and enlisted their help to become cyberwellness advocates. This initiative is well-received by the uniform groups and IMC will continue to look for opportunities to share their skills (like photography, videography, coding) with other CCAs.</p>
 
-**Drones Competition 2019**
+**Learning Journey to Canon**
 
-<img src="/images/Drones Competition 1.jpg" style="width:49%" align="left">
-<img src="/images/Drones Competition 3.jpg" style="width:49%" align="right">
+<img src="/images/CCA___IMC1.jpg" style="width:45.5%" align="left">
+<img src="/images/CCA___IMC2.jpg" style="width:51%" align="right">
 <br clear="left"><br>
 
-**Coding with Drones** *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* **Photography**
+		
+**Drone Flying** 
 
-<img src="/images/Coding with drones 3.jpg" style="width:20%" align="left">
-<img src="/images/Photography_2.jpg" style="width:70%" align="right">
-<br clear="right"><br>
+<img src="/images/CCA___IMC3.jpg" style="width:75%" align="center">
+<br clear="left"><br>
 
-<p align="justify"> Green Explorers Club members in collaboration with Info-Comm Media Club to educate students and stakeholders on recycling.</p>
+
+**VR Sharing Session** 
+
+<img src="/images/CCA___IMC4.jpg" style="width:75%" align="center">
