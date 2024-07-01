@@ -12,7 +12,7 @@ sections:
         - title: School Calendar
           description: ""
           url: /about-us/sc
-        - title: School Canteen advertisement
+        - title: School Canteen & Bus Advertisement
           description: ""
           url: /permalink/school-canteen-ad/
         - title: News @GESPS
@@ -45,9 +45,7 @@ sections:
           linktext: Click here to view
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
         - title: GESPS Excellers' Day 2023
-          description: |-
-            15 Nov 2023      
-            - Event and prize presentation photos (For P6 only)
+          description: 15 Nov 2023       - Event and prize presentation photos (For P6 only)
           linktext: Click here to view
           url: https://movingstillsphotography.shootproof.com/gallery/20520170/album/16336550
       subtitle: OUR
