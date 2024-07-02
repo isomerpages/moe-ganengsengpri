@@ -2,6 +2,7 @@
 title: For Students
 permalink: /quick-links/for-students/
 description: ""
+variant: markdown
 ---
 #### Portals
 
@@ -27,5 +28,6 @@ description: ""
 *   **[Post PSLE: Choosing a Secondary School](https://go.gov.sg/postpsle-choosing-a-secondary-school) (YouTube video)**
 
 #### User Guides
-* [**Updated Login to SLS**](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
-* [**Learn Together in SLS - Google Integration**](https://www.learning.moe.edu.sg/sls/students/user-guide/vle/student/Integration/AboutGoogle.html)
+* [**SLS Profile Customization (e.g Add Email Address, password reset etc...)**](https://www.learning.moe.edu.sg/student-user-guide/customise/set-password-reset-email-address/)
+* [**SLS Login Troubleshooting**](https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/)
+* [**Student User Guide - Explore SLS**](https://www.learning.moe.edu.sg/student-user-guide/index/)
