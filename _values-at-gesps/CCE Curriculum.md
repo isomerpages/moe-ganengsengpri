@@ -61,5 +61,10 @@ Primary 4, 5 and 6 <i>GESPians</i> went for their museum-based learning where th
 <p align="justify">The P5 <i>GESPians</i> had the opportunity to attend the <b>NE Show</b> where they immersed “live” in the full spectacle of the National Day Parade. The school also celebrated Singapore’s milestone and achievement by getting GESPians to put up a concert during **National Day Celebration**. Through these collective experiences of celebration, students have a deepened appreciation and a sense of pride for the nation.</p>
 
 <img src="/images/CCE_NE1.jpg" style="width:35.5%" align="left">
-<img src="/images/CCE_NE2.jpg" style="width:62.5%" align="right">
+<img src="/images/CCE_NE2.jpg" style="width:62.5%" align="right"><br clear="left"><br>
+<img src="/images/CCE_NE3.jpg" style="width:100%" align="left"><br clear="left"><br>
+<img src="/images/CCE_NE4.jpg" style="width:100%" align="left">
 <br clear="left"><br>
+
+
+<p align="justify">To provide students with learning opportunities beyond the classrooms, the school partnered the Children’s Museum Singapore on the launch of their **Hawkerverse Exhibition** in 2024. GESPians participated in their publicity videos and opening ceremony, where they played a part in spreading the awareness of Singapore Hawker Culture.</p>
