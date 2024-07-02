@@ -20,7 +20,13 @@ P2 <i>GESPians</i> had their learning journey around the Redhill neighbourhood t
 
 Primary 4, 5 and 6 <i>GESPians</i> went for their museum-based learning where they learnt about the culture and heritage of different races in Singapore.
 
-![](/images/CCE_LJ3.jpg)
+<img src="/images/CCE_LJ3.jpg" style="width:30.3%" align="left">
+<img src="/images/CCE_LJ5a.jpg" style="width:38.7%" align="right">
+<img src="/images/CCE_LJ4.jpg" style="width:30%" align="right">
+
+
+
+<br clear="left"><br>
 
 ##### Our Programmes &amp; Activities
 
