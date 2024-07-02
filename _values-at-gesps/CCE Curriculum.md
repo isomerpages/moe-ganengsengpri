@@ -23,17 +23,14 @@ Primary 4, 5 and 6 <i>GESPians</i> went for their museum-based learning where th
 <img src="/images/CCE_LJ3.jpg" style="width:30.3%" align="left">
 <img src="/images/CCE_LJ5a.jpg" style="width:38.7%" align="right">
 <img src="/images/CCE_LJ4.jpg" style="width:30%" align="right">
-
-
-
 <br clear="left"><br>
 
-##### Our Programmes &amp; Activities
+###### **Trips for International Experience**
 
-<p align="justify">We have designed programmes and activities for all levels. Some of the activities include Values-in-Action and career guidance activities as well as learning journeys and assembly talks.</p>
+<p align="justify">As one of our initiatives to broaden the horizons of our GESPians beyond Singapore and develop global awareness and cross-cultural literacy, TIE to Hanoi (Vietnam) and Chiang Mai (Thailand) are organized for the Primary 6 students after PSLE</p>
 
-<img src="/images/photo1668928606.jpeg" style="width:85%">
+<img src="/images/CCE_TIE1.jpg" style="width:41.5%" align="left">
+<img src="/images/CCE_TIE2.jpg" style="width:57%" align="right">
+<br clear="left">
 
-<img src="/images/photo1668928635.jpeg" style="width:85%">
-
-<p align="justify">To better inculcate 21st&nbsp;century learners with the right values on and offline, the school put together a cyberwellness program that advocates students to exhibit positive behavior when using ICT. Students are taught and reminded of the cyberwellness messages during ICT programmes and lessons.</p>
+<p align="justify">To enrich students’ learning, <i>GESPians</i> are empowered to conduct their own research on culture of these ASEAN countries and present their project to the school during assembly. They were also given the opportunity to host foreign students from Thailand during a school visit.</p>
