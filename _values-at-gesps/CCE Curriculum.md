@@ -2,29 +2,25 @@
 title: CCE Curriculum
 permalink: /gesps-cce-experiences/CCA/cce/
 description: ""
+variant: markdown
 ---
-<p align="justify">In GESPS, we are guided by three principles when inculcating values and building competencies in our students. There are:</p>
+<p align="justify">In Gan Eng Seng Primary School, we believe in developing Learners with Grit, Citizens with Heart. We adopt a holistic approach which provides students with the opportunities to explore real-world scenarios, embrace challenges and reflect on their experiences. Through these learning experiences and skillful CCE facilitation by our teachers, we develop our students into empathetic and socially responsible individuals with strong values.</p>
 
-###### 1) Every Teacher A CCE Teacher
+##### Our Programmes &amp; Activities
 
-*   Every teacher, a role model who upholds sound values
-*   Every teacher, a supportive adult who instills values in our students
-*   Every teacher, a trusted educator who builds strong teacher-student relationships
+Learning programmes and experiences both within and outside the classrooms are designed with intentionality, to help our students develop the desired values, social-emotional competencies and citizenship dispositions. To develop our <i>GESPians</i> holistically, we have designed and planned key Student Development Experiences (SDEs) for all our students to explore, ask questions, and reflect on their values and behaviors. Some of the activities include cohort learning journeys (LJs), Trips for International Experience (TIE), Values-in-Action (VIA), Education and Career Guidance (ECG) activities, National Education (NE) Commemorative Days as well as assembly talks.
 
-**2) Engaging students through the Head, Hands, Heart approach**
+###### **Learning Journeys**
 
-*   We want to touch the HEARTS of students through equipping them with HEAD knowledge and providing them with opportunities to use their ‘HANDS’ to demonstrate social-emotional competencies and internalize values
+P2 <i>GESPians</i> had their learning journey around the Redhill neighbourhood to understand how common spaces in their immediate environment create common experiences as a nation, and what they can do to take personal responsibility in caring for these spaces.
 
-**3) Parents, as partners in education**
+<img src="/images/CCE_LJ1.jpg" style="width:51%" align="left">
+<img src="/images/CCE_LJ2.jpg" style="width:48%" align="right">
+<br clear="left">
 
-*   Parents play a vital role in the education of their children
-*   Children learn best when there is home-school partnership
+Primary 4, 5 and 6 <i>GESPians</i> went for their museum-based learning where they learnt about the culture and heritage of different races in Singapore.
 
-##### The Spiraling Curriculum
 
-<p align="justify">Based on Bronfenbrenner’s Ecological Systems Theory, the CCE lessons and activities spiral outwards through the gradual enlargement of the environment which a student interacts in during his 6 years in the school.</p>
-
-<img src="/images/The-Spiraling-Curriculum.png" style="width:70%">
 
 ##### Our Programmes &amp; Activities
 
