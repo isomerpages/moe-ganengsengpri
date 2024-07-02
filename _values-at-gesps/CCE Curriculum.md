@@ -71,5 +71,5 @@ Primary 4, 5 and 6 <i>GESPians</i> went for their museum-based learning where th
 
 <img src="/images/CCE_HE3.jpg" style="width:100%"><br clear="left">
 <img src="/images/CCE_HE1.jpg" style="width:32%" align="left">
-<img src="/images/CCE_HE2.jpg" style="width:63.5%" align="">
+<img src="/images/CCE_HE2.jpg" style="width:63.8%" align="">
 <br clear="left"><br>
