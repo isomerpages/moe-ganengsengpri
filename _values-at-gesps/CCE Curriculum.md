@@ -54,5 +54,5 @@ Primary 4, 5 and 6 <i>GESPians</i> went for their museum-based learning where th
 
 <p align="justify"><i>GESPians</i> proudly donned their traditional costumes during <b>Racial Harmony Day</b> to celebrate our multicultural heritage. Recess activities and fun quizzes were conducted to spark curiosity of our little learners to find out more about one another's customs and foster mutual respect for the diverse community.</p>
 
-<img src="" style="width:41.5%" align="left">
-<img src="" style="width:57%" align="right">
+<img src="/images/CCE_RHD1.jpg" style="width:56%" align="left">
+<img src="/images/CCE_RHD2.png" style="width:41.5%" align="right">
