@@ -69,7 +69,7 @@ Primary 4, 5 and 6 <i>GESPians</i> went for their museum-based learning where th
 
 <p align="justify">To provide students with learning opportunities beyond the classrooms, the school partnered the Children’s Museum Singapore on the launch of their <b>Hawkerverse Exhibition</b> in 2024. <i>GESPians</i> participated in their publicity videos and opening ceremony, where they played a part in spreading the awareness of Singapore Hawker Culture.</p>
 
-<img src="/images/CCE_HE3.jpg" style="width:100%"><br clear="left">
-<img src="/images/CCE_HE1.jpg" style="width:32%" align="left">
-<img src="/images/CCE_HE2.jpg" style="width:63.8%" align="">
+<img src="/images/CCE_HE3.jpg" style="width:100%"><br>
+<img src="/images/CCE_HE1.jpg" style="width:33%" align="left">
+<img src="/images/CCE_HE2.jpg" style="width:65.5%" align="right">
 <br clear="left"><br>
