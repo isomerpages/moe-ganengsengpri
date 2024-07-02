@@ -56,3 +56,6 @@ Primary 4, 5 and 6 <i>GESPians</i> went for their museum-based learning where th
 
 <img src="/images/CCE_RHD1.jpg" style="width:56%" align="left">
 <img src="/images/CCE_RHD2.png" style="width:41.5%" align="right">
+<br clear="left"><br>
+
+<p align="justify">The P5 <i>GESPians</i> had the opportunity to attend the <b>NE Show</b> where they immersed “live” in the full spectacle of the National Day Parade. The school also celebrated Singapore’s milestone and achievement by getting GESPians to put up a concert during **National Day Celebration**. Through these collective experiences of celebration, students have a deepened appreciation and a sense of pride for the nation.</p>
