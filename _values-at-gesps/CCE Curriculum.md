@@ -39,7 +39,9 @@ Primary 4, 5 and 6 <i>GESPians</i> went for their museum-based learning where th
 
 <p align="justify">It is important for students to explore the national identity, understand the realities and challenges of the nation and develop their sense of belonging to Singapore. To create opportunities for exploration, the school organises activities that allow our students to play contributory roles in their immediate communities and in the nation.</p>
 <img src="/images/CCE_NEDAC2.jpg" style="width:100%" align="center"><br>
-<img src="/images/CCE_NEDAC1.jpg" style="width:48%" align="left">
-<img src="/images/CCE_NEDAC3.jpg" style="width:50%" align="right">
-<br clear="left"><br>
+<img src="/images/CCE_NEDAC1.jpg" style="width:52.6%" align="left">
+<img src="/images/CCE_NEDAC3.jpg" style="width:45%" align="right">
+<br clear="left">
+
 <p align="justify">During <b>Total Defence Day</b>, students experienced the water rationing and power disruption exercises to understand the vulnerabilities of Singapore and how they can play their part in Total Defence. To encourage fellow <i>GESPians</i> to use water wisely, CCE Ambassadors took the lead and stationed themselves at the rationing point, The school also partnered Queenstown Secondary School NCDCC students to conduct an assembly talk on Digital Defence and students were engaged by their sharing. Lessons on basic first aid and community preparedness were also conducted during Physical Education and Social Studies classes to equip students with the relevant life skills and knowledge</p>
+
