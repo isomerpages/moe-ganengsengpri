@@ -45,8 +45,10 @@ Primary 4, 5 and 6 <i>GESPians</i> went for their museum-based learning where th
 <img src="/images/CCE_NEDAC3.jpg" style="width:45%" align="right">
 <br clear="left"><br>
 
-What would be a better way to learn about global awareness than to interact with and learn from your own peers? During **International Friendship Day**, international students shared with the school on their cultures, languages, and their daily life practices. This sharing has broadened our students’ understanding and appreciation of the world beyond their immediate environment. Through their sharing, GESPians learn to be more empathetic and open-minded, appreciating the similarities and differences that make each culture unique.
+<p align="justify">What would be a better way to learn about global awareness than to interact with and learn from your own peers? During **International Friendship Day**, international students shared with the school on their cultures, languages, and their daily life practices. This sharing has broadened our students’ understanding and appreciation of the world beyond their immediate environment. Through their sharing, GESPians learn to be more empathetic and open-minded, appreciating the similarities and differences that make each culture unique.</p>
 
 <img src="/images/CCE_IFD1.jpg" style="width:27.2%" align="left">
 <img src="/images/CCE_IFD2.jpg" style="width:37%" align="left">
 <img src="/images/CCE_IFD3.jpg" style="width:35%" align="right">
+<br clear="left"><br>
+
