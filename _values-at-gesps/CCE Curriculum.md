@@ -58,7 +58,7 @@ Primary 4, 5 and 6 <i>GESPians</i> went for their museum-based learning where th
 <img src="/images/CCE_RHD2.png" style="width:41.5%" align="right">
 <br clear="left"><br>
 
-<p align="justify">The P5 <i>GESPians</i> had the opportunity to attend the <b>NE Show</b> where they immersed “live” in the full spectacle of the National Day Parade. The school also celebrated Singapore’s milestone and achievement by getting GESPians to put up a concert during **National Day Celebration**. Through these collective experiences of celebration, students have a deepened appreciation and a sense of pride for the nation.</p>
+<p align="justify">The P5 <i>GESPians</i> had the opportunity to attend the <b>NE Show</b> where they immersed “live” in the full spectacle of the National Day Parade. The school also celebrated Singapore’s milestone and achievement by getting <i>GESPians</i> to put up a concert during <b>National Day Celebration</b>. Through these collective experiences of celebration, students have a deepened appreciation and a sense of pride for the nation.</p>
 
 <img src="/images/CCE_NE1.jpg" style="width:35.5%" align="left">
 <img src="/images/CCE_NE2.jpg" style="width:62.5%" align="right"><br clear="left"><br>
@@ -67,4 +67,9 @@ Primary 4, 5 and 6 <i>GESPians</i> went for their museum-based learning where th
 <br clear="left"><br>
 
 
-<p align="justify">To provide students with learning opportunities beyond the classrooms, the school partnered the Children’s Museum Singapore on the launch of their **Hawkerverse Exhibition** in 2024. GESPians participated in their publicity videos and opening ceremony, where they played a part in spreading the awareness of Singapore Hawker Culture.</p>
+<p align="justify">To provide students with learning opportunities beyond the classrooms, the school partnered the Children’s Museum Singapore on the launch of their <b>Hawkerverse Exhibition</b> in 2024. <i>GESPians</i> participated in their publicity videos and opening ceremony, where they played a part in spreading the awareness of Singapore Hawker Culture.</p>
+
+<img src="/images/CCE_HE3.jpg" style="width:100%"><br clear="left">
+<img src="/images/CCE_HE1.jpg" style="width:32%" align="left">
+<img src="/images/CCE_HE2.jpg" style="width:63.5%" align="">
+<br clear="left"><br>
