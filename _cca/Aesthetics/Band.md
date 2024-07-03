@@ -14,8 +14,9 @@ variant: markdown
 <img src="/images/Band_SYF_official.jpg" style="width:100%">
 	        Official photo at 2024 Singapore Youth Festival Arts Presentation (Brass Band)
 </figure>
-	
-	
-<img src="/images/Getting ready for our outdoor performance at Istana on Labour Day 2019.jpeg" style="width:50%">
-Getting ready for our outdoor performance at Istana on Labour Day 2019
- 
+<figure>	
+<img src="/images/Band_at_SYF_AP.jpg" style="width:49%" align="left">
+<img src="/images/Band_Musical_2023.jpg" style="width:49%">
+<i>GESPians</i> performing their best at 2024 Singapore Youth Festival Arts Presentation (left)<br>
+Brass Band performing at GESPS 2023 Musical - TAPESTRY (right)
+</figure>
