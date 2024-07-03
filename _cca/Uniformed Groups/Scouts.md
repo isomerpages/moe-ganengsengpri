@@ -10,4 +10,7 @@ variant: markdown
 
 <p align="justify">Our Co-Curricular Activity, Dragon Cub Scouts, develops our boys to be resilient and to strive to succeed as they work to achieve their progress badges and individual proficiency and skill badges. There are also many avenues for outdoor activities and adventure which teaches our students to work collaboratively and think critically and creatively to solve problems. Through scouting, our boys build life-long friendships with people of different races and creeds, both at home and abroad.</p>
 
-<img src="/images/photo1668932780.jpeg" style="width:85%">
+<img src="/images/Slide1.jpg" style="width:100%"><br>
+<img src="/images/Slide2.jpg" style="width:100%">
+<img src="/images/Slide3.jpg" style="width:100%"><br>
+<img src="/images/Slide4.jpg" style="width:100%">
