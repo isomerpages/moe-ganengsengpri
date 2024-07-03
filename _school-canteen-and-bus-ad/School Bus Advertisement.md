@@ -8,13 +8,13 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 #### **Service Requirements**
 
-1.    Call for Proposal
+1.    [Call for Proposal](/files/ATTACHMENT_1_Call_for_Proposals_by_School__Version_June_2023____GESPS_for_2025_2026.pdf)
 
-2.    Agreement for Appointment of School Bus Operator
+2.    [Agreement for Appointment of School Bus Operator](/files/ATTACHMENT_3_Agreement_for_Appointment_of_School_Bus_Operator__Version_June_2023____GESPS_for_2025.pdf)
 
 #### **Application Procedure**
 
-1.    Complete the Call for Proposal – Annex A
+1.    Complete the [Call for Proposal - Annex A](/files/ATTACHMENT_2_Call_for_Proposal___Annex_A__Version_June_2023____GESPS_for_2025.pdf)
 
 2.    Submit the completed Call for Proposal – Annex A by closing date **19 July 2024** to the School’s General Office.
 
