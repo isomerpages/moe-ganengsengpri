@@ -20,3 +20,10 @@ variant: markdown
 <i>GESPians</i> performing their best at 2024 Singapore Youth Festival Arts Presentation (left)<br>
 Brass Band performing at GESPS 2023 Musical - TAPESTRY (right)
 </figure>
+<figure>	
+<img src="/images/Band_post_SYF_celebration.jpg" style="width:41%" align="left">
+<img src="/images/Band_Exchange_at_Anderson.jpg" style="width:56%">
+	We practise hard and We play hard (left)<br>
+GESPS Brass Band participating in the Inter-School Brass Band SYF Exchange &amp; Showcase at Anderson Primary School (right)
+</figure>
+
