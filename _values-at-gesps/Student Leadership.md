@@ -4,6 +4,7 @@ permalink: /gesps-cce-experiences/sl/
 description: ""
 variant: markdown
 ---
+
 #### Overview of Student Leadership in GESPS
 
 Student Leadership in GESPS adopts the Learn-Lead-Lift (L3) approach.
@@ -40,6 +41,21 @@ May all our Prefects continue to be leaders who InSPIRE!
 </figure>
 
 ###### **Prefects Camp 2024**
-
-<img src="/images/Prefects_Camp_a.jpg" style="width:42%" align="left">
-<img src="/images/Prefects_Camp_b.jpg" style="width:55.7%" align="right">
+<figure>
+<img src="/images/Prefects_Camp_a.jpg" style="width:100%">
+	One of our Primary 5 Prefects leading the team in the teambuilding activity.
+</figure>
+<figure>
+<img src="/images/Prefects_Camp_b.jpg" style="width:100%">
+One of the workshops conducted during our Prefects Camp, Design Thinking. 
+	</figure>
+	
+###### **Prefects in actions**
+<figure>
+<img src="/images/prefects_in_action_a.jpg" style="width:100%">
+A Primary 6 Prefect, leading and encouraging a group of Primary 6 students in untangling the human knot.
+</figure>
+<figure>
+<img src="/images/prefects_in_action_b.jpg" style="width:100%">
+Our prefects getting to know the teachers better too, in a game of bingo.
+</figure>
