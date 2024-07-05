@@ -24,4 +24,4 @@ variant: markdown
 <img src="/images/Floorball___Our_senior_boys_giving_it_their_all_against_Riverside_primary_school_.jpg" style="width:49%" align="right">
 	Team <i>GESPians</i> getting ready to take on the competition.
 </figure>
-	.
+	
