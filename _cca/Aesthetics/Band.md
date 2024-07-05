@@ -10,10 +10,20 @@ variant: markdown
   
 <p align="justify">GESPS Brass Band has been performing in various school events as well as community events to share their love for music. Band members meet up to twice weekly to learn how to play on their own instrument and progress in the learning of music. Our Brass Band was awarded the Certificate of Accomplishment at the recent 2024 Singapore Youth Festival Arts Presentation.</p>
 
-<img src="/images/photo1668929623.jpeg" style="width:85%">
-
 <figure>
-<img src="/images/Getting ready for our outdoor performance at Istana on Labour Day 2019.jpeg" style="width:50%">
-Getting ready for our outdoor performance at Istana on Labour Day 2019
- 
+<img src="/images/Band_SYF_official.jpg" style="width:100%">
+	        Official photo at 2024 Singapore Youth Festival Arts Presentation (Brass Band)
 </figure>
+<figure>	
+<img src="/images/Band_at_SYF_AP.jpg" style="width:49%" align="left">
+<img src="/images/Band_Musical_2023.jpg" style="width:49%">
+<i>GESPians</i> performing their best at 2024 Singapore Youth Festival Arts Presentation (left)<br>
+Brass Band performing at GESPS 2023 Musical - TAPESTRY (right)
+</figure>
+<figure>	
+<img src="/images/Band_post_SYF_celebration.jpg" style="width:41%" align="left">
+<img src="/images/Band_Exchange_at_Anderson.jpg" style="width:56%">
+	We practise hard and We play hard (left)<br>
+GESPS Brass Band participating in the Inter-School Brass Band SYF Exchange &amp; Showcase at Anderson Primary School (right)
+</figure>
+
