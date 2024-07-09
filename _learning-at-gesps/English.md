@@ -2,6 +2,7 @@
 title: English
 permalink: /gesps-learning-experiences/eng/
 description: ""
+variant: markdown
 ---
 #### Learning English @GESPS
 
@@ -10,8 +11,26 @@ description: ""
 
 <p align="justify">Adopting the STELLAR vision to develop in children the love for reading and a strong foundation in EL, an English lesson is never without interesting and authentic texts. At each level, lessons are delivered through engaging and age-appropriate strategies. Every new EL teacher undergoes training and mentoring in the pedagogies required for the level, which include Shared Book Approach and Modified Language Experience Approach for the lower primary and Supported Reading, Know-Want to know-Learnt and the Writing Process Cycle for the upper primary. The students undergo the range of strategies when they learn English in GESPS.</p>
 
+<figure>
+<figcaption><b>Group Writing</b><br>
+<img src="/images/Eng_1.png" style="width:54.9%" align="left">
+<img src="/images/Eng_2.png" style="width:44%" align="right"><br clear="left">
+	</figcaption>
+	</figure>
 
-<img src="/images/English12023.png" style="width:85%">
+<figure>
+<figcaption><b>Individual Writing</b><br>
+<img src="/images/Eng_3.png" style="width:63%" align="left">
+<img src="/images/Eng_4.png" style="width:35.2%" align="right"><br clear="left">
+	</figcaption>
+	</figure>
+
+<figure>
+<figcaption><b>Modified Language Experience Approach (MLEA)</b><br>
+<img src="/images/Eng_5.png" style="width:55%" align="left">
+<img src="/images/Eng_6.png" style="width:43.7%" align="right"><br clear="left">
+	</figcaption>
+	</figure>
 
 #### Embracing all Students - Curriculum Customisation
 
@@ -63,46 +82,51 @@ P4&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&n
 P5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persuasive Speech (prepared)<br>
 P6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Persuasive Speech (prepared and impromptu)
 
-<p align="justify">The students are taught to use their voice more effectively as they discover new ways to create and present the language. At the end of the oracy lessons, students take turns to showcase their oratorical skills before their classmates. It is always an enjoyable time as the class plays both audience and performer for the day.&nbsp;Besides presenting for confidence, dialogic conversations are incorporated in English lessons to equip students with communication and dialogic skills.
+<p align="justify">The students are taught to use their voice more effectively as they discover new ways to create and present the language. At the end of the oracy lessons, students take turns to showcase their oratorical skills before their classmates. It is always an enjoyable time as the class plays both audience and performer for the day.&nbsp;Besides presenting for confidence, dialogic conversations are incorporated in English lessons to equip students with communication and dialogic skills.</p>
 
- </p><figure>
-<img src="/images/PersuasiveSpeech.jpeg" style="width:80%">
-<figcaption> Persuasive Speech
- </figcaption>
+<figure>
+<figcaption><b>Poetry Recitation</b><br>
+<img src="/images/Eng_7.png" style="width:100%">
+	</figcaption>
+	</figure>
+
+
+<figure>
+	<figcaption><b>Readers' Theatre</b><br>
+<img src="/images/Eng_8.png" style="width:52.1%" align="left">
+<img src="/images/Eng_9.png" style="width:47%" align="right"><br clear="left">
+	</figcaption>
+		</figure>
+
+<figure>
+	<figcaption><b>Persuasive Speech</b><br>
+<img src="/images/Eng_10.png" style="width:100%">
+		</figcaption>
 </figure>
-
- <figure>
-<img src="/images/ReadersTheatre.jpeg" style="width:80%">
-<figcaption> Readers' Theatre
- </figcaption>
-</figure>
-
- <figure>
-<img src="/images/DialogicConversation.jpeg" style="width:80%">
-<figcaption> Dialogic Conversation
- </figcaption>
-</figure>
-
-
-
+	
+<figure>	
+	<figcaption><b>Dialogic Conversations</b><br>
+<img src="/images/Eng_11.png" style="width:41%" align="left">
+<img src="/images/Eng_12.png" style="width:57.8%" align="right">
+<br clear="left">
+</figcaption>
+		</figure>
+		
 **B. Use of English Games**  
 
 <p align="justify">During English lessons, students are given the opportunities to play English games such as Scattergories and Bananagrams. Learning of the language is made fun and enjoyable.
 
  </p><figure>
-<img src="/images/Literacy%20Stations.jpeg" style="width:80%">
-<figcaption> Literacy Stations
+	<figcaption><b>Learning through games</b><br>
+	<img src="/images/Eng_13.png" style="width:49%" align="left">
+	<img src="/images/Eng_14.png" style="width:49%" align="right">
  </figcaption>
 </figure>
-
+<br clear="left">
  <figure>
-<img src="/images/Learning%20through%20Games.jpeg" style="width:80%">
-<figcaption> Learning Through Games
- </figcaption>
-</figure>
+	<figcaption><b>Vocabulary Lesson using Banangram</b><br>
+<img src="/images/Eng_15.png" style="width:50%" align="left">
+<img src="/images/Eng_16.png" style="width:48.5%" align="right">
 
- <figure>
-<img src="/images/Vocabulary%20Lesson%20using%20Bananagram.jpeg" style="width:80%">
-<figcaption> Vocabulary Lesson using Banangram
  </figcaption>
 </figure>
