@@ -2,6 +2,7 @@
 title: English
 permalink: /gesps-learning-experiences/eng/
 description: ""
+variant: markdown
 ---
 #### Learning English @GESPS
 
@@ -10,8 +11,17 @@ description: ""
 
 <p align="justify">Adopting the STELLAR vision to develop in children the love for reading and a strong foundation in EL, an English lesson is never without interesting and authentic texts. At each level, lessons are delivered through engaging and age-appropriate strategies. Every new EL teacher undergoes training and mentoring in the pedagogies required for the level, which include Shared Book Approach and Modified Language Experience Approach for the lower primary and Supported Reading, Know-Want to know-Learnt and the Writing Process Cycle for the upper primary. The students undergo the range of strategies when they learn English in GESPS.</p>
 
+##### Group Writing
+<img src="/images/Eng_1.png" style="width:54.9%" align="left">
+<img src="/images/Eng_2.png" style="width:44%" align="right"><br clear="left">
 
-<img src="/images/English12023.png" style="width:85%">
+##### Individual Writing
+<img src="/images/Eng_3.png" style="width:63%" align="left">
+<img src="/images/Eng_4.png" style="width:35.2%" align="right"><br clear="left">
+
+##### Modified Language Experience Approach (MLEA)
+<img src="/images/Eng_5.png" style="width:55%" align="left">
+<img src="/images/Eng_6.png" style="width:43.7%" align="right"><br clear="left">
 
 #### Embracing all Students - Curriculum Customisation
 
