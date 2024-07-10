@@ -71,7 +71,7 @@ variant: markdown
 
 <p align="justify">GESPians&nbsp;undergo a structured oracy programme which complements the teaching and learning of listening and speaking skills during their English lessons. The overarching objective across the levels is to develop students’ confidence in presenting before an audience.</p>
 
-<p align="justify">The targeted skill focus spirals upwards from the basic oratorical skills at Primary 1 to the more complex over the years.t</p>
+<p align="justify">The targeted skill focus spirals upwards from the basic oratorical skills at Primary 1 to the more complex over the years.</p>
 
 Curriculum&nbsp;_(revised in 2020)_
 
