@@ -47,7 +47,7 @@ Thank you for visiting Gan Eng Seng Primary School. By accessing and using this 
 
 11\. This Web Site contains hyperlinks to web sites which are not maintained Gan Eng Seng Primary School. Gan Eng Seng Primary School is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such web sites are entirely at your own risk.
 
-12\. Hyperlinks to other web sites are provided as a convenience. In no circumstances shall \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (school name) be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
+12\. Hyperlinks to other web sites are provided as a convenience. In no circumstances shall Gan Eng Seng Primary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on web sites to which this Web Site is linked.
 
 **Links to This Web Site from Other Web Sites**
 
