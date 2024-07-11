@@ -8,23 +8,17 @@ variant: markdown
 **Teacher 1 I/C:**&nbsp;**[Mrs Dorcas Chan](mailto:koh_kah_fong_dorcas@schools.gov.sg)**<br>
 **Teacher 2 I/C:**&nbsp;**[Ms Irene Koh](mailto:irene_koh@schools.gov.sg)**  
 
-The Boys’ Brigade is an Uniformed Group Co-Curricular Activity for boys from primary 3 to primary 5. It aims to:
+The Boys’ Brigade is an Uniformed Group Co-Curricular Activity for boys from primary 3 to primary 6. It aims to:
 
-*   help our boys develop and grow in moral character
-*   train our boys to become loyal and responsible citizens
-*   promote physical fitness amongst our boys
-*   develop our boys’ leadership
+*   Develop and grow our boys in moral character
+*   Train our boys to become loyal and responsible citizens
+*   Promote physical fitness among our boys
+*   Develop our boys’ leadership skills
 
-<p align="justify">Through the weekly parades, enriching activities and outings, our boys go through a wide range of activities and volunteer work that holistically nurtures them and teaches them the habits of obedience, reverence, discipline and self-respect.</p>
+<p align="justify">Through weekly parades, enriching activities, and outings, our boys participate in a wide range of activities and volunteer work that holistically nurtures them and teaches them the values of obedience, reverence, discipline, and self-respect.</p>
 
-<img src="/images/BB_Community-Service-1.jpg" style="width:85%"><br>
-
-<img src="/images/BB_Community-Service-2.jpg" style="width:85%"><br>
-
-<img src="/images/BB_Activities-1.jpg" style="width:85%"><br>
-
-<img src="/images/BB_Activities-2.jpg" style="width:85%"><br>
-
-<img src="/images/BB_Activities-3.jpg" style="width:85%"><br>
-
-<img src="/images/BB_Activities-4.jpg" style="width:85%">
+<img src="/images/Boys__Brigade_Day.jpg" style="width:100%"><br>
+<img src="/images/CNY.jpg" style="width:100%"><br>
+<img src="/images/Knot_tying.jpg" style="width:100%"><br>
+<img src="/images/Mother_s_Day.jpg" style="width:100%"><br>
+<img src="/images/Gold_Award.jpg" style="width:100%"><br>
