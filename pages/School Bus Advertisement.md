@@ -1,6 +1,6 @@
 ---
 title: School Bus Advertisement
-permalink: /school-bus-ad/
+permalink: /school-bus-ad/error/
 variant: markdown
 description: ""
 ---
