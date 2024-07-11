@@ -12,7 +12,7 @@ sections:
         - title: School Calendar
           description: ""
           url: /about-us/sc
-        - title: School Canteen & Bus Advertisement
+        - title: School Canteen Advertisement
           description: ""
           url: /school-canteen-ad/
         - title: News @GESPS
