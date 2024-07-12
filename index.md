@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome to Gan Eng Seng Primary School!
 sections:
   - hero:
-      background: /images/herobanner.gif
+      background: /images/Hero Banner/Hero_Banner__compressed_.gif
       key_highlights:
         - title: School Calendar
           description: ""
