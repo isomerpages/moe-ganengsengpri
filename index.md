@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner/INSPIRE_photos__1920_x_720_px_.gif
+      background: /images/Hero Banner/INSPIRE_photos__1920_x_720_px___2_.gif
       key_highlights:
         - title: School Calendar
           description: ""
