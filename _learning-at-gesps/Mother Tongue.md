@@ -36,7 +36,7 @@ Support Programmes:
 
 <center><a href="https://go.gov.sg/gesps-yrp-playground">Young Reporter Programme (Chinese) - Playground</a></center>
 
-<img src="/images/MT1.png" style="width:80%">
+<img src="/images/MT1.png" style="width:100%">
 
 <center><a href="https://www.youtube.com/watch?v=JPXVncr5r-8">Young Reporters Programme (Tamil) – Our School</a></center>
 
