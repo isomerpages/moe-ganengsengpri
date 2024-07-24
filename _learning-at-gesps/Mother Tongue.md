@@ -50,10 +50,11 @@ Support Programmes:
 
 <p align="justify">Mother Tongue Languages Fortnight is a two-week programme that provides students with various cultural experiences. Unique, thematic experiences are planned for students to embrace their own cultures and languages.</p>
 
-<img src="" style="width:80%">
-<img src="" style="width:80%">
+<img src="/images/MTL_Fortnight_1.jpg" style="width:37%" align="left">
+<img src="/images/MTL_Fortnight_2.jpg" style="width:24.8%" align="left">
+<img src="/images/MTL_Fortnight_3.jpg" style="width:37%" align="right"><br clear="left">	
 		 
-		 
+	 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Signature Programme – Conversational Chinese and Malay Language
 
   
