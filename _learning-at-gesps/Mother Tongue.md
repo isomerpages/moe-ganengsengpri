@@ -77,3 +77,13 @@ Support Programmes:
 <img src="/images/LFR_3.jpg" style="width:44.5%" align="left">
 <img src="/images/LFR_4.jpg" style="width:54.3%" align="right">
 <br clear="left">
+
+###### **5. Cultural Performance / Arts Exposure**
+
+<p align="justify">The Department aims to expose students to cultural and language-related performances. This provides students with an immersive experience in the arts outside of the classroom.</p>
+
+<img src="/images/CP___AE_1.jpg" style="width:48.6%" align="left">
+<img src="/images/CP___AE_3.jpg" style="width:24.5%" align="right">
+<img src="/images/CP___AE_2.jpg" style="width:25.4%" align="right">
+<br clear="left">
+<br clear="left">
