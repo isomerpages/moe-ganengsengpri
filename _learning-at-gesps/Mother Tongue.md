@@ -30,7 +30,7 @@ These programmes reflect our commitment to catering to the unique learning needs
 
 To support GESPians to be active and proficient users of their Mother Tongue Languages, various programmes are designed to foster the joy of learning.&nbsp;&nbsp;
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Young Reporters’ Programme (CL, ML &amp; TL) <br>
+#### 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Young Reporters’ Programme (CL, ML &amp; TL) <br>
 Young Reporters’ Programme is designed to develop students’ spoken interaction skills in their respective Mother Tongue Languages – Chinese, Malay and Tamil. During this programme,&nbsp;students are taught various reporting skills, such as script writing, hosting live reports and interviewing of students/teachers.&nbsp;
 
 <center><a href="https://go.gov.sg/gesps-yrp-playground">Young Reporter Programme (Chinese) - Playground</a></center>
@@ -39,6 +39,11 @@ Young Reporters’ Programme is designed to develop students’ spoken interacti
 
 <center><a href="https://www.youtube.com/watch?v=JPXVncr5r-8">Young Reporters Programme (Tamil) – Our School</a></center>
 
+<img src="/images/YRP__Tamil__1.jpg" style="width:36%" align="left">
+<img src="/images/YRP__Tamil__2.jpg" style="width:24.1%" align="left">
+<img src="/images/YRP__Tamil__3.jpg" style="width:39%" align="right">
+<br clear=""><br>
+<p>
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mother Tongue Languages Fortnight&nbsp;&nbsp;
 
 Mother Tongue Languages Fortnight is a two-week programme that provides students with various cultural experiences. Unique, thematic experiences are planned for students to embrace their own cultures and languages.
@@ -50,4 +55,4 @@ Mother Tongue Languages Fortnight is a two-week programme that provides students
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Signature Programme – Conversational Chinese and Malay Language
 
   
-Conversational Chinese and Malay (CCM) Programme is introduced as a Signature Programme in GESPS to encourage the connection between the diverse ethnic groups in the school for P3 to P6 students. Students&nbsp; are encouraged to learn basic conversational Chinese or Malay so that they will be able to hold a simple conversation in authentic situations with a native Chinese or Malay speaker. The ability to converse in another Mother Tongue language helps strengthen racial harmony.
+Conversational Chinese and Malay (CCM) Programme is introduced as a Signature Programme in GESPS to encourage the connection between the diverse ethnic groups in the school for P3 to P6 students. Students&nbsp; are encouraged to learn basic conversational Chinese or Malay so that they will be able to hold a simple conversation in authentic situations with a native Chinese or Malay speaker. The ability to converse in another Mother Tongue language helps strengthen racial harmony.</p>
