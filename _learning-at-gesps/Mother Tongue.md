@@ -58,6 +58,22 @@ Support Programmes:
 <img src="/images/MTL_Fortnight_6.jpg" style="width:35.6%" align="right">
 <br clear="left">
 	 
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Signature Programme – Conversational Chinese and Malay Language
+###### **3. Conversational Chinese, Malay &amp; Tamil Programme**
   
-Conversational Chinese and Malay (CCM) Programme is introduced as a Signature Programme in GESPS to encourage the connection between the diverse ethnic groups in the school for P3 to P6 students. Students&nbsp; are encouraged to learn basic conversational Chinese or Malay so that they will be able to hold a simple conversation in authentic situations with a native Chinese or Malay speaker. The ability to converse in another Mother Tongue language helps strengthen racial harmony.<p></p>
+<p align="justify">Conversational Chinese and Malay (CCM) and Conversational Tamil (CT) Programmes are conducted as a Signature Programme in GESPS to encourage the connection between the diverse ethnic groups in the school for P3 to P6 students. Students are encouraged to learn basic conversational Chinese, Malay and Tamil so that they will be able to hold a simple conversation in authentic situations with native speakers. The ability to converse in another Mother Tongue language helps strengthen racial harmony and exposes the students to learning of a 3rd language.</p>
+
+<img src="/images/CCMT_1.jpg" style="width:30.5%" align="left">
+<img src="/images/CCMT_2.jpg" style="width:68.5%" align="right"><br clear="left"><br>	
+<img src="/images/CCMT_3.jpg" style="width:66%" align="left">
+<img src="/images/CCMT_4.jpg" style="width:33%" align="right">
+<br clear="left">
+
+###### **4. Love for Reading**
+
+<p align="justify">The library endeavours to foster a positive attitude towards reading and assist students in their educational journey. Our initiatives are designed to instill a lifelong love of reading, encouraging students to read for pleasure. We are committed to inspiring and nurturing a passion for reading among all our students. The library aims to encourage book borrowing and cultivate a genuine interest in reading through programmes like the Reading Superheroes and recess storytelling sessions. These sessions feature peer-led stories in various languages and creative formats like shadow puppetry.</p>
+
+<img src="/images/LFR_1.jpg" style="width:51.3%" align="left">
+<img src="/images/LFR_2.jpg" style="width:47.7%" align="right"><br clear="left"><br>	
+<img src="/images/LFR_3.jpg" style="width:44.5%" align="left">
+<img src="/images/LFR_4.jpg" style="width:54.3%" align="right">
+<br clear="left">
