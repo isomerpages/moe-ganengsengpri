@@ -52,10 +52,12 @@ Support Programmes:
 
 <img src="/images/MTL_Fortnight_1.jpg" style="width:37%" align="left">
 <img src="/images/MTL_Fortnight_2.jpg" style="width:24.8%" align="left">
-<img src="/images/MTL_Fortnight_3.jpg" style="width:37%" align="right"><br clear="left">	
-		 
+<img src="/images/MTL_Fortnight_3.jpg" style="width:37%" align="right"><br clear="left"><br>	
+<img src="/images/MTL_Fortnight_4.jpg" style="width:37.6%" align="left">
+<img src="/images/MTL_Fortnight_5.jpg" style="width:25.5%" align="left">
+<img src="/images/MTL_Fortnight_6.jpg" style="width:35.6%" align="right">
+<br clear="left">
 	 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Signature Programme – Conversational Chinese and Malay Language
-
   
 Conversational Chinese and Malay (CCM) Programme is introduced as a Signature Programme in GESPS to encourage the connection between the diverse ethnic groups in the school for P3 to P6 students. Students&nbsp; are encouraged to learn basic conversational Chinese or Malay so that they will be able to hold a simple conversation in authentic situations with a native Chinese or Malay speaker. The ability to converse in another Mother Tongue language helps strengthen racial harmony.<p></p>
