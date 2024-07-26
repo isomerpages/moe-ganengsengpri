@@ -30,7 +30,7 @@ Support Programmes:
 
 <p align="justify">To support <i>GESPians</i> to be active and proficient users of their Mother Tongue Languages, various programmes are designed to foster the joy of learning.</p>
 
- ###### **1. Young Reporters' Programme (CL, ML &amp; TL)**
+ **1. Young Reporters' Programme (CL, ML &amp; TL)**
 
 <p align="justify">Young Reporters’ Programme is designed to develop students’ spoken interaction skills in their respective Mother Tongue Languages – Chinese, Malay and Tamil. During this programme,&nbsp;students are taught various reporting skills, such as script writing, hosting live reports and interviewing of students/teachers.</p>
 
