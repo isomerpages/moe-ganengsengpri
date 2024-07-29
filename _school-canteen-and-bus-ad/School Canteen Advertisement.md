@@ -27,7 +27,7 @@ description: ""
 <p>Halal Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 July 2024</p>
+<p>30 September 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice or noodle stalls are acceptable</p>
