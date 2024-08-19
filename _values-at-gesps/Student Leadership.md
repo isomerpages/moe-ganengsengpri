@@ -4,7 +4,6 @@ permalink: /gesps-cce-experiences/sl/
 description: ""
 variant: markdown
 ---
-
 #### Overview of Student Leadership in GESPS
 
 Student Leadership in GESPS adopts the Learn-Lead-Lift (L3) approach.
@@ -29,16 +28,20 @@ The Design Thinking Principles is adopted in the training of the prefects so tha
 
 A key programme of the Prefectorial Board is the annual Prefect Investiture. It is a ceremony that formally officiates and congratulates the appointments of the prefects by the school population. This is to affirm the effort and service rendered by the prefects.</p>
 
-###### **Prefect Investiture**
-<figure>
-<img src="/images/Prefect_Investiture_2023_a.jpg" style="width:100%">
-Our Vice Head Prefect, Matthias Chua, presenting the EXCO tiepin to the newly elected Vice Head Prefect, Thenuk Randil Wimalasena.
-</figure>
-	
-<figure>
-<img src="/images/Prefect_Investiture_2023_b.jpg" style="width:100%">
-May all our Prefects continue to be leaders who InSPIRE!
-</figure>
+###### **Prefect Investiture 2024**
+
+<p align="justify">
+The Prefect Investiture Ceremony on July 29, 2024, was a significant event, held in the school hall during the Monday assembly session. It was witnessed by all Primary 1 to Primary 6 students and marked the official appointment of our Primary 4 and Primary 5 Prefects.
+
+This year was particularly noteworthy as the school appointed its new 2024-2025 Head Prefect, Low Yong Qi from class 5 Empathy. The ceremony began with an inspiring address by the Principal, Mr. Roy Lee, who urged the prefects to be dedicated, committed leaders and role models who **INSPIRE** and motivate their peers by doing the right things and showing kindness. He emphasized the importance of embodying the qualities of a true leader.
+
+Following the Principal's speech, the prefects donned their Prefects’ badges. Head Prefect Yong Qi then delivered a short speech and led the entire prefectorial contingent in reciting the Prefects’ Pledge. It was indeed a proud moment for all the prefects, marking a significant day in their leadership journey. This milestone serves as a reminder to all the prefects to uphold the highest standards of excellence as they strive to serve the school.
+
+We would like to express our heartfelt appreciation to our Primary 6 Prefects for their dedication and commitment in their prefectorial work. We want to wish them all the best in their future endeavour and to continue to be leaders who inspire! To our newly appointed prefects, our heartiest congratulations!
+</p>	
+<img src="/images/Prefects_Final_1.jpg" style="width:100%"><br>
+<img src="/images/Prefects_Final_2.jpg" style="width:100%"><br>
+<img src="/images/Prefects_Final_3.jpg" style="width:100%">
 
 ###### **Prefects Camp 2024**
 <figure>
