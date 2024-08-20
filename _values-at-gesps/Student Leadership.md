@@ -31,12 +31,12 @@ A key programme of the Prefectorial Board is the annual Prefect Investiture. It 
 ###### **Prefect Investiture 2024**
 
 <p align="justify">
-The Prefect Investiture Ceremony on July 29, 2024, was a significant event, held in the school hall during the Monday assembly session. It was witnessed by all Primary 1 to Primary 6 students and marked the official appointment of our Primary 4 and Primary 5 Prefects.
-
-This year was particularly noteworthy as the school appointed its new 2024-2025 Head Prefect, Low Yong Qi from class 5 Empathy. The ceremony began with an inspiring address by the Principal, Mr. Roy Lee, who urged the prefects to be dedicated, committed leaders and role models who **INSPIRE** and motivate their peers by doing the right things and showing kindness. He emphasized the importance of embodying the qualities of a true leader.
-
-Following the Principal's speech, the prefects donned their Prefects’ badges. Head Prefect Yong Qi then delivered a short speech and led the entire prefectorial contingent in reciting the Prefects’ Pledge. It was indeed a proud moment for all the prefects, marking a significant day in their leadership journey. This milestone serves as a reminder to all the prefects to uphold the highest standards of excellence as they strive to serve the school.
-
+The Prefect Investiture Ceremony on July 29, 2024, was a significant event, held in the school hall during the Monday assembly session. It was witnessed by all Primary 1 to Primary 6 students and marked the official appointment of our Primary 4 and Primary 5 Prefects.</p>
+<p align="justify">
+This year was particularly noteworthy as the school appointed its new 2024-2025 Head Prefect, Low Yong Qi from class 5 Empathy. The ceremony began with an inspiring address by the Principal, Mr. Roy Lee, who urged the prefects to be dedicated, committed leaders and role models who <b>INSPIRE</b> and motivate their peers by doing the right things and showing kindness. He emphasized the importance of embodying the qualities of a true leader.</p>
+<p align="justify">
+Following the Principal's speech, the prefects donned their Prefects’ badges. Head Prefect Yong Qi then delivered a short speech and led the entire prefectorial contingent in reciting the Prefects’ Pledge. It was indeed a proud moment for all the prefects, marking a significant day in their leadership journey. This milestone serves as a reminder to all the prefects to uphold the highest standards of excellence as they strive to serve the school.</p>
+<p align="justify">
 We would like to express our heartfelt appreciation to our Primary 6 Prefects for their dedication and commitment in their prefectorial work. We want to wish them all the best in their future endeavour and to continue to be leaders who inspire! To our newly appointed prefects, our heartiest congratulations!
 </p>	
 <img src="/images/Prefects_Final_1.jpg" style="width:100%"><br>
