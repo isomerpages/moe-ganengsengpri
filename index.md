@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /news-at-gesps/permalink/
         - title: Useful Links
-          description: Students-Parents-Teachers-Othe
+          description: GESPians-Parents-Others
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/for-students/
   - infopic:
       title: GESPS Corporate Video
