@@ -2,13 +2,13 @@ collections:
   useful-links:
     output: true
     order:
-      - School Canteen Advertisement.md
       - For Students.md
-      - For Parents/School Bus Services.md
       - For Parents/.keep
+      - For Parents/School Bus Services.md
       - For Parents/PSLE FSBB Microsite.md
       - For Parents/Parent's Gateway.md
       - For Parents/Sexuality Education.md
       - For Parents/Student iCON Onboarding.md
       - For Parents/Webpage & PDF Links.md
       - For Teachers.md
+      - School Canteen Advertisement.md
