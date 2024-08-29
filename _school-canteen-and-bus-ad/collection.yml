@@ -1,5 +1,4 @@
 collections:
   school-canteen-and-bus-ad:
     output: true
-    order:
-      - School Canteen Advertisement.md
+    order: []
