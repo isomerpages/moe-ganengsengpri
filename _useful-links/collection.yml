@@ -2,9 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - School Canteen & Bus Ads/School Bus Advertisement.md
-      - School Canteen & Bus Ads/School Canteen Advertisement.md
-      - School Canteen & Bus Ads/.keep
       - For Students.md
       - For Parents/.keep
       - For Parents/School Bus Services.md
@@ -14,3 +11,6 @@ collections:
       - For Parents/Student iCON Onboarding.md
       - For Parents/Webpage & PDF Links.md
       - For Teachers.md
+      - School Canteen & Bus Ads/.keep
+      - School Canteen & Bus Ads/School Bus Advertisement.md
+      - School Canteen & Bus Ads/School Canteen Advertisement.md
