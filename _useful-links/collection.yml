@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - School Canteen & Bus Ads/School Canteen Advertisement.md
       - School Canteen & Bus Ads/.keep
       - For Students.md
       - For Parents/.keep
