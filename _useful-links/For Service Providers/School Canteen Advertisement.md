@@ -3,6 +3,7 @@ title: School Canteen Advertisement
 permalink: /school-canteen-ad/
 variant: tiptap
 description: ""
+third_nav_title: For Service Providers
 ---
 <table style="minWidth: 75px">
 <colgroup>
