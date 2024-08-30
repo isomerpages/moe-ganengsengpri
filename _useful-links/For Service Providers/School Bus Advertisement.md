@@ -1,6 +1,6 @@
 ---
 title: School Bus Advertisement
-permalink: /school-bus-ad/error/
+permalink: /school-bus-ad/
 variant: markdown
 description: ""
 third_nav_title: For Service Providers
