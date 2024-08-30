@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /news-at-gesps/permalink/
         - title: Useful Links
-          description: GESPians/Parents/Svc Provider
+          description: Students/Parents/Svc Provider
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/for-students/
   - infopic:
       title: GESPS Corporate Video
