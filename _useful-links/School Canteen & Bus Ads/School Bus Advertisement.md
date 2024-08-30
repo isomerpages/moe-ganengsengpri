@@ -19,12 +19,12 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1.&nbsp;&nbsp;&nbsp; Complete the [Call for Proposal - Annex A](/files/2__Call_for_Proposal__for_Single_Bus_Service____Information_from_Vendor__ANNEX_A.pdf)
 
-2.&nbsp;&nbsp;&nbsp; Submit the completed Call for Proposal – Annex A by closing date **19 July 2024** to the School’s General Office.
+2.&nbsp;&nbsp;&nbsp; Submit the completed Call for Proposal – Annex A by closing date **9 September 2024** to the School’s General Office.
 
 **Address**: Gan Eng Seng Primary School, 100 Redhill Close, Singapore 158901  
 **Contact**&nbsp;No: 6471 7451  
 **Email**:&nbsp;[gesps@moe.edu.sg](mailto:gesps@moe.edu.sg)<br>
-**Contact Person**:  Mr Bernard Chia (Operation Manager) / Mdm Ariel Lee (Admin Manager)
+**Contact Person**:  Mr Bernard Chia, Operation Manager
 
 #### **How to get there?**
 
