@@ -3,12 +3,13 @@ title: School Bus Advertisement
 permalink: /school-bus-ad/
 variant: markdown
 description: ""
+third_nav_title: For Service Providers
 ---
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 #### **Service Requirements**
 
-1.&nbsp;&nbsp;&nbsp; [Call for Proposal](/files/1__CALL_FOR_PROPROSAL_FOR_APPOINTMENT_OF_SCHOOL_BUS_OPERATOR_TO_PROVIDE_SCHOOL_BUS_SERVICES__GESPS_2025_2026__2.pdf)
+1.&nbsp;&nbsp;&nbsp; [Call for Proposal](/files/1__CALL_FOR_PROPROSAL_FOR_APPOINTMENT_OF_SCHOOL_BUS_OPERATOR_TO_PROVIDE_SCHOOL_BUS_SERVICES__GESPS_2025_2026__2__2_.pdf)
 
 2.&nbsp;&nbsp;&nbsp; [Terms and Conditions for School Bus Operator to Provide School Bus Services](/files/3__Terms___Conditions_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service___GESPS.pdf)
 
