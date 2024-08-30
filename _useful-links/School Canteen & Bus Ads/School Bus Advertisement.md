@@ -9,9 +9,9 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 #### **Service Requirements**
 
-1.&nbsp;&nbsp;&nbsp; [Call for Proposal](/files/ATTACHMENT_1_Call_for_Proposals_by_School__Version_June_2023____GESPS_for_2025_2026.pdf)
+1.&nbsp;&nbsp;&nbsp; [Call for Proposal]
 
-2.&nbsp;&nbsp;&nbsp; [Agreement for Appointment of School Bus Operator](/files/ATTACHMENT_3_Agreement_for_Appointment_of_School_Bus_Operator__Version_June_2023____GESPS_for_2025.pdf)
+2.&nbsp;&nbsp;&nbsp; [Agreement for Appointment of School Bus Operator]
 
 #### **Application Procedure**
 
