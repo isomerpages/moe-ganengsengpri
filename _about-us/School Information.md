@@ -4,6 +4,7 @@ permalink: /about-us/sch-info/
 description: ""
 variant: markdown
 ---
+##### Reporting and Dismissal Time
 
 | Day | Reporting Time | Dismissal Time |
 |:---|:---|:---|
