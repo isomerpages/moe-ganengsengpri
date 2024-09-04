@@ -4,8 +4,6 @@ permalink: /about-us/sch-info/
 description: ""
 variant: markdown
 ---
-#### 2023
-
 
 
 | Day | Reporting Time | Dismissal Time |
