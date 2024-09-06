@@ -4,7 +4,7 @@ title: Gan Eng Seng Primary School
 description: An Isomer site of the Singapore Government
 image: /images/photo1668939236.jpeg
 permalink: /
-notification: ""
+notification: Hi welcome to Gan Eng Seng Primary School website!
 sections:
   - hero:
       background: /images/Hero Banner/INSPIRE_photos__1920_x_720_px___2_.gif
