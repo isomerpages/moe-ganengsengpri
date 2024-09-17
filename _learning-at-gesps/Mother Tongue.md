@@ -55,6 +55,15 @@ Support Programmes:
 <p align="justify">This enriching experience was also reported by our very own Young Reporters.
 </p>
 
+<img src="/images/Younger_Reporters__CL_1.png" style="width:32.7%" align="left">&nbsp;
+<img src="/images/Younger_Reporters__CL_2.png" style="width:27.2%" align="left">
+<img src="/images/Younger_Reporters__CL_3.png" style="width:39%" align="right"><br clear="left">
+
+<img src="/images/Younger_Reporters__CL_4.png" style="width:50%" align="left">
+<img src="/images/Younger_Reporters__CL_5.png" style="width:47.9%" align="right"><br clear="left">
+
+
+
 ###### **3. Mother Tongue Languages Fortnight**
 
 <p align="justify">Mother Tongue Languages Fortnight is a two-week programme that provides students with various cultural experiences. Unique, thematic experiences are planned for students to embrace their own cultures and languages.</p>
