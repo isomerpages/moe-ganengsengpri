@@ -2,6 +2,7 @@
 title: History
 permalink: /about-us/history/
 description: ""
+variant: markdown
 ---
 #### Gan Eng Seng, philanthropist <br>(Pinyin: Yan Yongcheng; 1844—1899)
 

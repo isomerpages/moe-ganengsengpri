@@ -46,7 +46,27 @@ Support Programmes:
 <br clear="left">
 
 
-###### **2. Mother Tongue Languages Fortnight**
+###### **2. Museum Docent Programme (CL)**
+
+<p align="justify">The Museum Docent Programme is a new initiative in collaboration with Anderson Secondary School and the Gan Heritage Centre. This programme aims to enhance our students' spoken interaction skills in the Chinese Language while educating them about Mr. Gan Eng Seng, the distinguished figure after whom our school is named.</p>
+	
+<p align="justify">Through this programme, students were trained in museum docent skills by Anderson Secondary School students. As part of their learning journey, our student docents from Primary 4 and 5 visited the Gan Heritage Centre, where they guided our Primary 3 and 4 Higher Chinese students through the legacy of Mr. Gan Eng Seng.</p>
+	
+<p align="justify">This enriching experience was also reported by our very own Young Reporters.
+</p>
+
+<img src="/images/Younger_Reporters__CL_1.png" style="width:32.7%" align="left">&nbsp;
+<img src="/images/Younger_Reporters__CL_2.png" style="width:27.2%" align="left">
+<img src="/images/Younger_Reporters__CL_3.png" style="width:39%" align="right"><br clear="left">
+
+<img src="/images/Younger_Reporters__CL_4.png" style="width:50%" align="left">
+<img src="/images/Younger_Reporters__CL_5.png" style="width:47.9%" align="right"><br clear="left">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Video 1](https://youtu.be/4Udt4ykvHaQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Video 2](https://youtu.be/4zGzjyI03P4)
+
+###### **3. Mother Tongue Languages Fortnight**
 
 <p align="justify">Mother Tongue Languages Fortnight is a two-week programme that provides students with various cultural experiences. Unique, thematic experiences are planned for students to embrace their own cultures and languages.</p>
 
@@ -58,7 +78,7 @@ Support Programmes:
 <img src="/images/MTL_Fortnight_6.jpg" style="width:35.6%" align="right">
 <br clear="left">
 	 
-###### **3. Conversational Chinese, Malay &amp; Tamil Programme**
+###### **4. Conversational Chinese, Malay &amp; Tamil Programme**
   
 <p align="justify">Conversational Chinese and Malay (CCM) and Conversational Tamil (CT) Programmes are conducted as a Signature Programme in GESPS to encourage the connection between the diverse ethnic groups in the school for P3 to P6 students. Students are encouraged to learn basic conversational Chinese, Malay and Tamil so that they will be able to hold a simple conversation in authentic situations with native speakers. The ability to converse in another Mother Tongue language helps strengthen racial harmony and exposes the students to learning of a 3rd language.</p>
 
@@ -68,7 +88,7 @@ Support Programmes:
 <img src="/images/CCMT_4.jpg" style="width:33%" align="right">
 <br clear="left">
 
-###### **4. Love for Reading**
+###### **5. Love for Reading**
 
 <p align="justify">The library endeavours to foster a positive attitude towards reading and assist students in their educational journey. Our initiatives are designed to instill a lifelong love of reading, encouraging students to read for pleasure. We are committed to inspiring and nurturing a passion for reading among all our students. The library aims to encourage book borrowing and cultivate a genuine interest in reading through programmes like the Reading Superheroes and recess storytelling sessions. These sessions feature peer-led stories in various languages and creative formats like shadow puppetry.</p>
 
@@ -78,7 +98,7 @@ Support Programmes:
 <img src="/images/LFR_4.jpg" style="width:54.3%" align="right">
 <br clear="left">
 
-###### **5. Cultural Performance / Arts Exposure**
+###### **6. Cultural Performance / Arts Exposure**
 
 <p align="justify">The Department aims to expose students to cultural and language-related performances. This provides students with an immersive experience in the arts outside of the classroom.</p>
 
