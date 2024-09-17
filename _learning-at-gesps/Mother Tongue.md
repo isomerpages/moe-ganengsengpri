@@ -46,9 +46,14 @@ Support Programmes:
 <br clear="left">
 
 
-###### **2. Mother Tongue Languages Fortnight**
+###### **2. Museum Docent Programme (CL)**
 
-<p align="justify">Mother Tongue Languages Fortnight is a two-week programme that provides students with various cultural experiences. Unique, thematic experiences are planned for students to embrace their own cultures and languages.</p>
+<p align="justify">The Museum Docent Programme is a new initiative in collaboration with Anderson Secondary School and the Gan Heritage Centre. This programme aims to enhance our students' spoken interaction skills in the Chinese Language while educating them about Mr. Gan Eng Seng, the distinguished figure after whom our school is named.</p>
+	
+<p align="justify">Through this programme, students were trained in museum docent skills by Anderson Secondary School students. As part of their learning journey, our student docents from Primary 4 and 5 visited the Gan Heritage Centre, where they guided our Primary 3 and 4 Higher Chinese students through the legacy of Mr. Gan Eng Seng.</p>
+	
+<p align="justify">This enriching experience was also reported by our very own Young Reporters.
+</p>
 
 <img src="/images/MTL_Fortnight_1.jpg" style="width:37%" align="left">
 <img src="/images/MTL_Fortnight_2.jpg" style="width:24.8%" align="left">
