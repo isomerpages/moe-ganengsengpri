@@ -17,75 +17,41 @@ message via SMS.</p>
 <p>&nbsp;</p>
 <p><strong>Period: 1 Jan 2025 to 31 Dec 2026</strong>
 </p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>Distance</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Up to 15-seater</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>&gt;15-seater</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1-Way Trip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2-Way Trip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1-Way Trip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2-Way Trip</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Up to 2KM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$160</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$180</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$130</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$150</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;2 – 4KM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$210</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$230</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$160</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$180</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+   <style>
+      table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 5px;
+      }
+    </style>
+      <table>
+      <thead>
+        <tr>
+          <th rowspan="2">Distance</th>
+          <th colspan="2">Up to 15-seater</th>
+          <th colspan="2">&gt;15-seater</th>
+        </tr>
+        <tr>
+          <th>1-Way Trip</th>
+          <th>2-Way Trip</th>
+          <th>1-Way Trip</th>
+          <th>2-Way Trip</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Up to 2KM</td>
+          <td>$160</td>
+          <td>$180</td>
+          <td>$130</td>
+          <td>$150</td>
+        </tr>
+        <tr>
+          <td>&gt;2 – 4KM</td>
+          <td>$210</td>
+          <td>$230</td>
+          <td>$160</td>
+          <td>$180</td>
+        </tr>
+      </tbody>
+    </table>
