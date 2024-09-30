@@ -7,15 +7,13 @@ third_nav_title: For Parents
 ---
 <p><strong>Revolving Transport Pte Ltd</strong>
 </p>
-<p>Please contact Director, Mr Edmund Lee on School Bus transport matters.</p>
-<p>If you are unable to contact Mr Edmund Lee via call, please send him a
-message via SMS.</p>
-<p>*HP: 92779277 / 92770099</p>
-<p>*Email: <a rel="noopener noreferrer nofollow" target="_blank">edmund55@singnet.com.sg</a>
+<p>Please contact Director, Mr Edmund Lee on School Bus transport matters.<br>
+	If you are unable to contact Mr Edmund Lee via call, please send him a
+message via SMS.<br>
+*HP: 92779277 / 92770099<br>
+*Email: <a rel="noopener noreferrer nofollow" target="_blank">edmund55@singnet.com.sg</a>
 <a href="mailto:edmund55@singnet.com.sg%20/%20emltpt96@gmail.com" rel="noopener noreferrer nofollow" target="_blank">/</a><a rel="noopener noreferrer nofollow" target="_blank">emltpt96@gmail.com</a>
-</p>
-<p>&nbsp;</p>
-<p><strong>Period: 1 Jan 2025 to 31 Dec 2026</strong>
+</p><p><strong>Period: 1 Jan 2025 to 31 Dec 2026</strong>
 </p>
    <style>
       table, th, td {
