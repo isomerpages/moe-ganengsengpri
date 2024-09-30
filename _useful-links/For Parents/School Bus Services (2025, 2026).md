@@ -14,14 +14,7 @@ message via SMS.<br>
 *Email: <a href="mailto:edmund55@singnet.com.sg?subject=Me&amp;body=<b>edmund55@singnet.com.sg</b>">edmund55@singnet.com.sg</a> / <a href="mailto:emltpt96@gmail.com?subject=Me&amp;body=<b>emltpt96@gmail.com</b>">emltpt96@gmail.com</a>
 	</p>
 <p><strong>Period: 1 Jan 2025 to 31 Dec 2026</strong></p>
-   <style>
-      table, th, td {
-        border: 1px solid black;
-        border-collapse: collapse;
-        padding: 5px;
-      }
-    </style>
-      <table>
+       <table>
       <thead>
         <tr>
           <th rowspan="2">Distance</th>
