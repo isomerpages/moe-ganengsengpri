@@ -38,14 +38,14 @@ message via SMS.<br>
       </thead>
       <tbody>
         <tr>
-          <td>Up to 2KM</td>
+          <td>**Up to 2KM**</td>
           <td>$160</td>
           <td>$180</td>
           <td>$130</td>
           <td>$150</td>
         </tr>
         <tr>
-          <td>&gt;2 – 4KM</td>
+          <td>**&gt;2 – 4KM**</td>
           <td>$210</td>
           <td>$230</td>
           <td>$160</td>
