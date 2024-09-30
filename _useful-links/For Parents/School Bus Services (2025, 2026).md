@@ -12,9 +12,8 @@ third_nav_title: For Parents
 message via SMS.<br>
 *HP: 92779277 / 92770099<br>
 *Email: [edmund55@singnet.com.sg](mailto:edmund55@singnet.com.sg) / [emltpt96@gmail.com](mailto:emltpt96@gmail.com)
-	
-</p><p><strong>Period: 1 Jan 2025 to 31 Dec 2026</strong>
-</p>
+	</p>
+<p><strong>Period: 1 Jan 2025 to 31 Dec 2026</strong></p>
    <style>
       table, th, td {
         border: 1px solid black;
