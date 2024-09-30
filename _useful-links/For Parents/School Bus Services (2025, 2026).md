@@ -11,7 +11,7 @@ third_nav_title: For Parents
 	If you are unable to contact Mr Edmund Lee via call, please send him a
 message via SMS.<br>
 *HP: 92779277 / 92770099<br>
-*Email: [edmund55@singnet.com.sg(mailto:edmund55@singnet.com.sg) / emltpt96@gmail.com]     (mailto:emltpt96@gmail.com)
+*Email: [edmund55@singnet.com.sg](mailto:edmund55@singnet.com.sg) / [emltpt96@gmail.com](mailto:emltpt96@gmail.com)
 	
 </p><p><strong>Period: 1 Jan 2025 to 31 Dec 2026</strong>
 </p>
