@@ -12,7 +12,7 @@ sections:
         - title: School Calendar
           description: ""
           url: /about-us/sc
-        - title: News @GESPS
+        - title: Accomplishment
           description: ""
           url: /news-at-gesps/permalink/
         - title: Useful Links
@@ -25,6 +25,11 @@ sections:
       url: https://www.youtube.com/watch?v=OJq63wBIBe0
       image: /images/school crest_hr small.png
       alt: Image alt text
+  - resources:
+      title: NEWSFLASH!
+      id: resources
+      button: Check out for more
+      subtitle: Collection of gESPS
   - textcards:
       title: Bulletin Board
       id: textcards
@@ -46,9 +51,4 @@ sections:
           linktext: Click here to view
           url: https://movingstillsphotography.shootproof.com/gallery/20520170/album/16336550
       subtitle: OUR
-  - resources:
-      title: NEWSFLASH!
-      id: resources
-      button: Check out for more
-      subtitle: Collection of gESPS
 ---
