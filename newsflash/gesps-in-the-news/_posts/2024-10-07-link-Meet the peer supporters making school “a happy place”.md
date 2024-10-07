@@ -5,6 +5,6 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.schoolbag.edu.sg/story/meet-the-peer-supporters-making-school-a-happy-place/
+external: https://www.schoolbag.edu.sg/story/meet-the-peer-supporters-making-school-a-happy-place/
 ---
 <p></p>
