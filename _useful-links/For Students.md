@@ -31,3 +31,5 @@ variant: markdown
 * [**SLS Profile Customization (e.g Add Email Address, password reset etc...)**](https://www.learning.moe.edu.sg/student-user-guide/customise/set-password-reset-email-address/)
 * [**SLS Login Troubleshooting**](https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/)
 * [**Student User Guide - Explore SLS**](https://www.learning.moe.edu.sg/student-user-guide/index/)
+* Student iCON
+- 
