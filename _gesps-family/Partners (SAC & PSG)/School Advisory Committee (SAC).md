@@ -14,4 +14,9 @@ variant: markdown
 <b>Vice-Chairman:</b>&nbsp;Dr Thian Eng San  
 <b>Hon Secretary:</b>&nbsp;Mr Roy Lee (Principal)
 
-<b>Members:</b>&nbsp;  <br>Mr Sebastian Tan Beng Wah  <br>Mdm Azlinah Binte Ariff <br>Ms Von Leong <br>Mr Tan Seow Teng
+<b>Members:</b><br>
+Mr Sebastian Tan Beng Wah<br>
+Mr Martin Yi<br>
+Mdm Azlinah Binte Ariff<br>
+Ms Von Leong<br>
+Mr Tan Seow Teng
