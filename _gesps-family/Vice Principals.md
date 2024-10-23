@@ -23,11 +23,11 @@ Welcome to GESPS – Our Second Home!
 
 Mr Kyaw Saw Lynn<br>
 VP (EO)<br>
-kyaw_saw_lynn@schools.gov.sg
+<a href="mailto:kyaw_saw_lynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kyaw_saw_lynn@schools.gov.sg</a>
 <br>
 <br>
 <br>
 <img align="left" style="width: 25%;" height="auto" width="100%" alt="" src="/images/Mrs_Goh_Seok_Ghee_VPA.jpeg">
-<p align="justify"><br>School is more than just a place for learning; it is a safe and conducive space for children to explore and build memories. To achieve this, the partnership that exists between the school, parents, and the wider community plays an important role. In Gan Eng Seng Primary School, we are grateful that our partnership has built and deepened over the years.</p>Let’s continue to work hand in hand to give our children a holistic environment to learn and grow.
+<p align="justify">School is more than just a place for learning; it is a safe and conducive space for children to explore and build memories. To achieve this, the partnership that exists between the school, parents, and the wider community plays an important role. In Gan Eng Seng Primary School, we are grateful that our partnership has built and deepened over the years.</p>Let’s continue to work hand in hand to give our children a holistic environment to learn and grow.
 
 Mrs Goh Seok Ghee<br>VP (Admin)<br><a href="mailto:wong_seok_ghee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_seok_ghee@schools.gov.sg</a>
