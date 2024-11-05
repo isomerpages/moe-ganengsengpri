@@ -3,6 +3,7 @@ title: School Conduct
 permalink: /about-us/School-Rules/sch-conduct/
 description: ""
 third_nav_title: School Rules
+variant: markdown
 ---
 <p align="justify">Gan Eng Seng Primary School is committed in providing a safe and caring environment for each student.&nbsp;We seek to inculcate in our students the sense of responsibility and respect for oneself, towards others and also the environment.</p>
 
@@ -50,7 +51,7 @@ vi)&nbsp;Hairstyle
 *   Hair must be kept neat and clean. Hair fringes should&nbsp;not&nbsp;touch the student's eyebrows.&nbsp; &nbsp;
 *   Dyeing/tinting of hair is&nbsp;<u>not</u> allowed.&nbsp;
 *   Girls with long hair that reaches their shoulders must tie their hair up with black or navy blue hair bands. They must keep their hair neatly in place and away from their face with black or navy blue hair clips.&nbsp;
-*   Boys must have the hair on the sides and back of the head cut in a slope. The hair must&nbsp;<u>not</u>&nbsp;cover the ears or touch the back collar of their shirts.&nbsp; The hair on the sides of the head must&nbsp;<u>not</u>&nbsp;be shaved very short while keeping the hair at the top of the head thick and long.
+*   Boys must have the hair on the sides and back of the head cut in a slope. The hair must&nbsp;<u>not</u>&nbsp;cover the ears or touch the back collar of their shirts.&nbsp; The hair on the sides of the head must&nbsp;<u>not</u>&nbsp;be shaved very short while keeping the hair at the top of the head thick and long. 
 
 Examples of acceptable hairstyles:
 
