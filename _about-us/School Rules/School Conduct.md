@@ -59,9 +59,12 @@ Examples of acceptable hairstyles:
 
 School Uniform / P.E. Attire
 
-![](/images/schoolconductattire2023.png)
+<img src="/images/Pg_13___Boy_Uniform.jpg" style="width:24%" align="left">
+<img src="/images/Pg_13___Boy_PE_Attire.jpg" style="width:24%" align="left">
+<img src="/images/Pg_13___Girl_PE_Attire.jpg" style="width:24%" align="right">
+<img src="/images/Girl_s_New_Uniform.jpg" style="width:19.8%" align="right"><br clear="left">
 
-<p align="center">Our School Rules</p>
+<p align="left"><b>Our School Rules</b></p>
 
 **2 \. Looking after Personal Belongings**
 
