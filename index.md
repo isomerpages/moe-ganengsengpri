@@ -42,13 +42,13 @@ sections:
           description: PDF slides for parents
           linktext: Click here to view
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
+        - title: P4 SBB Briefing 2024
+          description: ""
+          linktext: Click here to view
+          url: https://movingstillsphotography.shootproof.com/gallery/20520170/album/16336550
         - title: P5 & P6 Meet-The-Parents Session 2024
           description: PDF slides for parents
           linktext: Click here to view
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
-        - title: GESPS Excellers' Day 2023
-          description: 15 Nov 2023       - Event and prize presentation photos (For P6 only)
-          linktext: Click here to view
-          url: https://movingstillsphotography.shootproof.com/gallery/20520170/album/16336550
       subtitle: OUR
 ---
