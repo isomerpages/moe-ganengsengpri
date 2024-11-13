@@ -42,13 +42,13 @@ sections:
           description: PDF slides for parents
           linktext: Click here to view
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
-        - title: P4 SBB Briefing 2024
-          description: ""
-          linktext: Click here to view
-          url: https://movingstillsphotography.shootproof.com/gallery/20520170/album/16336550
         - title: P5 & P6 Meet-The-Parents Session 2024
           description: PDF slides for parents
           linktext: Click here to view
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
+        - title: P4 SBB Briefing 2024
+          description: ""
+          linktext: Click here to view
+          url: files/P4_SBB_Parent_Engagement_2024_for_website.pdf
       subtitle: OUR
 ---
