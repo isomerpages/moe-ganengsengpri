@@ -18,7 +18,7 @@ variant: markdown
 [Meet-The-Parents Session (PDF)](https://go.gov.sg/gesps-p3p4-mtp-2024) - 2024
 
 ##### Primary 4
-[Primary 4 SBB (PDF)](https://for.edu.sg/gesps-p4sbb-slides2023) - 2023<br>
+ [P4 SBB Parent Engagement (PDF)](https://go.gov.sg/gesps-p4-sbb-2024)- 2024<br>
 [Meet-The-Parents Session (PDF)](https://go.gov.sg/gesps-p3p4-mtp-2024) - 2024
 
 

@@ -46,9 +46,9 @@ sections:
           description: PDF slides for parents
           linktext: Click here to view
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
-        - title: GESPS Excellers' Day 2023
-          description: 15 Nov 2023       - Event and prize presentation photos (For P6 only)
+        - title: P4 SBB Briefing 2024
+          description: ""
           linktext: Click here to view
-          url: https://movingstillsphotography.shootproof.com/gallery/20520170/album/16336550
+          url: https://go.gov.sg/gesps-p4-sbb-2024
       subtitle: OUR
 ---
