@@ -49,6 +49,6 @@ sections:
         - title: P4 SBB Briefing 2024
           description: ""
           linktext: Click here to view
-          url: files/P4_SBB_Parent_Engagement_2024_for_website.pdf
+          url: https://go.gov.sg/gesps-p4-sbb-2024
       subtitle: OUR
 ---
