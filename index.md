@@ -34,10 +34,10 @@ sections:
       title: Bulletin Board
       id: textcards
       cards:
-        - title: P1 & P2 Meet-The-Parents Session 2024
+        - title: P1 Orientation 2024
           description: PDF slides for parents
           linktext: Click here to view
-          url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
+          url: https://go.gov.sg/gesps-p1orientation-2024
         - title: P3 & P4 Meet-The-Parents Session 2024
           description: PDF slides for parents
           linktext: Click here to view
@@ -47,7 +47,7 @@ sections:
           linktext: Click here to view
           url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
         - title: P4 SBB Briefing 2024
-          description: ""
+          description: PDF slides for parents
           linktext: Click here to view
           url: https://go.gov.sg/gesps-p4-sbb-2024
       subtitle: OUR
