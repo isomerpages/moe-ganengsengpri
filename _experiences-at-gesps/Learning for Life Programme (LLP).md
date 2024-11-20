@@ -22,4 +22,33 @@ These attributes are fostered through an Experiential Learning and Place-Respons
 *  Orientation programmes for P3 to P5 students which encompass outdoor learning activities
 *  Level wide sports competitions
 
-(img align="left" style /images/LLP_1.jpg)
+<img src="/images/LLP_1.jpg" style="width:59%" align="left">
+<img src="/images/LLP_2.jpg" style="width:38.5%" align="right"><br clear="left"><br>
+<img src="/images/LLP_3.jpg" style="width:50%" align="right">
+<img src="/images/LLP_4.jpg" style="width:47%" align="left"><br clear="left"><br>
+<img src="/images/LLP_5.jpg" style="width:60%" align="center">
+
+**Tier 2 (Stretching the Potential of Students &nbsp;with Greater Interests / Aptitude)**
+*  Modular Sports for P3 students, provide opportunities for students to explore different sports before specializing.
+*  Cluster schools collaboration for sports
+*  SANDBOX programmes to engage our High Needs Students after school ( e.g. roller blading, Golf, Archery, Shooting etc. )
+*  Sports Enrichment Modules: covering injury management, sports nutrition, physical strength training and mental training, ensuring a holistic approach to sports education.
+
+<img src="/images/LLP_6.jpg" style="width:48.2%" align="left">
+<img src="/images/LLP_7.jpg" style="width:49.9%" align="right"><br clear="left"><br>
+<img src="/images/LLP_9.jpg" style="width:49%" align="left">
+<img src="/images/LLP_10.jpg" style="width:47.4%" align="right"><br clear="left"><br>
+<img src="/images/LLP_8.jpg" style="width:60%" align="center">
+
+
+**Partnerships Supporting LLP Objectives**
+
+Some of our partners&nbsp; who play a vital role in achieving the objectives of the LLP:
+
+*   **Bukit Merah Secondary School**: We share sporting facilities, such as their field, for Modular CCAs.
+*   **River Valley Primary School**: Collaborative opportunities, such as the P5 camp, NSG, and Uniformed Groups camps, allow our students to interact with their peers from other schools, enhancing their communication and teamwork skills.
+*   **SMU Sports Union Volunteers**: They support our SANDBOX and SANDBOX+ programmes, helping to engage students in meaningful and active pursuits.
+
+<img src="/images/LLP_11.jpg" style="width:48.3%" align="left">
+<img src="/images/LLP_12.jpg" style="width:49%" align="right"><br clear="left"><br>
+Through these comprehensive programmes and partnerships, we are committed to developing students who are not only physically active but also adaptive thinkers, effective communicators, and responsible citizens. Our teachers, empowered through continuous professional development, play a pivotal role in this journey, ensuring that our students emerge as well-rounded individuals ready to face the challenges of the future.
