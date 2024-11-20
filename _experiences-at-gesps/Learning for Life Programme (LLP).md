@@ -22,3 +22,4 @@ These attributes are fostered through an Experiential Learning and Place-Respons
 *  Orientation programmes for P3 to P5 students which encompass outdoor learning activities
 *  Level wide sports competitions
 
+(img align="left" style /images/LLP_1.jpg)
