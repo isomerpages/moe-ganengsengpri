@@ -38,17 +38,17 @@ sections:
           description: PDF slides for parents
           linktext: Click here to view
           url: https://go.gov.sg/gesps-p1orientation-2024
-        - title: P3 & P4 Meet-The-Parents Session 2024
-          description: PDF slides for parents
-          linktext: Click here to view
-          url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
-        - title: P5 & P6 Meet-The-Parents Session 2024
-          description: PDF slides for parents
-          linktext: Click here to view
-          url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
         - title: P4 SBB Briefing 2024
           description: PDF slides for parents
           linktext: Click here to view
           url: https://go.gov.sg/gesps-p4-sbb-2024
+        - title: Resources for Parents with P6 child
+          description: PDF file
+          linktext: Click here to view
+          url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
+        - title: Resources for P6 students
+          description: PDF file
+          linktext: Click here to view
+          url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
       subtitle: OUR
 ---
