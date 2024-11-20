@@ -45,10 +45,10 @@ sections:
         - title: Resources for Parents with P6 child
           description: PDF file
           linktext: Click here to view
-          url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
+          url: https://go.gov.sg/gesps-resources-for-parents-with-p6child
         - title: Resources for P6 students
           description: PDF file
           linktext: Click here to view
-          url: https://www.ganengsengpri.moe.edu.sg/quick-links/For-Parents/links/
+          url: https://go.gov.sg/gesps-recource-for-p6students
       subtitle: OUR
 ---
