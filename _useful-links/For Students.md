@@ -26,6 +26,7 @@ variant: markdown
 *   **[New PSLE Scoring System Explainer 1](https://go.gov.sg/psle-explainer-1)&nbsp;(YouTube video)**
 *   **[New PSLE Scoring System Explainer 2](https://go.gov.sg/psle-explainer-2)&nbsp;(YouTube video)**
 *   **[Post PSLE: Choosing a Secondary School](https://go.gov.sg/postpsle-choosing-a-secondary-school)&nbsp;(YouTube video)**
+*   **[Resources for P6 Students](https://go.gov.sg/gesps-recource-for-p6students)**
 
 #### User Guides
 * [**SLS Profile Customization (e.g Add Email Address, password reset etc...)**](https://www.learning.moe.edu.sg/student-user-guide/customise/set-password-reset-email-address/)
