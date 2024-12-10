@@ -9,7 +9,7 @@ variant: markdown
 
 **3 Perseverance**  
 *   Form Teacher: **[Ms Tan See Kin](mailto:tan_see_kin@schools.gov.sg)**
-*   Form Teacher: ****
+*   Form Teacher: **[Ms Lin Yingru](mailto:lin_yingru@schools.gov.sg)**
 
 **3 Inclusiveness**  
 *   Form Teacher: **[Mr Rashidi](mailto:muhammad_rashidi_ramli@schools.gov.sg)**
