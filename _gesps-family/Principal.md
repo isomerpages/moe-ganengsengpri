@@ -8,7 +8,7 @@ variant: markdown
 
 <img src="/images/Mr Roy (edited).jpg" style="width:35%; margin-right:20px; vertical-align:middle;" align="left">
 
-<p align="justify">In Gan Eng Seng Primary School, we have a &nbsp;strong culture of care and learning amongst the students and staff as well as the partnership we have with our parents and different stakeholders. So thank you all and we look forward to 2024 as we continue to provide all&nbsp;GESPians&nbsp;with a holistic education in a caring, safe and positive learning environment for them to learn for life.<br></p>
+<p align="justify">In Gan Eng Seng Primary School, we have a &nbsp;strong culture of care and learning amongst the students and staff as well as the partnership we have with our parents and different stakeholders. So thank you all and we look forward to 2025 as we continue to provide all <i>GESPians</i> with a holistic education in a caring, safe and positive learning environment for them to learn for life.<br></p>
 
 **_Our Vision: Learners with Grit, Citizens with Heart_**
 
@@ -51,4 +51,5 @@ variant: markdown
 Yours sincerely
 
 Roy Lee  
+Principal<br>
 [roy_lee@schools.gov.sg](mailto:roy_lee@schools.gov.sg)
