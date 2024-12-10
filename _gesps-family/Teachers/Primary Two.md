@@ -10,18 +10,16 @@ variant: markdown
 **2 Self-Discipline**
 
 *   Form Teacher: **[Mrs Margaret Lim](mailto:low_hong_mei_margaret@schools.gov.sg)**
-*   Form Teacher: **[Ms Nurul Naqiyyah](mailto:nurul_naqiyyah_mohd_kamal@schools.gov.sg)**
+*   Form Teacher: ****
   
 **2 Perseverance**
 
-*   Form Teacher: ****
-
-*   Form Teacher: ****
+*   Form Teacher: **[Mdm Nadiah](mailto:nadiah_sheik_allahuddin@schools.gov.sg)**
+*   Form Teacher: **[Mdm Clare Linda Chee](mailto:chee_lin_gia@schools.gov.sg)**
 
 **2 Inclusiveness**
 
 *   Form Teacher: **[Mdm Tan Geok Kian](mailto:tan_geok_kian@schools.gov.sg)**
-
 *   Form Teacher: **[Ms Irene Koh](mailto:irene_koh@schools.gov.sg)**
 
 **2 Respect**  
@@ -32,5 +30,4 @@ variant: markdown
 **2 Empathy**
 
 *   Form Teacher: **[Mrs Angeline Ng](mailto:angeline_ong_ling_ling@schools.gov.sg)**
-
 *   Form Teacher: **[Mdm Aafreen](mailto:a_aafreen_fathima@schools.gov.sg)**
