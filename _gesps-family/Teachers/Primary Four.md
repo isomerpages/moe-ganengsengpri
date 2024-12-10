@@ -22,4 +22,3 @@ variant: markdown
 **4 Empathy**  
 *   Form Teacher: **[Mdm Suriyah](mailto:suriyah_mohamed_noor@schools.gov.sg)**
 *   Form Teacher: **[Mr Zheng Xu](mailto:zheng_xu@schools.gov.sg)**
-*   
