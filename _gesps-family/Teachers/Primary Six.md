@@ -20,7 +20,7 @@ variant: markdown
 
 **6 Perseverance**
 
-*   Form Teacher: **[Ms Regina Yip](mailto:yip_lai_kuan@schools.gov.sg)**
+*   Form Teacher: **[Ms Ong Pei Ling](mailto:ong_pei_ling@schools.gov.sg)**
 *   Form Teacher: **[Mdm Swathy](mailto:swathy_muralidharan@schools.gov.sg)**
 
 **6 Inclusiveness**
