@@ -14,7 +14,7 @@ variant: markdown
   
 **2 Perseverance**
 
-*   Form Teacher: **[Ms Lim Seow Eng](mailto:lim_seow_eng@schools.gov.sg)**
+*   Form Teacher: ****
 
 *   Form Teacher: **[Mdm Teo Siew Ping](mailto:teo_siew_ping_paulyne@schools.gov.sg)**
 
@@ -26,8 +26,7 @@ variant: markdown
 
 **2 Respect**  
 
-*   Form Teacher: **[Mrs Lee Chia Ling](mailto:sum_chia_ling@schools.gov.sg)**
-
+*   Form Teacher: **[Ms Patricia Goh](mailto:goh_ley_hoon_patricia@schools.gov.sg)**
 *   Form Teacher: **[Mdm Alleda](mailto:alleda_baba@schools.gov.sg)**  
 
 **2 Empathy**
