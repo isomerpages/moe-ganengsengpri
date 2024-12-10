@@ -15,7 +15,7 @@ variant: markdown
 
 **3 Inclusiveness**  
 
-*   Form Teacher: **[Mr Gerald Say](mailto:say_tiong_sin_gerald@schools.gov.sg)**
+*   Form Teacher: **[Mr Rashidi](mailto:muhammad_rashidi_ramli@schools.gov.sg)**
 *   Form Teacher: **[Mdm Chen Hsueh Lien](mailto:chen_hsueh_lien@schools.gov.sg)**
 
   
