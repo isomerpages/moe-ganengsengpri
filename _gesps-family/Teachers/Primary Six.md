@@ -15,7 +15,6 @@ variant: markdown
 *   Form Teacher: **[Mrs Lilian Lim](mailto:ho_lilian@schools.gov.sg)**
 *   Form Teacher: **[Mdm Khairyanie](mailto:Khairyanie_Kamsani@schools.gov.sg)**
 
-
 **6 Respect**
 *   Form Teacher: **[Mr Goh Zhao Xiong](mailto:goh_zhao_xiong@schools.gov.sg)**
 *   Form Teacher: **[Ms Chong Chyi Ling](mailto:chong_chyi_ling@schools.gov.sg)**
