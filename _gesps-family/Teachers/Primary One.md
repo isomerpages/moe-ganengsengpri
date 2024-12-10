@@ -25,9 +25,10 @@ variant: markdown
 **1 Respect**  
 
 *   Form Teacher: **[Mrs Dorcas Chan](mailto:koh_kah_fong_dorcas@schools.gov.sg)**
+*   Form Teacher: **[Mrs Ariff](mailto:rabiah_bibi_ahmed_mitten@schools.gov.sg)**
 *   Form Teacher: ****
 
 **1 Empathy**
 
 *   Form Teacher: **[Mrs Esther Seah](mailto:goh_yue_yin_esther@schools.gov.sg)**
-*   Form Teacher: ****
+*   Form Teacher: **[Mrs Tang Yue Xing](mailto:kwan_yue_xing@schools.gov.sg)**
