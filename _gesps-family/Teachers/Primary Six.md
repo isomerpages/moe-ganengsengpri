@@ -25,7 +25,7 @@ variant: markdown
 
 **6 Inclusiveness**
 
-*   Form Teacher: **[Mdm Adeline Goh](mailto:adeline_goh_pei_yin@schools.gov.sg)**
+*   Form Teacher: **[Mdm Khairyanie](mailto:Khairyanie_Kamsani@schools.gov.sg)**
 *   Form Teacher: **[Mr Kelvin Lee](mailto:lee_kwee_ming_kelvin@schools.gov.sg)**
 
 
