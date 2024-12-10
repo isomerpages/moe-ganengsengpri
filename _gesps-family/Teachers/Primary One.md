@@ -14,8 +14,8 @@ variant: markdown
 
 **1 Perseverance**
 
-*   Form Teacher: **[Mdm Nadiah](mailto:nadiah_sheik_allahuddin@schools.gov.sg)**
-*   Form Teacher: **[Mdm Clare Linda Chee](mailto:chee_lin_gia@schools.gov.sg)**
+*   Form Teacher: **[Mrs Angeline Ng](mailto:angeline_ong_ling_ling@schools.gov.sg)**
+*   Form Teacher: ****
 
 **1 Inclusiveness**
 
@@ -30,5 +30,5 @@ variant: markdown
 
 **1 Empathy**
 
-*   Form Teacher: **[Ms Caroline Low](mailto:low_kwee_choo_caroline@schools.gov.sg)**
+*   Form Teacher: ****
 *   Form Teacher: **[Mdm Khairyanie](mailto:Khairyanie_Kamsani@schools.gov.sg)**
