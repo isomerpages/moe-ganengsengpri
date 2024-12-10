@@ -7,7 +7,6 @@ variant: markdown
 ---
 |  |  |
 |:---|:---|
-| **Teacher** | [Mdm Nurasilah](mailto:nurasilah_shahzan@schools.gov.sg)
 | **Teacher** | [Mdm Chua Chee Hui](mailto:chua_chee_hui@schools.gov.sg)
 | **Teacher** | [Ms Tan Kah Heok](mailto:Tan_Kah_Heok@schools.gov.sg)
 | **Teacher** | [Mdm Tan Siang Noi](mailto:Tan_Siang_Noi@schools.gov.sg)
