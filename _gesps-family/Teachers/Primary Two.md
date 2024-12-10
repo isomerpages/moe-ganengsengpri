@@ -19,15 +19,16 @@ variant: markdown
 
 **2 Inclusiveness**
 
-*   Form Teacher: ****
-*   Form Teacher: **[Ms Irene Koh](mailto:irene_koh@schools.gov.sg)**
+*   Form Teacher: **[Ms Nga Lee Choon](mailto:nga_lee_choon@schools.gov.sg)**
+*   Form Teacher: ***
 
 **2 Respect**  
 
 *   Form Teacher: **[Ms Patricia Goh](mailto:goh_ley_hoon_patricia@schools.gov.sg)**
-*   Form Teacher: **[Mdm Alleda](mailto:alleda_baba@schools.gov.sg)**  
+*   Form Teacher: **[Mdm Aafreen](mailto:a_aafreen_fathima@schools.gov.sg)**  
+*   [Mdm Alleda](mailto:alleda_baba@schools.gov.sg)
 
 **2 Empathy**
 
-*   Form Teacher: **[Mrs Angeline Ng](mailto:angeline_ong_ling_ling@schools.gov.sg)**
-*   Form Teacher: **[Mdm Aafreen](mailto:a_aafreen_fathima@schools.gov.sg)**
+*   Form Teacher: ****
+*   Form Teacher: **[Mr Lai Chee Hau](mailto:lai_chee_hau@schools.gov.sg)**
