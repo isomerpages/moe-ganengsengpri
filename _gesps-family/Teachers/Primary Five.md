@@ -20,7 +20,7 @@ variant: markdown
 *   Form Teacher: **[Mrs Bhama](mailto:sathiya_bhama_arasan@schools.gov.sg)**
 
 **5 Inclusiveness**
-*   Form Teacher: **[Mrs Lilian Lim](mailto:ho_lilian@schools.gov.sg)**
+*   Form Teacher: **[Mr David Tan](mailto:tan_hong_meng_david@schools.gov.sg)**
 *   Form Teacher: **[Ms Siti Noraini](mailto:siti_noraini_ibrahim@schools.gov.sg)**
 
 **5 Respect**
