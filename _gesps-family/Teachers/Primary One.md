@@ -10,7 +10,8 @@ variant: markdown
 **1 Self-Discipline**
 
 *   Form Teacher: **[Ms Junity Tay](mailto:junity_tay@schools.gov.sg)**
-*   Form Teacher: **[Mdm Li Ying](mailto:li_ying@schools.gov.sg)**
+*   Form Teacher: **[Mdm Teo Siew Ping](mailto:teo_siew_ping_paulyne@schools.gov.sg)**
+*   [Mdm Li Ying](mailto:li_ying@schools.gov.sg)
 
 **1 Perseverance**
 
