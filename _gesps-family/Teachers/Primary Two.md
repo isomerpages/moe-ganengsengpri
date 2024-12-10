@@ -16,7 +16,7 @@ variant: markdown
 
 *   Form Teacher: ****
 
-*   Form Teacher: **[Mdm Teo Siew Ping](mailto:teo_siew_ping_paulyne@schools.gov.sg)**
+*   Form Teacher: ****
 
 **2 Inclusiveness**
 
