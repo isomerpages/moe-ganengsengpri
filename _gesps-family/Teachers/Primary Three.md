@@ -15,7 +15,6 @@ variant: markdown
 *   Form Teacher: **[Mr Rashidi](mailto:muhammad_rashidi_ramli@schools.gov.sg)**
 *   Form Teacher: **[Mdm Diana Toh](mailto:toh_lay_beng_diana@schools.gov.sg)**
 
-  
 **3 Respect**  
 *   Form Teacher: **[Mrs Chin-Lee Siew Gin](mailto:chin-lee_siew_gin@schools.gov.sg)**
 *   Form Teacher: **[Mdm Anglie Ng](mailto:ng_sor_ling_anglie@schools.gov.sg)**
