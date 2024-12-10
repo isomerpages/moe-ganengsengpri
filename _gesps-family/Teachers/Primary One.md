@@ -19,7 +19,7 @@ variant: markdown
 
 **1 Inclusiveness**
 
-*   Form Teacher: **[Ms Nga Lee Choon](mailto:nga_lee_choon@schools.gov.sg)**
+*   Form Teacher: **[Mdm Tan Geok Kian](mailto:tan_geok_kian@schools.gov.sg)**
 *   Form Teacher: **[Ms Nurul Naqiyyah](mailto:nurul_naqiyyah_mohd_kamal@schools.gov.sg)**
 *   [Mdm Cai Zhiying](mailto:cai_zhiying@schools.gov.sg)
 
