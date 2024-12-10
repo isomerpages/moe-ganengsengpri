@@ -19,7 +19,7 @@ variant: markdown
 
 **2 Inclusiveness**
 
-*   Form Teacher: **[Mdm Tan Geok Kian](mailto:tan_geok_kian@schools.gov.sg)**
+*   Form Teacher: ****
 *   Form Teacher: **[Ms Irene Koh](mailto:irene_koh@schools.gov.sg)**
 
 **2 Respect**  
