@@ -24,7 +24,8 @@ variant: markdown
 *   Form Teacher: **[Ms Siti Noraini](mailto:siti_noraini_ibrahim@schools.gov.sg)**
 
 **5 Respect**
-*   Form Teacher: **[Mr Goh Zhao Xiong](mailto:goh_zhao_xiong@schools.gov.sg)**
+*   Form Teacher: **[Mr Kelvin Lee](mailto:lee_kwee_ming_kelvin@schools.gov.sg)**
+*   [Mr Goh Zhao Xiong](mailto:goh_zhao_xiong@schools.gov.sg)
 *   Form Teacher: **[Ms Chong Chyi Ling](mailto:chong_chyi_ling@schools.gov.sg)**
 
 **5 Empathy**
