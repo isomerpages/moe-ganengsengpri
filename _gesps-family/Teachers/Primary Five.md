@@ -13,7 +13,7 @@ variant: markdown
 
 **5 Self-Discipline**  
 *   Form Teacher: **[Ms Regina Yip](mailto:yip_lai_kuan@schools.gov.sg)**
-*   Form Teacher: ****
+*   Form Teacher: **[Mdm Wong Oi Lee](mailto:wong_oi_lee@schools.gov.sg)**
 
 **5 Perseverance**  
 *   Form Teacher: **[Mdm Adeline Goh](mailto:adeline_goh_pei_yin@schools.gov.sg)**
@@ -31,4 +31,3 @@ variant: markdown
 **5 Empathy**
 *   Form Teacher: **[Ms Jess Chan](mailto:chan_hoon_seah@schools.gov.sg)**
 *   Form Teacher: **[Mr John Tan](mailto:john_tan_chong_jin@schools.gov.sg)**
-
