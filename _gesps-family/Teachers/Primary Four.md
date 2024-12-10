@@ -26,7 +26,7 @@ variant: markdown
 
 **4 Inclusiveness**  
 
-*   Form Teacher: **[Mr Rashidi](mailto:muhammad_rashidi_ramli@schools.gov.sg)**
+*   Form Teacher: ****
 *   Form Teacher: **[Mdm Diana Toh](mailto:toh_lay_beng_diana@schools.gov.sg)**
 
 **4 Respect**  
