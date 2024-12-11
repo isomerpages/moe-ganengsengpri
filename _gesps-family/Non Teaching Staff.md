@@ -18,8 +18,8 @@ variant: markdown
 | **School Counsellor** | [Ms Nazeera Yacob](mailto:nazeera_mohamed_yacob@schools.gov.sg) |
 | **Student Welfare Officer** | [Ms Ling Jennie](mailto:ling_jennie@schools.gov.sg) |
 | **Special Educational Needs Officer** | [Ms Wendy Ho](mailto:ho_wendy@schools.gov.sg) |
-| **Special Educational Needs Officer** | [Mdm Kon Wai Fuang](mailto:kon_wai_fuang@schools.gov.sg) |
 | **Special Educational Needs Officer** | [Ms Nazreth Begum](mailto:nazreth_begum_shaik_alawoodeen@schools.gov.sg) |
+| **Special Educational Needs Officer** | [Mdm Kariynn Seah](mailto:karilynn_seah_xin_fang@schools.gov.sg) |
 | **Operation Support Officer** | Ms Saroja Thevi |
 | **Operation Support Officer** | Ms Zeenath Begum |
 | **Operation Support Officer** | Mdm Santi |
