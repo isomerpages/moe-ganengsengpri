@@ -23,7 +23,7 @@ variant: markdown
 | **Flexi-Adjunct Teacher** | [Mrs Nathan](mailto:Kanapathipillai_Jayamalar@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mrs Shawn Low](mailto:shawn_lok@schools.gov.sg)
 | **Flexi-Adjunct Teacher** | [Mdm Tan Lay Leng - (Mrs Kwan)](mailto:tan_lay_leng_a@schools.gov.sg)
-| **Flexi-Adjunct Teacher** | [Mdm Dong Jing Jing](mailto:dong_jingjing@schools.gov.sg)
-| **Flexi-Adjunct Teacher** | [Ms Lim Li Ling](mailto:lim_li_ling@schools.gov.sg)
+| **Flexi-Adjunct Teacher** | [Ms Dong Jing Jing](mailto:dong_jingjing@schools.gov.sg)
+| **Flexi-Adjunct Teacher** | [Mrs Lim Li Ling](mailto:lim_li_ling@schools.gov.sg)
 | **Flexi-Adjunct Teacher (UPLIFT)** | [Mdm Wong Sook Yee](mailto:wong_sook_yee_a@schools.gov.sg)
 |  |  |
