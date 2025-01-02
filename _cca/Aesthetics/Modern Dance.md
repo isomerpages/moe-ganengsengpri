@@ -34,7 +34,7 @@ variant: markdown
 
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate physical skills and attributes (such as flexibility, control, strength, coordination, balance, posture); technical skills (timing, rhythmic, action, spatial), expressive skills, mental skills (memory, concentration, confidence).
 
-Students explore their passion for dance through Modern Dance. They develop creativity, contribute to choreography, and perform and contribute at various events like Singapore Youth Festival and our community like the Radin Mas National Day observance ceremony. Through these opportunities, students get to learn about the culture, build values and friendship, developing a resilient approach as they work together to strive for excellence.<p></p>
+Students explore their passion for dance through Modern Dance. They develop creativity, contribute to choreography, and perform and contribute at various events like Singapore Youth Festival and our community like the Radin Mas National Day observance ceremony. Through these opportunities, students get to learn about the culture, build values and friendship, developing a resilient approach as they work together to strive for excellence.
 
 
 <img src="/images/Evoking_emotion_through_their_dances__resize_.jpg" style="width:100%" align="center">
@@ -42,4 +42,4 @@ Students explore their passion for dance through Modern Dance. They develop crea
 
 <img src="/images/Learning_different_dance_forms__resize_.jpg" style="width:49%" align="left">
 <img src="/images/Using_dance_to_come_together_as_one__resize_.jpg" style="width:49%" align="right">
-<br clear="left"><br><p></p>
+<br clear="left"><br>
