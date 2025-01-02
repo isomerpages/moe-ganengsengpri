@@ -14,27 +14,27 @@ Modern Dance CCA specialises in Contemporary Dance and it aims to nurture and de
 
 **Learning Outcomes**:&nbsp;
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To nurture students to express their emotions, thoughts and creativity through dance choreography
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To nurture students to express their emotions, thoughts and creativity through dance choreography.
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable students to learn the techniques of Contemporary Dance
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable students to learn the techniques of Contemporary Dance.
 
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable students to learn values of teamwork, discipline and perseverance
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable students to learn values of teamwork, discipline and perseverance.
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To encourage all dancers to strive for excellence and enjoy the journey along the way.
 
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To provide platforms for students to participate in school events, external dance performances
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To provide platforms for students to participate in school events, external dance performances.
 
 **CCA-specific skills**
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be familiar with basic Modern dance vocabulary and dance movements.
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be able to apply skills learnt in the course to choreograph their own short dance piece to improve their creativity and improvisational skills
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be able to apply skills learnt in the course to choreograph their own short dance piece to improve their creativity and improvisational skills.
 
 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate safe practices during technique trainings, rehearsals and performances.
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate teamwork and coordination between dancers, showing clear dance formations and smooth group movements.
 
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate physical skills and attributes (such as flexibility, control, strength, coordination, balance, posture); technical skills (timing, rhythmic, action, spatial), expressive skills, mental skills (memory, concentration, confidence)
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate physical skills and attributes (such as flexibility, control, strength, coordination, balance, posture); technical skills (timing, rhythmic, action, spatial), expressive skills, mental skills (memory, concentration, confidence).
 
 Students explore their passion for dance through Modern Dance. They develop creativity, contribute to choreography, and perform and contribute at various events like Singapore Youth Festival and our community like the Radin Mas National Day observance ceremony. Through these opportunities, students get to learn about the culture, build values and friendship, developing a resilient approach as they work together to strive for excellence.
 
