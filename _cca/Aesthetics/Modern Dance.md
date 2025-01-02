@@ -36,17 +36,10 @@ variant: markdown
 
 Students explore their passion for dance through Modern Dance. They develop creativity, contribute to choreography, and perform and contribute at various events like Singapore Youth Festival and our community like the Radin Mas National Day observance ceremony. Through these opportunities, students get to learn about the culture, build values and friendship, developing a resilient approach as they work together to strive for excellence.</p>
 
-![Evoking Emotion Through Their Dances](/images/Evoking_emotion_through_their_dances__resize_.jpg)
-
-![Learning Different Dance Forms](/images/Learning_different_dance_forms__resize_.jpg)
-
-![Using Dance To Come Together As One](/images/Using_dance_to_come_together_as_one__resize_.jpg)
 
 <img src="/images/Evoking_emotion_through_their_dances__resize_.jpg" style="width:100%" align="center">
 <br clear="left">
 
-<img src="/images/cca_cd1.jpg" style="width:49%" align="left">
-<img src="/images/cca_cd3.jpg" style="width:49%" align="right">
+<img src="/images/Learning_different_dance_forms__resize_.jpg" style="width:49%" align="left">
+<img src="/images/Using_dance_to_come_together_as_one__resize_.jpg" style="width:49%" align="right">
 <br clear="left"><br>
-
-<img src="/images/cca_cd4.jpg" style="width:100%" align="left">
