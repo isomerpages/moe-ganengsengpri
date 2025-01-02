@@ -8,9 +8,9 @@ variant: markdown
 **Teacher 1 I/C:**&nbsp;**[Mdm Lee Kai Xin](mailto:lee_kai_xin@schools.gov.sg)** <br>
 **Teacher 2 I/C:**&nbsp;**[Mrs Sukumar](mailto:subangkini_sukumar@schools.gov.sg)**  
   
-<p align="justify">Modern Dance CCA specialises in Contemporary Dance and it aims to nurture and develop students to become all-rounded dance performers. In this CCA, the students will learn to appreciate the different dance forms pertaining to Contemporary Dance. Students will understand that a choreographed dance is a creation of movements to match a dancer’s feelings and purpose. They will be given the opportunities to express their feelings and creativity through movement and rhythm during practices or performances.
+<p align="justify">Modern Dance CCA specialises in Contemporary Dance and it aims to nurture and develop students to become all-rounded dance performers. In this CCA, the students will learn to appreciate the different dance forms pertaining to Contemporary Dance. Students will understand that a choreographed dance is a creation of movements to match a dancer’s feelings and purpose. They will be given the opportunities to express their feelings and creativity through movement and rhythm during practices or performances.</p>
 
-**Learning Outcomes**:&nbsp;
+**Learning Outcomes**:
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To nurture students to express their emotions, thoughts and creativity through dance choreography.
 
@@ -34,7 +34,7 @@ variant: markdown
 
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate physical skills and attributes (such as flexibility, control, strength, coordination, balance, posture); technical skills (timing, rhythmic, action, spatial), expressive skills, mental skills (memory, concentration, confidence).
 
-Students explore their passion for dance through Modern Dance. They develop creativity, contribute to choreography, and perform and contribute at various events like Singapore Youth Festival and our community like the Radin Mas National Day observance ceremony. Through these opportunities, students get to learn about the culture, build values and friendship, developing a resilient approach as they work together to strive for excellence.</p>
+Students explore their passion for dance through Modern Dance. They develop creativity, contribute to choreography, and perform and contribute at various events like Singapore Youth Festival and our community like the Radin Mas National Day observance ceremony. Through these opportunities, students get to learn about the culture, build values and friendship, developing a resilient approach as they work together to strive for excellence.<p></p>
 
 
 <img src="/images/Evoking_emotion_through_their_dances__resize_.jpg" style="width:100%" align="center">
