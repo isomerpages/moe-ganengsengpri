@@ -25,4 +25,4 @@ variant: markdown
 
 **2 Empathy**
 *   Form Teacher: **[Ms Caroline Low](mailto:low_kwee_choo_caroline@schools.gov.sg)**
-*   Form Teacher: **[Mr Lai Chee Hau](mailto:lai_chee_hau@schools.gov.sg)**
+*   Form Teacher: **[Mr Caleb Lai](mailto:lai_chee_hau@schools.gov.sg)**
