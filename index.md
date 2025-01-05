@@ -34,10 +34,10 @@ sections:
       title: Bulletin Board
       id: textcards
       cards:
-        - title: P1 Orientation 2024
+        - title: P1 Orientation 2025
           description: PDF slides for parents
           linktext: Click here to view
-          url: https://go.gov.sg/gesps-p1orientation-2024
+          url: https://go.gov.sg/gesps-p1orientation-2025
         - title: P4 SBB Briefing 2024
           description: PDF slides for parents
           linktext: Click here to view
