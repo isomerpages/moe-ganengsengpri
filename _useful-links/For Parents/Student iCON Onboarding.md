@@ -3,6 +3,7 @@ title: Student iCON Onboarding
 permalink: /quick-links/For-Parents/icon-onboarding/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 #### FAQs on Student ICON for Parents
 
@@ -14,7 +15,7 @@ third_nav_title: For Parents
 **2. Must I onboard my child?** 
 <p align="justify">Parents are strongly encouraged to onboard their children to Student iCON as this will be the common student identity for all MOE Central systems and utilised by students from primary schools to junior colleges / Millennia Institute.<br>
 	
-</p><p align="justify">In addition, with the planned rollout of Microsoft Office ProPlus and Zoom to students later this year, students will be required to use their Student iCON email addresses to access these apps for learning. </p>
+</p><p align="justify">In addition, with the planned rollout of Microsoft Office ProPlus to students later this year, students will be required to use their Student iCON email addresses to access these apps for learning. </p>
 	
 ![](/images/student%20icon%20fig2.PNG)
 
