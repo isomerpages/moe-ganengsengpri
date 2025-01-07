@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: markdown
 ---
 **Teacher 1 I/C:**&nbsp;**[Mrs Dorcas Chan](mailto:koh_kah_fong_dorcas@schools.gov.sg)**<br>
-**Teacher 2 I/C:**&nbsp;**[Ms Irene Koh](mailto:irene_koh@schools.gov.sg)**  
+**Teacher 2 I/C:**&nbsp;**[Mr Poon Yain Ping](mailto:poon_yain_ping@schools.gov.sg)**  
 
 The Boys’ Brigade is an Uniformed Group Co-Curricular Activity for boys from primary 3 to primary 6. It aims to:
 

@@ -6,7 +6,7 @@ third_nav_title: Sports
 variant: markdown
 ---
 **Teacher 1 I/C:**&nbsp;**[Mrs Margaret Lim](mailto:low_hong_mei_margaret@schools.gov.sg)**<br>
-**Teacher 2 I/C:**&nbsp;**[Mrs Evelyn Loh](mailto:soh_hwee_lin@schools.gov.sg)**
+**Teacher 2 I/C:**&nbsp;**[Ms Jess Chan](mailto:chan_hoon_seah@schools.gov.sg)**
 
 
   
