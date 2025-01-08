@@ -29,9 +29,14 @@ variant: markdown
 *   **[Resources for P6 Students](https://go.gov.sg/gesps-recource-for-p6students)**
 
 #### User Guides
-* [**SLS Profile Customization (e.g Add Email Address, password reset etc...)**](https://www.learning.moe.edu.sg/student-user-guide/customise/set-password-reset-email-address/)
-* [**SLS Login Troubleshooting**](https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/)
-* [**Student User Guide - Explore SLS**](https://www.learning.moe.edu.sg/student-user-guide/index/)
+
+* **MIMS Portal**<br>
+[Set-up your Challenge Questions](/files/Posters_MIMS_SSPR_Guide.pdf)
+
 * **Student iCON**<br>
 [Google Takeout Guide for Student iCON ](/files/For_Graduating_Students__Google_Takeout_Guide_for_Student_iCON__2024_.pdf)<br>
 [Quick Guide on Student iCON Data Management](/files/For_Student_All_Levels__Quick_Guide_on_Student_iCON_Data_Management.pdf)
+* [**SLS Profile Customization (e.g Add Email Address, password reset etc...)**](https://www.learning.moe.edu.sg/student-user-guide/customise/set-password-reset-email-address/)
+* [**SLS Login Troubleshooting**](https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/)
+* [**Student User Guide - Explore SLS**](https://www.learning.moe.edu.sg/student-user-guide/index/)
+
