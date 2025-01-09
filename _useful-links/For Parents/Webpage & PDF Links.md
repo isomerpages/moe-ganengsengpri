@@ -6,7 +6,8 @@ third_nav_title: For Parents
 variant: markdown
 ---
 ##### All levels
-\-&nbsp;[Parents in Education](https://www.schoolbag.edu.sg/)
+[Microsoft Teams Login](/files/Microsoft_login__for_parents__compressed.pdf)<br>
+[Parents in Education](https://www.schoolbag.edu.sg/)
 
 ##### Primary 1
 [Meet-The-Parents Session (PDF)](https://go.gov.sg/gesps-p1-mtp-2024) - 2024<br>
