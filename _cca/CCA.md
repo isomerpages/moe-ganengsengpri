@@ -4,21 +4,56 @@ permalink: /gesps-cce-experiences/CCA/cca/
 description: ""
 variant: markdown
 ---
-#### Primary 2 CCA Exposure Programme
-
-Co-Curricular Activities (CCA) play a pivotal role in the holistic development of our students.
-It aims to:
-
-*   help our students excel in fitness and competitive sports;
-*   discover and nurture students’ talents and interests;
-*   fuel in our students a life-long love for a particular activity, be it a sports or aesthetics pursuit;
-*   inculcate desirable values and social attitudes as well as to acquire life skills that will enable our students make informed decisions on good and healthy living;
-*   build character, team spirit, resilience and a sense of responsibility;
-*   build self-confidence.
-
-All primary 3 to primary 6 students are strongly encouraged to participate in a CCA so as to experience a more holistic school experience and students are advised to remain and excel in the CCA for their four years in GESPS. Besides developing new talents and abilities, CCAs also provide a positive environment which instils in students habits of mind that leads to the development and exhibition of the desired outcomes of a GESPian: an engaged learner, a confident individual, a responsible citizen and a successful contributor.
+#### CCAs: A Holistic Development Platform
 
 
-<img src="/images/CCA.jpg" style="width:100%">
-Mr Vai sharing with our Primary 2 students about the Modular Sports CCA during the Primary 2 CCA Exposure.
+CCAs are a key part of students’ holistic development during their primary school experience. They provide a platform for students to discover their interests and talents and realise their potential through these pursuits. Through CCAs, we aim to nurture dispositions such as **confidence**, **creative and critical thinking**, and **curiosity**, ensuring that our students are equipped with the mindset and skills to adapt and thrive in an ever-changing world.
+
+In GESPS, CCAs bring students from diverse backgrounds together, fostering friendships and deepening their sense of identity and belonging to the school and community. Beyond developing new talents and abilities, CCAs also provide a positive environment that instils habits of mind to achieve the desired outcomes of a GESPian: an engaged learner, a confident individual, a responsible citizen, and a successful contributor.
+
+Through participation in CCAs, students develop character, values, and social-emotional competencies and skills, preparing them to take on future challenges.
+
+**Participation Expectations**
+
+CCA participation in Gan Eng Seng Primary is compulsory. All Primary 3 to Primary 6 students are expected to participate in a CCA for a more holistic school experience. 
+
+Students are encouraged to remain and excel in their CCA throughout their four years in GESPS, nurturing their talents, developing values, and cultivating key dispositions that will benefit them for life.
+
+**CCAs Offered**
+
+<table style="width:517.45pt;margin-left:-14.45pt;border-collapse:collapse;
+ border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;
+ mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="690" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.7pt"><td style="width:129.35pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.7pt" width="172"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b>Sports</b></p></td><td style="width:129.35pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.7pt" width="172"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b>Performing Arts</b></p></td><td style="width:129.35pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.7pt" width="172"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b>Uniformed Groups</b></p></td><td style="width:129.4pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.7pt" width="173"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b>Clubs &amp; Societies</b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:70.85pt"><td style="width:129.35pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:70.85pt" width="172"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Badminton</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Basketball</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Floorball</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Football</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Modular Sports (P3 Only)</p></td><td style="width:129.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:70.85pt" width="172"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Band</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Choir</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Modern Dance</p></td><td style="width:129.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:70.85pt" width="172"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Boys’ Brigade</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Scouts<b></b></p></td><td style="width:129.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:70.85pt" width="173"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Art Club</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Green Explorer’s Club</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Infocomm &amp; Media Club<b></b></p></td></tr></tbody></table>
+	
+**CCA Schedule**
+
+<table style="width:517.45pt;margin-left:-14.45pt;border-collapse:collapse;
+ border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;
+ mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="690" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.7pt"><td style="width:258.7pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.7pt" width="345"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Every Monday (selected students only): 2 – 4 p.m.</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Every Friday: 2.15 – 4.15 p.m.<b></b></p></td><td style="width:258.75pt;border:solid windowtext 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:22.7pt" width="345"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Every Friday: 2.15 – 4.15 p.m.<b></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:99.2pt"><td style="width:258.7pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:99.2pt" width="345"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Badminton</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Basketball</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Floorball</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Football</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Band</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Choir</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Modern Dance</p></td><td style="width:258.75pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:99.2pt" width="345"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Modular Sports (P3 Only)</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Boys’ Brigade</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Scouts</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Art Club</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Green Explorer’s Club</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Infocomm &amp; Media Club<b></b></p></td></tr></tbody></table>
 
