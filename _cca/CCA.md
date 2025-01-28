@@ -47,7 +47,7 @@ variant: markdown
 	
 **CCA Schedule**
 
-<table style="width:517.45pt;margin-left:15.45pt;border-collapse:collapse;
+<table style="width:517.45pt;margin-left:10.45pt;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;
  mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="690" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.7pt"><td style="width:258.7pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.7pt" width="345"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Every Monday (selected students only): 2 – 4 p.m.</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Every Friday: 2.15 – 4.15 p.m.<b></b></p></td><td style="width:258.75pt;border:solid windowtext 1.0pt;border-left:
