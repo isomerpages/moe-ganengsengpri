@@ -21,7 +21,7 @@ variant: markdown
 
 **CCAs Offered**
 
-<table style="width:517.45pt;margin-left:-5.45pt;border-collapse:collapse;
+<table style="width:517.45pt;margin-left:-1.45pt;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;
  mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="690" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.7pt"><td style="width:129.35pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.7pt" width="172"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b>Sports</b></p></td><td style="width:129.35pt;border:solid windowtext 1.0pt;border-left:
@@ -47,7 +47,7 @@ variant: markdown
 	
 **CCA Schedule**
 
-<table style="width:517.45pt;margin-left:-5.45pt;border-collapse:collapse;
+<table style="width:517.45pt;margin-left:-18.45pt;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;
  mso-padding-alt:0cm 5.4pt 0cm 5.4pt" width="690" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.7pt"><td style="width:258.7pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:22.7pt" width="345"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Every Monday (selected students only): 2 – 4 p.m.</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Every Friday: 2.15 – 4.15 p.m.<b></b></p></td><td style="width:258.75pt;border:solid windowtext 1.0pt;border-left:
@@ -58,15 +58,3 @@ variant: markdown
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:99.2pt" width="345"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Modular Sports (P3 Only)</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Boys’ Brigade</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Scouts</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Art Club</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Green Explorer’s Club</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Infocomm &amp; Media Club<b></b></p></td></tr></tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
