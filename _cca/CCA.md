@@ -7,30 +7,30 @@ variant: markdown
 #### CCAs: A Holistic Development Platform
 
 
-CCAs are a key part of students’ holistic development during their primary school experience. They provide a platform for students to discover their interests and talents and realise their potential through these pursuits. Through CCAs, we aim to nurture dispositions such as **confidence**, **creative and critical thinking**, and **curiosity**, ensuring that our students are equipped with the mindset and skills to adapt and thrive in an ever-changing world.
+<p style="text-align: justify;">CCAs are a key part of students’ holistic development during their primary school experience. They provide a platform for students to discover their interests and talents and realise their potential through these pursuits. Through CCAs, we aim to nurture dispositions such as     <strong>confidence</strong>,  <strong>creative</strong> and <strong>critical thinking</strong>, and <strong>curiosity</strong>, ensuring that our students are equipped with the mindset and skills to adapt and thrive in an ever-changing world.
 
-In GESPS, CCAs bring students from diverse backgrounds together, fostering friendships and deepening their sense of identity and belonging to the school and community. Beyond developing new talents and abilities, CCAs also provide a positive environment that instils habits of mind to achieve the desired outcomes of a GESPian: an engaged learner, a confident individual, a responsible citizen, and a successful contributor.
+</p><p style="text-align: justify;"> In GESPS, CCAs bring students from diverse backgrounds together, fostering friendships and deepening their sense of identity and belonging to the school and community. Beyond developing new talents and abilities, CCAs also provide a positive environment that instils habits of mind to achieve the desired outcomes of a GESPian: an engaged learner, a confident individual, a responsible citizen, and a successful contributor.
 
-Through participation in CCAs, students develop character, values, and social-emotional competencies and skills, preparing them to take on future challenges.
+</p><p style="text-align: justify;">Through participation in CCAs, students develop character, values, and social-emotional competencies and skills, preparing them to take on future challenges.
 
-**Participation Expectations**
+</p><p style="text-align: justify; font-size: 22px;">Participation Expectations</p>
 
-CCA participation in Gan Eng Seng Primary is compulsory. All Primary 3 to Primary 6 students are expected to participate in a CCA for a more holistic school experience. 
+<p style="text-align: justify;">CCA participation in Gan Eng Seng Primary is compulsory. All Primary 3 to Primary 6 students are expected to participate in a CCA for a more holistic school experience. 
 
-Students are encouraged to remain and excel in their CCA throughout their four years in GESPS, nurturing their talents, developing values, and cultivating key dispositions that will benefit them for life.
+</p><p style="text-align: justify;">Students are encouraged to remain and excel in their CCA throughout their four years in GESPS, nurturing their talents, developing values, and cultivating key dispositions that will benefit them for life.
 
-**CCAs Offered**
+</p><p style="text-align: justify; font-size: 22px;">CCAs Offered</p>
 
-| Sports | Performing Arts | Uniformed Groups | Clubs & Societies |
+| Sports | Performing Arts | Uniformed Groups | Clubs &amp; Societies |
 | -------- | -------- | -------- | -------- |
 Badminton | Band | Boys' Brigade | Art Club |                   
 Basketball | Choir | Scouts | Green Explorer's Club     
-Floorball | Modern Dance | | Infocomm & Media Club    
+Floorball | Modern Dance | | Infocomm &amp; Media Club    
 Football
 Modular Sports (for Primary 3 students)
 
 	
-**CCA Schedule**
+<p style="text-align: justify; font-size: 22px;">CCA Schedule</p>
 
 | Every Monday (selected students only): 2 - 4 p.m. | Every Friday: 2.15 - 4.15 p.m. | 
 | -------- | -------- | 
@@ -46,6 +46,4 @@ Modular Sports (for Primary 3 students)
 |  | Scouts | 
 |  | Art Club | 
 |  | Green Explorer's Club | 
-|  | Infocomm & Media Club | 
-
-
+|  | Infocomm &amp; Media Club |
