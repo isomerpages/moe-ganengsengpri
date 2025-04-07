@@ -22,7 +22,6 @@ variant: markdown
 **5 Inclusiveness**
 *   Form Teacher: **[Mdm Elaine Lim](mailto:Elaine_Lim_Chiu_Wei@schools.gov.sg)**
 *   Form Teacher: **[Mr David Tan](mailto:tan_hong_meng_david@schools.gov.sg)**
-*   Form Teacher: **[Mdm Jacquelyn Yin](mailto:jacquelyn_yin_hui_jing@schools.gov.sg)**
 
 **5 Respect**
 *   Form Teacher: **[Ms Nur Hanisah](mailto:nur_hanisah_mohd_johari_george@schools.gov.sg)**
