@@ -18,7 +18,7 @@ i)&nbsp;School uniform
 *   Girls must wear their pinafore with the belt fastened.
 *   The name tag must be placed about 1 cm above the name of the school as shown in the pictures below.
 
-<img src="/images/Schoolconduct2023.png" style="width:85%">
+<img src="/images/School_Attire.png" style="width:85%">
 
 ii)&nbsp;School shoes and socks  
 
