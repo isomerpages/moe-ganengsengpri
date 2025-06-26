@@ -4,8 +4,6 @@ permalink: /about-us/sch-info/
 description: ""
 variant: markdown
 ---
-
-
 | Day | Reporting Time | Dismissal Time |
 |:---|:---|:---|
 |Monday to<br>Friday|By 7.30 a.m.<br>(For Flag-Raising Ceremony)|1.30 p.m.|
@@ -24,7 +22,7 @@ variant: markdown
 
 *   <p align="justify">Students who are taking the school bus will line up at the basketball court at the Indoor Sports Hall before proceeding to board the bus.</p>
 
-*   <p align="justify">Parents/Guardians are to wait for their child/ward at the entrance of the Main Gate (blue gate) or Side Gate (red gate), or along the sheltered walkway from the main gate to the Bus Bay (parents should not go beyond the waiting point at the Bus Bay).&nbsp;</p>
+*   <p align="justify">Parents/Guardians are to wait for their child/ward at the entrance of the Main Gate (blue gate) or Side Gate (White gate), or along the sheltered walkway from the main gate to the Bus Bay (parents should not go beyond the waiting point at the Bus Bay).&nbsp;</p>
 
 *   <p align="justify">Parents/Guardians can only drive into the school and pick up their child/ward from the Bus Bay 15 minutes after the official school dismissal time. This is to facilitate the smooth movement of the school buses as well as to ensure the safety of our students.</p>
 
@@ -33,8 +31,8 @@ Opening hours of the Side Gate (Along Jalan Bukit Merah)
 
 | Day | Opening Hours |
 |:---|:---|
-|Monday to Friday| 6.30 a.m. - 9.00 a.m.<br>1.00 p.m. - 6.30 p.m.
-| 
+|Monday, Wednesday and Friday| 6:30 a.m. - 8:00 a.m.<br>1:25 p.m. - 2:15 p.m. <br>4:00 p.m. - 5:00 p.m.
+| Tuesday, Thursday | 6:30 a.m. - 8:00 a.m.<br>1:25 p.m. - 2:15 p.m. <br>3:00 p.m. - 5:00 p.m.
 
 ##### School Attendance
   
