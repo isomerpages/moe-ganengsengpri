@@ -77,7 +77,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Dental Therapist<br>Ms Chen Sujuan<br>+65 8764 7603
+      - other: Dental Therapist<br>Mdm Ang Gim Hoon<br>+65 8764 7603
     title: School Dental Clinic
   - content:
       - phone: ""
