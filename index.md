@@ -12,7 +12,7 @@ sections:
         - title: School Calendar
           description: ""
           url: /about-us/sc
-        - title: Accomplishment
+        - title: HighLights
           description: ""
           url: /news-at-gesps/permalink/
         - title: Useful Links
