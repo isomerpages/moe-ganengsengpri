@@ -25,11 +25,6 @@ sections:
       url: https://www.youtube.com/watch?v=OJq63wBIBe0
       image: /images/school crest_hr small.png
       alt: Image alt text
-  - resources:
-      title: NEWSFLASH!
-      id: resources
-      button: Check out for more
-      subtitle: Collection of gESPS
   - textcards:
       title: Bulletin Board
       id: textcards
