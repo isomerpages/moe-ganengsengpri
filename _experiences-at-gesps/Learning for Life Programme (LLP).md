@@ -24,9 +24,12 @@ These attributes are fostered through an Experiential Learning and Place-Respons
 
 <img src="/images/LLP_1.jpg" style="width:59%" align="left">
 <img src="/images/LLP_2.jpg" style="width:38.5%" align="right"><br clear="left"><br>
-<img src="/images/LLP_3.jpg" style="width:50%" align="right">
+<img src="/images/Basketball_Clinic__1.jpg" style="width:50%" align="right">
 <img src="/images/LLP_4.jpg" style="width:47%" align="left"><br clear="left"><br>
-<img src="/images/LLP_5.jpg" style="width:60%" align="center">
+<img src="/images/LLP_5.jpg" style="width:60%" align="left">
+<img src="/images/Recess_Play_1.jpg" style="width:33%" align="right">
+
+<br><br><br><br><br>
 
 **Tier 2 (Stretching the Potential of Students &nbsp;with Greater Interests / Aptitude)**
 *  Modular Sports for P3 students, provide opportunities for students to explore different sports before specializing.
@@ -35,10 +38,15 @@ These attributes are fostered through an Experiential Learning and Place-Respons
 *  Sports Enrichment Modules: covering injury management, sports nutrition, physical strength training and mental training, ensuring a holistic approach to sports education.
 
 <img src="/images/LLP_6.jpg" style="width:48.2%" align="left">
-<img src="/images/LLP_7.jpg" style="width:49.9%" align="right"><br clear="left"><br>
+<img src="/images/Sandbox_Sailing_Exposure_2.jpg" style="width:49.9%" align="right"><br clear="left"><br>
 <img src="/images/LLP_9.jpg" style="width:49%" align="left">
 <img src="/images/LLP_10.jpg" style="width:47.4%" align="right"><br clear="left"><br>
-<img src="/images/LLP_8.jpg" style="width:60%" align="center">
+<img src="/images/LLP_8.jpg" style="width:60%" align="left">
+<img src="/images/Grit_for_Play___Bowling_2.jpg" style="width:34%" align="right">
+<br clear="left"><br>
+<img src="/images/Grit_for_Play__Skateboard_2.jpg" style="width:60%" align="left">
+<img src="/images/Grit_for_Play___Rock_climbing_2.jpg" style="width:34%" align="right">
+<br><br><br><br><br><br><br><br>
 
 
 **Partnerships Supporting LLP Objectives**
