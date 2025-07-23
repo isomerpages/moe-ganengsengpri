@@ -29,7 +29,7 @@ These attributes are fostered through an Experiential Learning and Place-Respons
 <img src="/images/LLP_5.jpg" style="width:60%" align="left">
 <img src="/images/Recess_Play_1.jpg" style="width:33%" align="right">
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 **Tier 2 (Stretching the Potential of Students &nbsp;with Greater Interests / Aptitude)**
 *  Modular Sports for P3 students, provide opportunities for students to explore different sports before specializing.
