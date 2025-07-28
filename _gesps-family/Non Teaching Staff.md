@@ -16,7 +16,7 @@ variant: markdown
 | **Corporate Support Officer** | [Ms Cindy Yap](mailto:yap_choon_huay@schools.gov.sg) |
 | **School Counsellor** | [Ms Paulyn Soong](mailto:soong_wen_hui_paulyn@schools.gov.sg) | 
 | **School Counsellor** | [Ms Nazeera Yacob](mailto:nazeera_mohamed_yacob@schools.gov.sg) |
-| **Student Welfare Officer** | [Ms Ling Jennie](mailto:ling_jennie@schools.gov.sg) |
+| **Senior Student Welfare Officer** | [Ms Ling Jennie](mailto:ling_jennie@schools.gov.sg) |
 | **Special Educational Needs Officer** | [Ms Wendy Ho](mailto:ho_wendy@schools.gov.sg) |
 | **Special Educational Needs Officer** | [Ms Nazreth Begum](mailto:nazreth_begum_shaik_alawoodeen@schools.gov.sg) |
 | **Special Educational Needs Officer** | [Ms Karilynn Seah](mailto:karilynn_seah_xin_fang@schools.gov.sg) |
