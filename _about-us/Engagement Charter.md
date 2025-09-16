@@ -6,4 +6,3 @@ description: ""
 ---
 ## Engagement Charter
 
-![](/images/Engagement_Charter.jpg)
