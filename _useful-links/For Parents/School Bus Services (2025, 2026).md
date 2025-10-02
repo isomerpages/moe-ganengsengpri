@@ -14,6 +14,8 @@ message via SMS.
 <br>*Email: <a href="mailto:edmund55@singnet.com.sg?subject=Me&amp;body=<b>edmund55@singnet.com.sg</b>" rel="noopener noreferrer nofollow" target="_blank">edmund55@singnet.com.sg</a> /
 <a href="mailto:emltpt96@gmail.com?subject=Me&amp;body=<b>emltpt96@gmail.com</b>" rel="noopener noreferrer nofollow" target="_blank">emltpt96@gmail.com</a>
 </p>
+<p>Book School Bus 2026: <a href="https://booking-eml.solo-cloud.com/schoolbus/" rel="noopener noreferrer nofollow" target="_blank">https://booking-eml.solo-cloud.com/schoolbus/</a>
+</p>
 <p><strong>Period: 1 Jan 2025 to 31 Dec 2026</strong>
 </p>
 <table style="minWidth: 125px">
