@@ -28,7 +28,7 @@ third_nav_title: For Service Providers
 <p>Halal Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 February 2025</p>
+<p>31 January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rice or noodle stalls are acceptable</p>
