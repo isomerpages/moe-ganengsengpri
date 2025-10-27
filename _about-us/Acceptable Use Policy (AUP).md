@@ -24,7 +24,8 @@ and growth as digitally responsible citizens.</p>
 <p>&nbsp;</p>
 <p>For more information, please refer to:</p>
 <p>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)
-–</p>
+– <a href="https://file.go.gov.sg/cw-studentkitpri.pdf" rel="noopener noreferrer nofollow" target="_blank">cw-studentkitpri.pdf</a>
+</p>
 <p>&nbsp;</p>
 <p><strong>General</strong>
 </p>
