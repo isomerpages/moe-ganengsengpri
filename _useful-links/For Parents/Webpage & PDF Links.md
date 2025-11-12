@@ -6,7 +6,7 @@ third_nav_title: For Parents
 variant: markdown
 ---
 ##### All levels
-[Microsoft Teams Login](/files/Microsoft_login__for_parents__compressed.pdf)<br>
+[Microsoft Teams Login]([](/files/updated__microsoft_login__for_parents_2_.pdf)/)<br>
 [Parents in Education](https://www.schoolbag.edu.sg/)
 
 ##### Primary 1
