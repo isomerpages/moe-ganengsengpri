@@ -30,5 +30,3 @@ variant: markdown
 [Meet-The-Parents Session (PDF)](https://go.gov.sg/gesps-p5p6-mtp-2025) - 2025<br>
 [Resources for Parents with P6 Child](https://go.gov.sg/gesps-resources-for-parents-with-p6child)
 
-
-[testing](/files/SBB_Slides_for_Website_2025.pdf)
