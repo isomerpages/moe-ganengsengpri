@@ -10,7 +10,7 @@ variant: markdown
 [Parents in Education](https://www.schoolbag.edu.sg/)
 
 ##### Primary 1
-[P1 Orientation Slides (PDF)](https://go.gov.sg/gesps-p1orientation-2025) - 2025
+[P1 Orientation Slides (PDF)](https://go.gov.sg/gesps-p1orientation-21nov2025) - 21 Nov 2025
 
 ##### Primary 2
 [Meet-The-Parents Session (PDF)](https://go.gov.sg/gesps-p2-mtp-2025) - 2025
