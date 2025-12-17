@@ -20,8 +20,8 @@ variant: markdown
 *   Form Teacher: **[Ms Uzaimah](mailto:zai_fadzali@schools.gov.sg)**
 
 **6 Inclusiveness**
-*   Form Teacher: **[Mrs Lilian Lim](mailto:ho_lilian@schools.gov.sg)**
-*   Form Teacher: **[Mdm Khairyanie](mailto:Khairyanie_Kamsani@schools.gov.sg)**
+*   Form Teacher: **[Mdm Elaine Lim](mailto:Elaine_Lim_Chiu_Wei@schools.gov.sg)**
+*   Form Teacher: **[Mr David Tan](mailto:tan_hong_meng_david@schools.gov.sg)**
 
 **6 Respect**
 *   Form Teacher: **[Ms Nur Hanisah](mailto:nur_hanisah_mohd_johari_george@schools.gov.sg)**
