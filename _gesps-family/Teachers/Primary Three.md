@@ -8,18 +8,18 @@ variant: markdown
 #### Class:
 
 **3 Perseverance**  
-*   Form Teacher: **[Ms Tan See Kin](mailto:tan_see_kin@schools.gov.sg)**
-*   Form Teacher: **[Ms Lin Yingru](mailto:lin_yingru@schools.gov.sg)**
+*   Form Teacher: **[Ms Adora Tan](mailto:tan_shi_ying_adora@schools.gov.sg)**
+*   Form Teacher: **[Mdm Wong Oi Lee](mailto:wong_oi_lee@schools.gov.sg)**
 
 **3 Inclusiveness**  
-*   Form Teacher: **[Mr Rashidi](mailto:muhammad_rashidi_ramli@schools.gov.sg)**
-*   Form Teacher: **[Mdm Diana Toh](mailto:toh_lay_beng_diana@schools.gov.sg)**
-* Form Teacher: **[Ms Adora Tan](mailto:tan_shi_ying_adora@schools.gov.sg)**  
+*   Form Teacher: **[Ms Tan See Kin](mailto:tan_see_kin@schools.gov.sg)**
+*   Form Teacher: **[Mr Gerald Say](mailto:say_tiong_sin_gerald@schools.gov.sg)**
+
 
 **3 Respect**  
-*   Form Teacher: **[Mrs Chin-Lee Siew Gin](mailto:chin-lee_siew_gin@schools.gov.sg)**
-*   Form Teacher: **[Mdm Anglie Ng](mailto:ng_sor_ling_anglie@schools.gov.sg)**
+*   Form Teacher: **[Ms Odelia Tiong](mailto:odelia_tiong_hui_xuan@schools.gov.sg)**
+*   Form Teacher: **[Mdm Alleda](mailto:alleda_baba@schools.gov.sg)**
 
 **3 Empathy**  
-*   Form Teacher: **[Ms Evelyn Loh](mailto:soh_hwee_lin@schools.gov.sg)**
-*   Form Teacher: **[Ms Siti Nuraisyah](mailto:siti_nuraisyah_razali@schools.gov.sg)**
+*   Form Teacher: **[Ms Carol Wong](mailto:tay_puay_suan@schools.gov.sg)**
+*   Form Teacher: **[Mr Zheng Xu](mailto:zheng_xu@schools.gov.sg)**
