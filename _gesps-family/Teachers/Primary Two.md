@@ -8,21 +8,19 @@ variant: markdown
 #### Class:
 
 **2 Self-Discipline**
-*   Form Teacher: **[Mrs Margaret Lim](mailto:low_hong_mei_margaret@schools.gov.sg)**
-*   Form Teacher: **[Mdm Li Ying](mailto:li_ying@schools.gov.sg)**
+*   Form Teacher: **[Ms Junity Tay](mailto:tay_may_may@schools.gov.sg)**
+*   Form Teacher: **[Mdm Teo Siew Ping](mailto:teo_siew_ping_paulyne@schools.gov.sg)**
   
 **2 Perseverance**
-*   Form Teacher: **[Mdm Nadiah](mailto:nadiah_sheik_allahuddin@schools.gov.sg)**
-*   Form Teacher: **[Mdm Clare Linda Chee](mailto:chee_lin_gia@schools.gov.sg)**
+*   Form Teacher: **[Ms Ng Lee Choon](mailto:nga_lee_choon@schools.gov.sg)**
+*   Form Teacher: **[Ms Sukumar](mailto:subangkini_sukumar@schools.gov.sg)**
 
 **2 Inclusiveness**
-*   Form Teacher: **[Ms Nga Lee Choon](mailto:nga_lee_choon@schools.gov.sg)**
-*   Form Teacher: **[Mdm Cai Zhiying](mailto:cai_zhiying@schools.gov.sg)**
+*   Form Teacher: **[Ms Tan Geok Kian](mailto:tan_geok_kian@schools.gov.sg)**
+*   Form Teacher: **[Ms Nurul Naqiyyah](mailto:nurul_naqiyyah_mohd_kamal@schools.gov.sg)**
 
-**2 Respect**  
-*   Form Teacher: **[Ms Patricia Goh](mailto:goh_ley_hoon_patricia@schools.gov.sg)**
-*   Form Teacher: **[Mdm Aafreen](mailto:a_aafreen_fathima@schools.gov.sg)**  
 
 **2 Empathy**
-*   Form Teacher: **[Ms Caroline Low](mailto:low_kwee_choo_caroline@schools.gov.sg)**
-*   Form Teacher: **[Mr Caleb Lai](mailto:lai_chee_hau@schools.gov.sg)**
+*   Form Teacher: **[Ms Kong Sim Guan](mailto:kong_sim_guan@schools.gov.sg)**
+*   Form Teacher: **[Ms Tang Yue Xing](mailto:kwan_yue_xing@schools.gov.sg)**
+*    Form Teacher: **[Miss Nur Haslin Binte Hashim](mailto:)**
