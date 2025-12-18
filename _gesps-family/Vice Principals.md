@@ -5,18 +5,23 @@ description: ""
 variant: markdown
 ---
 <h4>Vice Principals</h4>
-<img align="left" style="width: 25%;" height="auto" width="100%" alt="" src="/images/Mr_Kyaw_Saw_Lynn__amended_.jpg">
+<img align="left" style="width: 25%;" height="auto" width="100%" alt="" src="/images/VP_Angelia_Chua.png">
 <i>School as our Second Home and World as our School!</i><br>
-<p align="justify">For our students, Gan Eng Seng Primary School (GESPS) is more than just a place for learning; it is a second home and a caring community where friendships are forged, and lifelong memories are created. We endeavour to create a safe and inclusive environment where every child is valued for his/her unique ability, interest, passion, and is empowered to achieve his/her personal excellence.</p>
+<p align="justify">A warm welcome to all our families, both new and returning, as we embark on another exciting year together at Gan Eng Seng Primary School.</p>
 
-<p align="justify">At this second home, our <i>GESPians</i> will learn with grit and care with a compassionate heart to inspire others and make a difference. The school’s holistic education provides our students with a variety of learning opportunities both in school and beyond because we believe that the World is our School – the world being a vast “classroom” filled with opportunities for exploration, inquiry, and learning.</p>
+<p align="justify">The primary school years are a precious and formative time in every child's life. These six years lay the foundation for the development of character, grit, compassion for others and a lifelong love of learning. As educators, we are deeply committed to creating a safe, supportive and conducive environment where every child can thrive, discover their unique strengths, and grow into confident, creative and morally upright individuals.
+However, we recognise that the journey of education is not one we undertake alone. The partnership between home and school is fundamental to your child's success and wellbeing. When parents and teachers work hand in hand, sharing the same vision and values, our children benefit immensely. Your involvement, encouragement, and support at home complement the work we do in school, creating a consistently safe and caring framework within which your child can flourish.
+</p>
 
-<p align="justify">At GESPS, we promote development and growth in the various domains of an all-round education – cognitive, physical, aesthetic, social, emotional, moral, and leadership – and celebrate the success of our students’ multiple peaks of personal and collective excellence in these domains. We believe that we are all different. We learn in different ways and at different rates. We believe that all our students will do their best and succeed in their own different ways as they learn and grow to be “Learners with Grit” and “Citizens with Heart”.</p>
+<p align="justify">We invite you to be active partners in your child's educational journey. Whether through regular communication with teachers, participation in school activities, or simply showing interest in your child's daily experiences, your engagement makes a meaningful difference. Together, let’s ensure that these six years are filled with joy, discovery, and growth. Let’s work to help your child reach their fullest potential.  
+</p>
 Welcome to GESPS – Our Second Home!
 
-Mr Kyaw Saw Lynn<br>
+Yours sincerely,
+
+Mrs Angelia Liew<br>
 VP (EO)<br>
-<a href="mailto:kyaw_saw_lynn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kyaw_saw_lynn@schools.gov.sg</a>
+<a href="mailto:Angelia_Chua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Angelia_Chua@schools.gov.sg</a>
 <br>
 <br>
 <br>
