@@ -21,7 +21,7 @@ Yours sincerely,
 
 Mrs Angelia Liew<br>
 VP (EO)<br>
-<a href="mailto:Angelia_Chua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kyaw_saw_lynn@schools.gov.sg</a>
+<a href="mailto:Angelia_Chua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Angelia_Chua@schools.gov.sg</a>
 <br>
 <br>
 <br>
