@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h4>Vice Principals</h4>
 <img align="left" style="width: 25%;" height="auto" width="100%" alt="" src="/images/VP_Angelia_Chua.png">
-<i>School as our Second Home and World as our School!</i><br>
+<br>
 <p align="justify">A warm welcome to all our families, both new and returning, as we embark on another exciting year together at Gan Eng Seng Primary School.</p>
 
 <p align="justify">The primary school years are a precious and formative time in every child's life. These six years lay the foundation for the development of character, grit, compassion for others and a lifelong love of learning. As educators, we are deeply committed to creating a safe, supportive and conducive environment where every child can thrive, discover their unique strengths, and grow into confident, creative and morally upright individuals.
@@ -15,8 +15,6 @@ However, we recognise that the journey of education is not one we undertake alon
 
 <p align="justify">We invite you to be active partners in your child's educational journey. Whether through regular communication with teachers, participation in school activities, or simply showing interest in your child's daily experiences, your engagement makes a meaningful difference. Together, let’s ensure that these six years are filled with joy, discovery, and growth. Let’s work to help your child reach their fullest potential.  
 </p>
-Welcome to GESPS – Our Second Home!
-
 Yours sincerely,
 
 Mrs Angelia Liew<br>
