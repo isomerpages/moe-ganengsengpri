@@ -12,15 +12,15 @@ variant: markdown
 *   Form Teacher: **[Mdm Teo Siew Ping](mailto:teo_siew_ping_paulyne@schools.gov.sg)**
   
 **2 Perseverance**
-*   Form Teacher: **[Ms Ng Lee Choon](mailto:nga_lee_choon@schools.gov.sg)**
-*   Form Teacher: **[Ms Sukumar](mailto:subangkini_sukumar@schools.gov.sg)**
+*   Form Teacher: **[Ms Nga Lee Choon](mailto:nga_lee_choon@schools.gov.sg)**
+*   Form Teacher: **[Mrs Sukumar](mailto:subangkini_sukumar@schools.gov.sg)**
 
 **2 Inclusiveness**
-*   Form Teacher: **[Ms Tan Geok Kian](mailto:tan_geok_kian@schools.gov.sg)**
+*   Form Teacher: **[Mdm Tan Geok Kian](mailto:tan_geok_kian@schools.gov.sg)**
 *   Form Teacher: **[Ms Nurul Naqiyyah](mailto:nurul_naqiyyah_mohd_kamal@schools.gov.sg)**
 
 
 **2 Empathy**
-*   Form Teacher: **[Ms Kong Sim Guan](mailto:kong_sim_guan@schools.gov.sg)**
-*   Form Teacher: **[Ms Tang Yue Xing](mailto:kwan_yue_xing@schools.gov.sg)**
+*   Form Teacher: **[Mrs Kong Sim Guan](mailto:kong_sim_guan@schools.gov.sg)**
+*   Form Teacher: **[Mrs Tang Yue Xing](mailto:kwan_yue_xing@schools.gov.sg)**
 *    Form Teacher: **[Miss Nur Haslin Binte Hashim](mailto:)**
