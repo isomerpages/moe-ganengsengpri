@@ -21,5 +21,5 @@ variant: markdown
 *   Form Teacher: **[Mdm Alleda](mailto:alleda_baba@schools.gov.sg)**
 
 **3 Empathy**  
-*   Form Teacher: **[Ms Carol Wong](mailto:tay_puay_suan@schools.gov.sg)**
+*   Form Teacher: **[Mrs Carol Wong](mailto:tay_puay_suan@schools.gov.sg)**
 *   Form Teacher: **[Mr Zheng Xu](mailto:zheng_xu@schools.gov.sg)**
