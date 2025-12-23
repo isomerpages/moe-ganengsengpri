@@ -9,7 +9,7 @@ variant: markdown
 
 **4 Perseverance**  
 *   Form Teacher: **[Mrs Ariff](mailto:rabiah_bibi_ahmed_mitten@schools.gov.sg)**
-*   Form Teacher: **[Ms Lin YingRu](mailto:lin_yingru@schools.gov.sg)**
+*   Form Teacher: **[Ms Lin Ying Ru](mailto:lin_yingru@schools.gov.sg)**
 
 **4 Inclusiveness**  
 *   Form Teacher: **[Mr Rashidi](mailto:muhammad_rashidi_ramli@schools.gov.sg)**
