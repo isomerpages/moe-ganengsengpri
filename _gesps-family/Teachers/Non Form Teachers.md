@@ -12,6 +12,7 @@ variant: markdown
 | **Teacher** | [Mdm Tan Siang Noi](mailto:Tan_Siang_Noi@schools.gov.sg)
 | **Teacher** | [Mdm Wu Peisha](mailto:wu_pei_sha@schools.gov.sg)
 | **Teacher** | [Mdm Thenmulli](mailto:thenmulli_palaniappan@schools.gov.sg)
+| **Teacher** | [Ms Li Ying](mailto:li_ying@schools.gov.sg)
 | **Contract-Adjunct Teacher** | [Mrs Yvonne Leow](mailto:cheak_beo_leng_yvonne@schools.gov.sg)
 | **Contract-Adjunct Teacher** | [Mdm Sithika](mailto:sithika_begam@schools.gov.sg)
 | **Contract-Adjunct Teacher** | [Mrs Kheng Mui Yee](mailto:Kheng_mui_yee@schools.gov.sg)
