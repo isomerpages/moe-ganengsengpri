@@ -45,7 +45,8 @@ scan the QR code below:</p>
 <h4><strong>Parent Support Group (PSG) EXCO Team</strong></h4>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_GESPS_PSG_EXCO.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_PSG_EXCO_TEAM.png">
 </div>
 <p></p>
