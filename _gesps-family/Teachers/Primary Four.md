@@ -22,5 +22,5 @@ variant: markdown
 *   Form Teacher: **[Mrs Pappathi Ipiter](mailto:pappathi_ipiter@schools.gov.sg)**
 
 **4 Empathy**  
-*   Form Teacher: **[Mdm Evelyn Loh](mailto:soh_hwee_lin@schools.gov.sg)**
+*   Form Teacher: **[Mrs Evelyn Loh](mailto:soh_hwee_lin@schools.gov.sg)**
 *   Form Teacher: **[Ms Siti Nuraisyah](mailto:siti_nuraisyah_razali@schools.gov.sg)**
