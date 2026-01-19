@@ -2,6 +2,7 @@ collections:
   experiences-at-gesps:
     output: true
     order:
+      - P6 International Trip/.keep
       - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
       - Signature Programmes.md
