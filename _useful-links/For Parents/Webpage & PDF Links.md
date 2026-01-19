@@ -24,8 +24,8 @@ variant: markdown
 
 
 ##### Primary 5
-[Meet-The-Parents Session (PDF)](https://go.gov.sg/gesps-p5p6-mtp-2025) - 2025
+[Meet-The-Parents Session (PDF)](https://go.gov.sg/gesps2026e-mtp) - 2026
 
 ##### Primary 6
-[Meet-The-Parents Session (PDF)](https://go.gov.sg/gesps-p5p6-mtp-2025) - 2025<br>
+[Meet-The-Parents Session (PDF)](https://go.gov.sg/gesps2026e-mtp) - 2026<br>
 [Resources for Parents with P6 Child](https://go.gov.sg/gesps-resources-for-parents-with-p6child)
