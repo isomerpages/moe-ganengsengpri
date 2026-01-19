@@ -16,11 +16,11 @@ variant: markdown
 [Meet-The-Parents Session (PDF)](https://go.gov.sg/gepspp2mtp2026) - 2026
 
 ##### Primary 3
-[Meet-The-Parents Session (PDF)](https://go.gov.sg/gesps-p3p4-mtp-2025) - 2025
+[Meet-The-Parents Session (PDF)](https://go.gov.sg/p3-p4mtp-slides2026) - 2026
 
 ##### Primary 4
  [P4 SBB Parent Engagement (PDF)](https://go.gov.sg/gesps-sbb-slides-2025)- 2025<br>
-[Meet-The-Parents Session (PDF)](https://go.gov.sg/gesps-p3p4-mtp-2025) - 2025
+[Meet-The-Parents Session (PDF)](https://go.gov.sg/p3-p4mtp-slides2026) - 2026
 
 
 ##### Primary 5
