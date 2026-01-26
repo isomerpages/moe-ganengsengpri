@@ -41,7 +41,7 @@ variant: markdown
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:70.85pt" width="172"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Boys’ Brigade</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Scouts<b></b></p></td><td style="width:129.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:70.85pt" width="173"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Art Club</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Green Explorer’s Club</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Infocomm &amp; Media Club<b></b></p></td></tr></tbody></table>
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:70.85pt" width="173"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Art Club</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal">Green Explorer’s Club</p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b></b></p></td></tr></tbody></table>
 	
 
 	
