@@ -29,10 +29,10 @@ sections:
       title: Bulletin Board
       id: textcards
       cards:
-        - title: P4 SBB Briefing 2024
+        - title: P4 SBB Briefing 2025
           description: PDF slides for parents
           linktext: Click here to view
-          url: https://go.gov.sg/gesps-p4-sbb-2024
+          url: https://file.go.gov.sg/gesps-sbb-slides-2025.pdf
         - title: Resources for Parents with P6 child
           description: PDF file
           linktext: Click here to view
