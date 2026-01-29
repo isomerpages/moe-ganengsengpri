@@ -93,3 +93,8 @@ School Uniform / P.E. Attire
 **5 \.&nbsp;Punctuality**
 
 *   Students must be in school on time (by 7.30am) for the singing of the national anthem and pledge taking.
+
+**6 \.&nbsp;Positive Discipline**
+* The school adopts a positive approach to discipline, with our students’ well-being remaining at the core of this educative process. 
+
+  - Student misbehaviours that cause serious harm and/or disruption to self or others (whether physically, psychologically or socially), cause serious damage to property or resources, or show defiance against authorities are defined as serious offences. Examples of serious offences include smoking, vaping, truancy, pornography, assault, fighting, bullying, vandalism, sexual misconduct and open defiance to school staff. Corrective actions would include suspension and conduct grade adjustment. The school will work with parents to help replace inappropriate behaviours and restore relationships with others.
