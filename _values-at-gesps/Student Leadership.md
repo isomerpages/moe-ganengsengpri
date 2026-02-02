@@ -67,5 +67,4 @@ Through this training, students are empowered to grow in character and leadershi
 <p align="justify">
 	</p><figure>
 <img src="/images/2025_cca_9.png" style="width:100%"><br>
-
-		</figure></figure>
+</figure></figure>
