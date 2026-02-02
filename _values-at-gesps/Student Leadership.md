@@ -12,7 +12,7 @@ Student Leadership in GESPS adopts the Learn-Lead-Lift (L3) approach.
 
 <p align="justify">Under the ‘Learn’ stage, all students would be given opportunities to learn to be leaders through CCE (FTGP) lessons and the appointment of class-based leaders.</p>
 
-<p align="justify">The ‘Lead’ stage provides students with opportunities to step up and serve as leaders. They are involved in class-based leadership training. During the class-based leadership training for Primary 3 to Primary 6, students who are given leadership positions in class (monitors, subject representatives and other leadership roles) will be inducted in the roles so that they are able to better perform their leadership duties.</p>.
+<p align="justify">The ‘Lead’ stage provides students with opportunities to step up and serve as leaders. They are involved in class-based leadership training. During the class-based leadership training for Primary 3 to Primary 6, students who are given leadership positions in class (monitors, subject representatives and other leadership roles) will be inducted in the roles so that they are able to better perform their leadership duties.</p>
 
 <p align="justify"> At the ‘Lift’ stage, students will be given school-based leadership positions and these include Prefects, Peer Support Leaders and CCA Leaders. Through the various appointed leadership roles, students develop interpersonal skills to influence and lead those around them through school-wide events.</p>
 
@@ -28,37 +28,44 @@ The Design Thinking Principles is adopted in the training of the prefects so tha
 
 A key programme of the Prefectorial Board is the annual Prefect Investiture. It is a ceremony that formally officiates and congratulates the appointments of the prefects by the school population. This is to affirm the effort and service rendered by the prefects.</p>
 
-###### **Prefect Investiture 2024**
+<p align="justify"> <b>Student Leadership Investiture 2025-2026</b>
 
+</p><p align="justify">
+On 4 August 2025, we held our Student Leadership Investiture Ceremony to celebrate and officially appoint our student leaders. This year’s ceremony was especially meaningful as, for the first time, we also honoured our Peer Support Leaders and CCA Leaders alongside the Prefectorial Board.</p>
 <p align="justify">
-The Prefect Investiture Ceremony on July 29, 2024, was a significant event, held in the school hall during the Monday assembly session. It was witnessed by all Primary 1 to Primary 6 students and marked the official appointment of our Primary 4 and Primary 5 Prefects.</p>
+The event recognised students who have stepped up to lead, serve, and inspire their peers — each playing a part in building a caring and vibrant school community. During the ceremony, school leaders presented certificates to the newly appointed leaders, symbolising the trust placed in them to lead with humility, empathy, and purpose.</p>
 <p align="justify">
-This year was particularly noteworthy as the school appointed its new 2024-2025 Head Prefect, Low Yong Qi from class 5 Empathy. The ceremony began with an inspiring address by the Principal, Mr. Roy Lee, who urged the prefects to be dedicated, committed leaders and role models who <b>INSPIRE</b> and motivate their peers by doing the right things and showing kindness. He emphasized the importance of embodying the qualities of a true leader.</p>
+This year, Maruyama Sofu was appointed Head Prefect, together with the Prefectorial Executive Committee — Jacob Chong (Vice-Head Prefect), Ewan Tan, Iyer Padma, and Samuel Henry Ezerman. They will lead the prefectorial board for the year 2025 and 2026.</p>
 <p align="justify">
-Following the Principal's speech, the prefects donned their Prefects’ badges. Head Prefect Yong Qi then delivered a short speech and led the entire prefectorial contingent in reciting the Prefects’ Pledge. It was indeed a proud moment for all the prefects, marking a significant day in their leadership journey. This milestone serves as a reminder to all the prefects to uphold the highest standards of excellence as they strive to serve the school.</p>
-<p align="justify">
-We would like to express our heartfelt appreciation to our Primary 6 Prefects for their dedication and commitment in their prefectorial work. We want to wish them all the best in their future endeavour and to continue to be leaders who inspire! To our newly appointed prefects, our heartiest congratulations!
+Our CCA Leaders and Peer Support Leaders also pledged to lead with teamwork, responsibility, and care. Whether guiding their teams, supporting peers, or representing the school, they exemplify what it means to lead through service and positive influence.
+We look forward to seeing our student leaders uphold our INSPIRE values and continue making Gan Eng Seng Primary School a place where everyone can be a confident communicator, a creative and critical thinker, and a curious learner. Congratulations to the student leaders!
+
 </p>	
-<img src="/images/Prefects_Final_1.jpg" style="width:100%"><br>
-<img src="/images/Prefects_Final_2.jpg" style="width:100%"><br>
-<img src="/images/Prefects_Final_3.jpg" style="width:100%">
+<img src="/images/2025_cca_1.png" style="width:100%"><br>
+<img src="/images/2025_cca_2.png" style="width:100%"><br>
+<img src="/images/2025_cca_3.png" style="width:100%"><br>
+<img src="/images/2025_cca_4.png" style="width:100%"><br>
+<img src="/images/2025_cca_5.png" style="width:100%"><br>
 
-###### **Prefects Camp 2024**
-<figure>
-<img src="/images/Prefects_Camp_a.jpg" style="width:100%">
-	One of our Primary 5 Prefects leading the team in the teambuilding activity.
-</figure>
-<figure>
-<img src="/images/Prefects_Camp_b.jpg" style="width:100%">
-One of the workshops conducted during our Prefects Camp, Design Thinking. 
-	</figure>
+
+###### **Prefects Leadership Skills Enrichment Day 2025**
+<p align="justify">
+The Prefects Leadership Skills Training, grounded in design thinking, empowers our prefects to understand real school issues from multiple perspectives and develop thoughtful, student-centred solutions. Through empathising and reflecting, prefects learn to think creatively and critically while collaborating effectively with others. This approach nurtures adaptable, empathetic leaders who are confident problem-solvers and proactive in improving the school community and beyond.</p>
+<p align="justify">
+	</p><figure>
+<img src="/images/2025_cca_6.png" style="width:100%"><br>
+<img src="/images/2025_cca_7.png" style="width:100%"><br>
+<img src="/images/2025_cca_8.png" style="width:100%"><br>
+		
 	
-###### **Prefects in actions**
-<figure>
-<img src="/images/prefects_in_action_a.jpg" style="width:100%">
-A Primary 6 Prefect, leading and encouraging a group of Primary 6 students in untangling the human knot.
-</figure>
-<figure>
-<img src="/images/prefects_in_action_b.jpg" style="width:100%">
-Our prefects getting to know the teachers better too, in a game of bingo.
-</figure>
+<p align="justify"> <b>Class Leadership Training 2026</b>
+	
+</p><p align="justify">
+The Class Leadership Training is a structured programme designed to develop responsible and confident student leaders within the classroom. The programme equips students with essential leadership skills such as effective communication, teamwork, problem-solving, and decision-making in their subject-specific area.
+Grounded in INSPIRE values, the leadership training encourages students to lead by example and take ownership of their responsibilities. Students are guided to support their peers, manage challenges constructively, and contribute positively to a cohesive class environment.
+Through this training, students are empowered to grow in character and leadership, enabling them to serve their class effectively and contribute meaningfully to the school community.
+</p>
+<p align="justify">
+	</p><figure>
+<img src="/images/2025_cca_9.png" style="width:100%"><br>
+</figure></figure>
