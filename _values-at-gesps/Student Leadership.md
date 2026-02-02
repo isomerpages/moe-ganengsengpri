@@ -28,7 +28,7 @@ The Design Thinking Principles is adopted in the training of the prefects so tha
 
 A key programme of the Prefectorial Board is the annual Prefect Investiture. It is a ceremony that formally officiates and congratulates the appointments of the prefects by the school population. This is to affirm the effort and service rendered by the prefects.</p>
 
-###### **Prefect Investiture 2025-2026**
+###### **Prefect Investiture <b>2025-2026</b>**
 
 <p align="justify">
 On 4 August 2025, we held our Student Leadership Investiture Ceremony to celebrate and officially appoint our student leaders. This year’s ceremony was especially meaningful as, for the first time, we also honoured our Peer Support Leaders and CCA Leaders alongside the Prefectorial Board.</p>
