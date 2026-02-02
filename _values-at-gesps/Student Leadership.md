@@ -48,22 +48,24 @@ We look forward to seeing our student leaders uphold our INSPIRE values and cont
 <img src="/images/2025_cca_5.png" style="width:100%"><br>
 
 
-###### **Prefects Camp 2024**
-<figure>
-<img src="/images/Prefects_Camp_a.jpg" style="width:100%">
-	One of our Primary 5 Prefects leading the team in the teambuilding activity.
-</figure>
-<figure>
-<img src="/images/Prefects_Camp_b.jpg" style="width:100%">
-One of the workshops conducted during our Prefects Camp, Design Thinking. 
-	</figure>
+###### **Prefects Leadership Skills Enrichment Day 2025**
+<p align="justify">
+The Prefects Leadership Skills Training, grounded in design thinking, empowers our prefects to understand real school issues from multiple perspectives and develop thoughtful, student-centred solutions. Through empathising and reflecting, prefects learn to think creatively and critically while collaborating effectively with others. This approach nurtures adaptable, empathetic leaders who are confident problem-solvers and proactive in improving the school community and beyond.</p>
+<p align="justify">
+	</p><figure>
+<img src="/images/2025_cca_6.png" style="width:100%"><br>
+<img src="/images/2025_cca_7.png" style="width:100%"><br>
+<img src="/images/2025_cca_8.png" style="width:100%"><br>
+		
 	
-###### **Prefects in actions**
-<figure>
-<img src="/images/prefects_in_action_a.jpg" style="width:100%">
-A Primary 6 Prefect, leading and encouraging a group of Primary 6 students in untangling the human knot.
-</figure>
-<figure>
-<img src="/images/prefects_in_action_b.jpg" style="width:100%">
-Our prefects getting to know the teachers better too, in a game of bingo.
-</figure>
+###### **Class Leadership Training 2026**
+<p align="justify">
+The Class Leadership Training is a structured programme designed to develop responsible and confident student leaders within the classroom. The programme equips students with essential leadership skills such as effective communication, teamwork, problem-solving, and decision-making in their subject-specific area.
+Grounded in INSPIRE values, the leadership training encourages students to lead by example and take ownership of their responsibilities. Students are guided to support their peers, manage challenges constructively, and contribute positively to a cohesive class environment.
+Through this training, students are empowered to grow in character and leadership, enabling them to serve their class effectively and contribute meaningfully to the school community.
+</p>
+<p align="justify">
+	</p><figure>
+<img src="/images/2025_cca_9.png" style="width:100%"><br>
+
+		</figure></figure>
