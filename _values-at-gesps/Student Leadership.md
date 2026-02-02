@@ -58,8 +58,9 @@ The Prefects Leadership Skills Training, grounded in design thinking, empowers o
 <img src="/images/2025_cca_8.png" style="width:100%"><br>
 		
 	
-###### **Class Leadership Training 2026**
-<p align="justify">
+<p align="justify"> <b>Class Leadership Training 2026</b>
+	
+</p><p align="justify">
 The Class Leadership Training is a structured programme designed to develop responsible and confident student leaders within the classroom. The programme equips students with essential leadership skills such as effective communication, teamwork, problem-solving, and decision-making in their subject-specific area.
 Grounded in INSPIRE values, the leadership training encourages students to lead by example and take ownership of their responsibilities. Students are guided to support their peers, manage challenges constructively, and contribute positively to a cohesive class environment.
 Through this training, students are empowered to grow in character and leadership, enabling them to serve their class effectively and contribute meaningfully to the school community.
