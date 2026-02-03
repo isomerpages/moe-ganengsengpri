@@ -72,8 +72,7 @@ It is heartening to see our <i>GESPians</i> working as a team to keep the school
 Playing a game of modified floorball with the seniors. <i>(left)</i> Giving the senior a demostration of how the game could be played. <i>(right)</i>
 <br><br>
 
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P4_VIA__3_.jpg">
-Waiting patiently for the nurse before our <i>GESPians</i> would spring into action to play with the seniors.
+
 
 ##### Primary 5 NEA - Redhill Food Centre
 
