@@ -10,7 +10,7 @@ description: ""
 professionalism built firmly on the basis of mutual courtesy and respect.&nbsp;
 Video or telephone calls may be recorded by the school for quality assurance
 purposes and are subject to strict official data protection protocols to
-safeguard student privacy.&nbsp; <u>Our school policy</u>  <u>prohibits unauthorised recordings</u> during
+safeguard student privacy.&nbsp; <strong><u>Our school policy</u> <u>prohibits unauthorised recordings</u> </strong>during
 meetings and calls, as personal recordings by external parties do not have
 the same safeguards in place and could severely compromise student privacy
 and safety.&nbsp;&nbsp;&nbsp;</p>
