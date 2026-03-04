@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Gan Eng Seng Primary School</strong></h4>
-<h4><strong><u>Acceptable Use Policy (AUP) for use of EdTech Resources</u></strong></h4>
+<h4><strong><u>School Policy on Unauthorised Recordings</u></strong></h4>
 <p>The school is committed to partner parents with sincerity, integrity and
 professionalism built firmly on the basis of mutual courtesy and respect.&nbsp;
 Video or telephone calls may be recorded by the school for quality assurance
