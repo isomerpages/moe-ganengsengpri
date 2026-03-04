@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Policy on Unauthorised Recordings.md
       - History.md
       - Crest & Song.md
       - Vision, Mission & Values.md
@@ -17,3 +16,4 @@ collections:
       - School Rules/Looking after the Environment.md
       - Acceptable Use Policy (AUP).md
       - Engagement Charter.md
+      - School Policy on Unauthorised Recordings.md
