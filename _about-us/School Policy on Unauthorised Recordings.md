@@ -4,4 +4,6 @@ permalink: /school-policy-on-unauthorised-recordings/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Gan Eng Seng Primary School</strong></h4>
+<h4><strong>Acceptable Use Policy (AUP) for use of EdTech Resources</strong></h4>
 <p></p>
