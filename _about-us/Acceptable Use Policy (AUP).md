@@ -4,7 +4,7 @@ permalink: /acceptable-use-policy-aup/
 variant: tiptap
 description: ""
 ---
-<h4><strong> Gan Eng Seng Primary School</strong></h4>
+<h4><strong>Gan Eng Seng Primary School</strong></h4>
 <h4><strong>Acceptable Use Policy (AUP) for use of EdTech Resources</strong></h4>
 <p><strong><u>Purpose of the Acceptable Use Policy (AUP)</u></strong>
 </p>
@@ -59,33 +59,40 @@ materials (e.g. pictures, videos, music).</p>
 or share digital files in an unauthorised or illegal manner.</p>
 <p><strong><u>Using Artificial Intelligence (AI)</u></strong>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You must ensure that you meet the minimum
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You may only use AI tools with your teacher’s
+guidance and supervision.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You must ensure that you meet the minimum
 age requirement specified in each AI tool's age restrictions before using
 it.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the use of AI is permitted, you should
-acknowledge the use of AI in weighted assessments and homework as required.</p>
-<p>10.&nbsp; You are to practice academic integrity and be responsible for
-your own learning when using AI. Understand that you are ultimately short-changing
-yourself if you pass off other’s work as your own.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When your teacher allows the use of AI,
+you must state when and how you used AI in your work.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI may help you, but the work must be
+your own. Always think and check before using AI’s answers.</p>
+<p>12.&nbsp; You must be cautious about sharing personal information when
+using AI tools.</p>
+<p>13.&nbsp; You must use AI responsibly. Do not use AI to harm yourself
+or others, or to do anything that may cause harm. If you misuse AI, it
+will lead to disciplinary action in accordance with the school’s discipline
+policy.</p>
 <p><strong><u>Staying Safe and Secure Online</u></strong>
 </p>
-<p>11.&nbsp; You should report any incidents (e.g. unusual device behaviour
+<p>14.&nbsp; You should report any incidents (e.g. unusual device behaviour
 or inappropriate use of devices), to the school.</p>
-<p>12.&nbsp; You are reminded to develop online safety habits. This includes
+<p>15.&nbsp; You are reminded to develop online safety habits. This includes
 not disclosing personal access credentials (e.g. MIMS password, PLD passcode,
 etc.), sensitive personal data (e.g. home address, passwords) online or
 on AI platforms, verifying credibility of online content before sharing,
 avoiding clicking on suspicious links or downloading unknown files, and
 being cautious when interacting with others online (e.g. on social media)
 by not engaging with strangers.</p>
-<p>13.&nbsp; You should exercise caution regarding the limitations of AI
+<p>16.&nbsp; You should exercise caution regarding the limitations of AI
 tools, including potential inaccuracies / fabricated responses, inherent
 biases and outdated information.</p>
 <p><strong><u>Digital Wellbeing and Balance</u></strong>
 </p>
-<p>14.&nbsp; You are reminded to balance screentime with other activities
+<p>17.&nbsp; You are reminded to balance screentime with other activities
 including physical exercise and face-to-face social interactions.</p>
-<p>15.&nbsp; You should avoid excessive use of devices outside learning hours.</p>
-<p>16.&nbsp; You should take regular breaks to rest your eyes and mind.</p>
-<p>17.&nbsp; You are reminded to practice good sleep hygiene by not using
+<p>18.&nbsp; You should avoid excessive use of devices outside learning hours.</p>
+<p>19.&nbsp; You should take regular breaks to rest your eyes and mind.</p>
+<p>20.&nbsp; You are reminded to practice good sleep hygiene by not using
 devices one hour before bedtime.</p>
