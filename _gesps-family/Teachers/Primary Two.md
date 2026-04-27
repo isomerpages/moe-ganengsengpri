@@ -23,4 +23,3 @@ variant: markdown
 **2 Empathy**
 *   Form Teacher: **[Mrs Kong Sim Guan](mailto:kong_sim_guan@schools.gov.sg)**
 *   Form Teacher: **[Mrs Tang Yue Xing](mailto:kwan_yue_xing@schools.gov.sg)**
-*    Form Teacher: **[Miss Nur Haslin Binte Hashim](mailto:)**
