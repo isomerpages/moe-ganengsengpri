@@ -60,7 +60,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "Star Campus<br> +65 8768 9011<br>Email: ganengsengscc@starcampus.org"
+      - other: "Star Campus<br> +65 8768 9011<br>Email: scpl.gesps@gmail.com"
     title: Student Care Centre
   - content:
       - phone: ""
