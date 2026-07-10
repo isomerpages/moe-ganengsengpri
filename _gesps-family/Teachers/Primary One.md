@@ -18,7 +18,6 @@ variant: markdown
 **1 Respect**  
 
 *   Form Teacher: **[Mrs Chin-Lee Siew Gin](mailto:chin-lee_siew_gin@schools.gov.sg)**
-*   Form Teacher: **[Mdm Clare Linda Chee](mailto:chee_lin_gia@schools.gov.sg)**
 *    Form Teacher: **[Mdm Nadiah](mailto:nadiah_sheik_allahuddin@schools.gov.sg)**
 
 **1 Empathy**
